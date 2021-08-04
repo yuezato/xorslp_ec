@@ -1,0 +1,62 @@
+< RS(8, 4) >
+Block size = 2048
+Benchmarking of Encoding & Decoding (with [2, 4, 5, 6])
+Encode: avg = 7094.302567217473 MB/s, sd = 215.54826629881285
+Decode: avg = 5514.569342964675 MB/s, sd = 206.01737858110175
+</ RS(8, 4) >
+
+< RS(9, 4) >
+Block size = 2048
+Benchmarking of Encoding & Decoding (with [2, 4, 5, 6])
+Encode: avg = 7226.766017596529 MB/s, sd = 213.69262080810233
+Decode: avg = 5773.025075537836 MB/s, sd = 177.262743591881
+</ RS(9, 4) >
+
+< RS(10, 4) >
+Block size = 2048
+Benchmarking of Encoding & Decoding (with [2, 4, 5, 6])
+Encode: avg = 7454.168844852269 MB/s, sd = 148.6807028832505
+Decode: avg = 5859.024827481953 MB/s, sd = 121.79685368076274
+</ RS(10, 4) >
+
+< RS(8, 3) >
+Block size = 2048
+Benchmarking of Encoding & Decoding (with [2, 4, 5])
+Encode: avg = 9351.32009576605 MB/s, sd = 175.624039059596
+Decode: avg = 7206.210419114845 MB/s, sd = 173.08530622596405
+</ RS(8, 3) >
+
+< RS(9, 3) >
+Block size = 2048
+Benchmarking of Encoding & Decoding (with [2, 4, 5])
+Encode: avg = 9418.888029838448 MB/s, sd = 172.36779035017793
+Decode: avg = 7113.488185566192 MB/s, sd = 119.77105517465628
+</ RS(9, 3) >
+
+< RS(10, 3) >
+Block size = 2048
+Benchmarking of Encoding & Decoding (with [2, 4, 5])
+Encode: avg = 9516.513496990561 MB/s, sd = 174.45115382801816
+Decode: avg = 7628.426815634767 MB/s, sd = 135.2118878785247
+</ RS(10, 3) >
+
+< RS(8, 2) >
+Block size = 2048
+Benchmarking of Encoding & Decoding (with [2, 4])
+Encode: avg = 13605.614621789484 MB/s, sd = 309.4724242017188
+Decode: avg = 11631.123961709434 MB/s, sd = 279.1509479078315
+</ RS(8, 2) >
+
+< RS(9, 2) >
+Block size = 2048
+Benchmarking of Encoding & Decoding (with [2, 4])
+Encode: avg = 13834.415178397652 MB/s, sd = 280.51017471833586
+Decode: avg = 11965.081136566332 MB/s, sd = 265.4266172072131
+</ RS(9, 2) >
+
+< RS(10, 2) >
+Block size = 2048
+Benchmarking of Encoding & Decoding (with [2, 4])
+Encode: avg = 14139.934403536246 MB/s, sd = 222.43053748634347
+Decode: avg = 12107.801493766312 MB/s, sd = 191.79632184586646
+</ RS(10, 2) >

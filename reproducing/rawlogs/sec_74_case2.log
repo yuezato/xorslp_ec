@@ -1,0 +1,104 @@
+<GREEDY SCHEDULING>
+<64block>
+Block size = 64
+Benchmarking of Encoding & Decoding (with [2, 4, 5, 6])
+Encode: avg = 1864.884708165573 MB/s, sd = 13.898244371062594
+Decode: avg = 1414.5655702903719 MB/s, sd = 9.040202750853227
+</64block>
+
+<128block>
+Block size = 128
+Benchmarking of Encoding & Decoding (with [2, 4, 5, 6])
+Encode: avg = 3240.5047932081734 MB/s, sd = 42.579799667804615
+Decode: avg = 2441.6742458862805 MB/s, sd = 28.00707227411196
+</128block>
+
+<256block>
+Block size = 256
+Benchmarking of Encoding & Decoding (with [2, 4, 5, 6])
+Encode: avg = 4368.277320300674 MB/s, sd = 68.85099110013265
+Decode: avg = 3388.4401052802996 MB/s, sd = 43.253774183084715
+</256block>
+
+<512block>
+Block size = 512
+Benchmarking of Encoding & Decoding (with [2, 4, 5, 6])
+Encode: avg = 4756.682293605464 MB/s, sd = 101.18056048096533
+Decode: avg = 3879.2627158803675 MB/s, sd = 80.12446970091874
+</512block>
+
+<1024block>
+Block size = 1024
+Benchmarking of Encoding & Decoding (with [2, 4, 5, 6])
+Encode: avg = 6080.911150518275 MB/s, sd = 285.76439668570885
+Decode: avg = 4874.563672460777 MB/s, sd = 271.09859734014924
+</1024block>
+
+<2048block>
+Block size = 2048
+Benchmarking of Encoding & Decoding (with [2, 4, 5, 6])
+Encode: avg = 7324.367591287606 MB/s, sd = 232.88196771396557
+Decode: avg = 5952.309662008322 MB/s, sd = 214.0713359830916
+</2048block>
+
+<4096block>
+Block size = 4096
+Benchmarking of Encoding & Decoding (with [2, 4, 5, 6])
+Encode: avg = 7150.641489732889 MB/s, sd = 264.73628149155576
+Decode: avg = 5594.74744982299 MB/s, sd = 200.9030167573105
+</4096block>
+
+</GREEDY SCHEDULING>
+
+
+<DFS SCHEDULING>
+<64block>
+Block size = 64
+Benchmarking of Encoding & Decoding (with [2, 4, 5, 6])
+Encode: avg = 1822.5128393680407 MB/s, sd = 15.665116468346374
+Decode: avg = 1387.8959310806974 MB/s, sd = 10.326443007764853
+</64block>
+
+<128block>
+Block size = 128
+Benchmarking of Encoding & Decoding (with [2, 4, 5, 6])
+Encode: avg = 3171.5723805959883 MB/s, sd = 44.636443220005056
+Decode: avg = 2406.2973704875576 MB/s, sd = 29.64637023587182
+</128block>
+
+<256block>
+Block size = 256
+Benchmarking of Encoding & Decoding (with [2, 4, 5, 6])
+Encode: avg = 4210.454700962282 MB/s, sd = 75.91975886455658
+Decode: avg = 3336.4445913305844 MB/s, sd = 57.226422639674404
+</256block>
+
+<512block>
+Block size = 512
+Benchmarking of Encoding & Decoding (with [2, 4, 5, 6])
+Encode: avg = 4806.409652270212 MB/s, sd = 124.54079671763776
+Decode: avg = 3897.1167643789577 MB/s, sd = 94.11564655269505
+</512block>
+
+<1024block>
+Block size = 1024
+Benchmarking of Encoding & Decoding (with [2, 4, 5, 6])
+Encode: avg = 6303.940871014297 MB/s, sd = 108.90119286250426
+Decode: avg = 5273.633442960744 MB/s, sd = 78.49903937494861
+</1024block>
+
+<2048block>
+Block size = 2048
+Benchmarking of Encoding & Decoding (with [2, 4, 5, 6])
+Encode: avg = 7583.143053767397 MB/s, sd = 183.3547637074179
+Decode: avg = 5989.144123381987 MB/s, sd = 132.5305530864934
+</2048block>
+
+<4096block>
+Block size = 4096
+Benchmarking of Encoding & Decoding (with [2, 4, 5, 6])
+Encode: avg = 7314.354357893883 MB/s, sd = 108.69803311786764
+Decode: avg = 5692.271572868123 MB/s, sd = 75.45188917253547
+</4096block>
+
+</DFS SCHEDULING>

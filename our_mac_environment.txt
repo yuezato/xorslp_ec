@@ -1,0 +1,218 @@
+# set -x
+# sw_vers
+# uname -a
+# system_profiler SPHardwareDataType
+# system_profiler SPStorageDataTyp
+# system_profiler SPNVMeDataType
+# system_profiler SPMemoryDataType
+# sysctl -a | grep machdep.cpu
+# sysctl -a | grep ^hw
+
++ sw_vers
+ProductName:	Mac OS X
+ProductVersion:	10.15.7
+BuildVersion:	19H524
++ uname -a
+Darwin yuezato.local 19.6.0 Darwin Kernel Version 19.6.0: Tue Jan 12 22:13:05 PST 2021; root:xnu-6153.141.16~1/RELEASE_X86_64 x86_64
++ system_profiler SPHardwareDataType
+Hardware:
+
+    Hardware Overview:
+
+      Model Name: MacBook Pro
+      Model Identifier: MacBookPro14,2
+      Processor Name: Dual-Core Intel Core i7
+      Processor Speed: 3.5 GHz
+      Number of Processors: 1
+      Total Number of Cores: 2
+      L2 Cache (per Core): 256 KB
+      L3 Cache: 4 MB
+      Hyper-Threading Technology: Enabled
+      Memory: 16 GB
+      Boot ROM Version: 429.80.1.0.0
+      SMC Version (system): 2.44f6
+      Serial Number (system): C02WC3F0HV2Q
+      Hardware UUID: E02B486C-DB83-56AF-8014-558B36E13A21
+
++ system_profiler SPStorageDataTyp
++ system_profiler SPNVMeDataType
+NVMExpress:
+
+    Apple SSD Controller:
+
+        APPLE SSD AP0256J:
+
+          Capacity: 251 GB (251,000,193,024 bytes)
+          TRIM Support: Yes
+          Model: APPLE SSD AP0256J
+          Revision: 16.14.01
+          Serial Number: C02809500T3HRT61L
+          Link Width: x4
+          Link Speed: 8.0 GT/s
+          Detachable Drive: No
+          BSD Name: disk0
+          Partition Map Type: GPT (GUID Partition Table)
+          Removable Media: No
+          S.M.A.R.T. status: Verified
+          Volumes:
+            EFI:
+              Capacity: 314.6 MB (314,572,800 bytes)
+              File System: MS-DOS FAT32
+              BSD Name: disk0s1
+              Content: EFI
+              Volume UUID: E783267B-A4C3-3556-B751-DBED770EB996
+            disk0s2:
+              Capacity: 250.69 GB (250,685,575,168 bytes)
+              BSD Name: disk0s2
+              Content: Apple_APFS
+
++ system_profiler SPMemoryDataType
+Memory:
+
+    Memory Slots:
+
+      ECC: Disabled
+      Upgradeable Memory: No
+
+        BANK 0/DIMM0:
+
+          Size: 8 GB
+          Type: LPDDR3
+          Speed: 2133 MHz
+          Status: OK
+          Manufacturer: 0x802C
+          Part Number: 0x4D5435324C31473332443450472D30393320
+          Serial Number: -
+
+        BANK 1/DIMM0:
+
+          Size: 8 GB
+          Type: LPDDR3
+          Speed: 2133 MHz
+          Status: OK
+          Manufacturer: 0x802C
+          Part Number: 0x4D5435324C31473332443450472D30393320
+          Serial Number: -
+
++ grep machdep.cpu
++ sysctl -a
+machdep.cpu.max_basic: 22
+machdep.cpu.max_ext: 2147483656
+machdep.cpu.vendor: GenuineIntel
+machdep.cpu.brand_string: Intel(R) Core(TM) i7-7567U CPU @ 3.50GHz
+machdep.cpu.family: 6
+machdep.cpu.model: 142
+machdep.cpu.extmodel: 8
+machdep.cpu.extfamily: 0
+machdep.cpu.stepping: 9
+machdep.cpu.feature_bits: 9221959987971750911
+machdep.cpu.leaf7_feature_bits: 43804591 0
+machdep.cpu.leaf7_feature_bits_edx: 2617255424
+machdep.cpu.extfeature_bits: 1241984796928
+machdep.cpu.signature: 526057
+machdep.cpu.brand: 0
+machdep.cpu.features: FPU VME DE PSE TSC MSR PAE MCE CX8 APIC SEP MTRR PGE MCA CMOV PAT PSE36 CLFSH DS ACPI MMX FXSR SSE SSE2 SS HTT TM PBE SSE3 PCLMULQDQ DTES64 MON DSCPL VMX EST TM2 SSSE3 FMA CX16 TPR PDCM SSE4.1 SSE4.2 x2APIC MOVBE POPCNT AES PCID XSAVE OSXSAVE SEGLIM64 TSCTMR AVX1.0 RDRAND F16C
+machdep.cpu.leaf7_features: RDWRFSGS TSC_THREAD_OFFSET SGX BMI1 AVX2 SMEP BMI2 ERMS INVPCID FPU_CSDS MPX RDSEED ADX SMAP CLFSOPT IPT MDCLEAR TSXFA IBRS STIBP L1DF SSBD
+machdep.cpu.extfeatures: SYSCALL XD 1GBPAGE EM64T LAHF LZCNT PREFETCHW RDTSCP TSCI
+machdep.cpu.logical_per_package: 16
+machdep.cpu.cores_per_package: 8
+machdep.cpu.microcode_version: 222
+machdep.cpu.processor_flag: 6
+machdep.cpu.mwait.linesize_min: 64
+machdep.cpu.mwait.linesize_max: 64
+machdep.cpu.mwait.extensions: 3
+machdep.cpu.mwait.sub_Cstates: 286531872
+machdep.cpu.thermal.sensor: 1
+machdep.cpu.thermal.dynamic_acceleration: 1
+machdep.cpu.thermal.invariant_APIC_timer: 1
+machdep.cpu.thermal.thresholds: 2
+machdep.cpu.thermal.ACNT_MCNT: 1
+machdep.cpu.thermal.core_power_limits: 1
+machdep.cpu.thermal.fine_grain_clock_mod: 1
+machdep.cpu.thermal.package_thermal_intr: 1
+machdep.cpu.thermal.hardware_feedback: 0
+machdep.cpu.thermal.energy_policy: 1
+machdep.cpu.xsave.extended_state: 31 832 1088 0
+machdep.cpu.xsave.extended_state1: 15 832 256 0
+machdep.cpu.arch_perf.version: 4
+machdep.cpu.arch_perf.number: 4
+machdep.cpu.arch_perf.width: 48
+machdep.cpu.arch_perf.events_number: 7
+machdep.cpu.arch_perf.events: 0
+machdep.cpu.arch_perf.fixed_number: 3
+machdep.cpu.arch_perf.fixed_width: 48
+machdep.cpu.cache.linesize: 64
+machdep.cpu.cache.L2_associativity: 4
+machdep.cpu.cache.size: 256
+machdep.cpu.tlb.inst.large: 8
+machdep.cpu.tlb.data.small: 64
+machdep.cpu.tlb.data.small_level1: 64
+machdep.cpu.address_bits.physical: 39
+machdep.cpu.address_bits.virtual: 48
+machdep.cpu.core_count: 2
+machdep.cpu.thread_count: 4
+machdep.cpu.tsc_ccc.numerator: 292
+machdep.cpu.tsc_ccc.denominator: 2
++ sysctl -a
++ grep '^hw'
+hw.ncpu: 4
+hw.byteorder: 1234
+hw.memsize: 17179869184
+hw.activecpu: 4
+hw.physicalcpu: 2
+hw.physicalcpu_max: 2
+hw.logicalcpu: 4
+hw.logicalcpu_max: 4
+hw.cputype: 7
+hw.cpusubtype: 8
+hw.cpu64bit_capable: 1
+hw.cpufamily: 260141638
+hw.cacheconfig: 4 2 2 4 0 0 0 0 0 0
+hw.cachesize: 17179869184 32768 262144 4194304 0 0 0 0 0 0
+hw.pagesize: 4096
+hw.pagesize32: 4096
+hw.busfrequency: 100000000
+hw.busfrequency_min: 100000000
+hw.busfrequency_max: 100000000
+hw.cpufrequency: 3500000000
+hw.cpufrequency_min: 3500000000
+hw.cpufrequency_max: 3500000000
+hw.cachelinesize: 64
+hw.l1icachesize: 32768
+hw.l1dcachesize: 32768
+hw.l2cachesize: 262144
+hw.l3cachesize: 4194304
+hw.tbfrequency: 1000000000
+hw.packages: 1
+hw.optional.floatingpoint: 1
+hw.optional.mmx: 1
+hw.optional.sse: 1
+hw.optional.sse2: 1
+hw.optional.sse3: 1
+hw.optional.supplementalsse3: 1
+hw.optional.sse4_1: 1
+hw.optional.sse4_2: 1
+hw.optional.x86_64: 1
+hw.optional.aes: 1
+hw.optional.avx1_0: 1
+hw.optional.rdrand: 1
+hw.optional.f16c: 1
+hw.optional.enfstrg: 1
+hw.optional.fma: 1
+hw.optional.avx2_0: 1
+hw.optional.bmi1: 1
+hw.optional.bmi2: 1
+hw.optional.rtm: 0
+hw.optional.hle: 0
+hw.optional.adx: 1
+hw.optional.mpx: 0
+hw.optional.sgx: 0
+hw.optional.avx512f: 0
+hw.optional.avx512cd: 0
+hw.optional.avx512dq: 0
+hw.optional.avx512bw: 0
+hw.optional.avx512vl: 0
+hw.optional.avx512ifma: 0
+hw.optional.avx512vbmi: 0
+hw.targettype: Mac
+hw.cputhreadtype: 1

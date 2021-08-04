@@ -1,0 +1,645 @@
+=================================
+# Output Section for Mac
+=================================
+# set -x
+# sw_vers
+# uname -a
+# system_profiler SPHardwareDataType
+# system_profiler SPStorageDataTyp
+# system_profiler SPNVMeDataType
+# system_profiler SPMemoryDataType
+# sysctl -a | grep machdep.cpu
+# sysctl -a | grep ^hw
+
++ sw_vers
+ProductName:	Mac OS X
+ProductVersion:	10.15.7
+BuildVersion:	19H524
++ uname -a
+Darwin yuezato.local 19.6.0 Darwin Kernel Version 19.6.0: Tue Jan 12 22:13:05 PST 2021; root:xnu-6153.141.16~1/RELEASE_X86_64 x86_64
++ system_profiler SPHardwareDataType
+Hardware:
+
+    Hardware Overview:
+
+      Model Name: MacBook Pro
+      Model Identifier: MacBookPro14,2
+      Processor Name: Dual-Core Intel Core i7
+      Processor Speed: 3.5 GHz
+      Number of Processors: 1
+      Total Number of Cores: 2
+      L2 Cache (per Core): 256 KB
+      L3 Cache: 4 MB
+      Hyper-Threading Technology: Enabled
+      Memory: 16 GB
+      Boot ROM Version: 429.80.1.0.0
+      SMC Version (system): 2.44f6
+      Serial Number (system): C02WC3F0HV2Q
+      Hardware UUID: E02B486C-DB83-56AF-8014-558B36E13A21
+
++ system_profiler SPStorageDataTyp
++ system_profiler SPNVMeDataType
+NVMExpress:
+
+    Apple SSD Controller:
+
+        APPLE SSD AP0256J:
+
+          Capacity: 251 GB (251,000,193,024 bytes)
+          TRIM Support: Yes
+          Model: APPLE SSD AP0256J
+          Revision: 16.14.01
+          Serial Number: C02809500T3HRT61L
+          Link Width: x4
+          Link Speed: 8.0 GT/s
+          Detachable Drive: No
+          BSD Name: disk0
+          Partition Map Type: GPT (GUID Partition Table)
+          Removable Media: No
+          S.M.A.R.T. status: Verified
+          Volumes:
+            EFI:
+              Capacity: 314.6 MB (314,572,800 bytes)
+              File System: MS-DOS FAT32
+              BSD Name: disk0s1
+              Content: EFI
+              Volume UUID: E783267B-A4C3-3556-B751-DBED770EB996
+            disk0s2:
+              Capacity: 250.69 GB (250,685,575,168 bytes)
+              BSD Name: disk0s2
+              Content: Apple_APFS
+
++ system_profiler SPMemoryDataType
+Memory:
+
+    Memory Slots:
+
+      ECC: Disabled
+      Upgradeable Memory: No
+
+        BANK 0/DIMM0:
+
+          Size: 8 GB
+          Type: LPDDR3
+          Speed: 2133 MHz
+          Status: OK
+          Manufacturer: 0x802C
+          Part Number: 0x4D5435324C31473332443450472D30393320
+          Serial Number: -
+
+        BANK 1/DIMM0:
+
+          Size: 8 GB
+          Type: LPDDR3
+          Speed: 2133 MHz
+          Status: OK
+          Manufacturer: 0x802C
+          Part Number: 0x4D5435324C31473332443450472D30393320
+          Serial Number: -
+
++ grep machdep.cpu
++ sysctl -a
+machdep.cpu.max_basic: 22
+machdep.cpu.max_ext: 2147483656
+machdep.cpu.vendor: GenuineIntel
+machdep.cpu.brand_string: Intel(R) Core(TM) i7-7567U CPU @ 3.50GHz
+machdep.cpu.family: 6
+machdep.cpu.model: 142
+machdep.cpu.extmodel: 8
+machdep.cpu.extfamily: 0
+machdep.cpu.stepping: 9
+machdep.cpu.feature_bits: 9221959987971750911
+machdep.cpu.leaf7_feature_bits: 43804591 0
+machdep.cpu.leaf7_feature_bits_edx: 2617255424
+machdep.cpu.extfeature_bits: 1241984796928
+machdep.cpu.signature: 526057
+machdep.cpu.brand: 0
+machdep.cpu.features: FPU VME DE PSE TSC MSR PAE MCE CX8 APIC SEP MTRR PGE MCA CMOV PAT PSE36 CLFSH DS ACPI MMX FXSR SSE SSE2 SS HTT TM PBE SSE3 PCLMULQDQ DTES64 MON DSCPL VMX EST TM2 SSSE3 FMA CX16 TPR PDCM SSE4.1 SSE4.2 x2APIC MOVBE POPCNT AES PCID XSAVE OSXSAVE SEGLIM64 TSCTMR AVX1.0 RDRAND F16C
+machdep.cpu.leaf7_features: RDWRFSGS TSC_THREAD_OFFSET SGX BMI1 AVX2 SMEP BMI2 ERMS INVPCID FPU_CSDS MPX RDSEED ADX SMAP CLFSOPT IPT MDCLEAR TSXFA IBRS STIBP L1DF SSBD
+machdep.cpu.extfeatures: SYSCALL XD 1GBPAGE EM64T LAHF LZCNT PREFETCHW RDTSCP TSCI
+machdep.cpu.logical_per_package: 16
+machdep.cpu.cores_per_package: 8
+machdep.cpu.microcode_version: 222
+machdep.cpu.processor_flag: 6
+machdep.cpu.mwait.linesize_min: 64
+machdep.cpu.mwait.linesize_max: 64
+machdep.cpu.mwait.extensions: 3
+machdep.cpu.mwait.sub_Cstates: 286531872
+machdep.cpu.thermal.sensor: 1
+machdep.cpu.thermal.dynamic_acceleration: 1
+machdep.cpu.thermal.invariant_APIC_timer: 1
+machdep.cpu.thermal.thresholds: 2
+machdep.cpu.thermal.ACNT_MCNT: 1
+machdep.cpu.thermal.core_power_limits: 1
+machdep.cpu.thermal.fine_grain_clock_mod: 1
+machdep.cpu.thermal.package_thermal_intr: 1
+machdep.cpu.thermal.hardware_feedback: 0
+machdep.cpu.thermal.energy_policy: 1
+machdep.cpu.xsave.extended_state: 31 832 1088 0
+machdep.cpu.xsave.extended_state1: 15 832 256 0
+machdep.cpu.arch_perf.version: 4
+machdep.cpu.arch_perf.number: 4
+machdep.cpu.arch_perf.width: 48
+machdep.cpu.arch_perf.events_number: 7
+machdep.cpu.arch_perf.events: 0
+machdep.cpu.arch_perf.fixed_number: 3
+machdep.cpu.arch_perf.fixed_width: 48
+machdep.cpu.cache.linesize: 64
+machdep.cpu.cache.L2_associativity: 4
+machdep.cpu.cache.size: 256
+machdep.cpu.tlb.inst.large: 8
+machdep.cpu.tlb.data.small: 64
+machdep.cpu.tlb.data.small_level1: 64
+machdep.cpu.address_bits.physical: 39
+machdep.cpu.address_bits.virtual: 48
+machdep.cpu.core_count: 2
+machdep.cpu.thread_count: 4
+machdep.cpu.tsc_ccc.numerator: 292
+machdep.cpu.tsc_ccc.denominator: 2
++ sysctl -a
++ grep '^hw'
+hw.ncpu: 4
+hw.byteorder: 1234
+hw.memsize: 17179869184
+hw.activecpu: 4
+hw.physicalcpu: 2
+hw.physicalcpu_max: 2
+hw.logicalcpu: 4
+hw.logicalcpu_max: 4
+hw.cputype: 7
+hw.cpusubtype: 8
+hw.cpu64bit_capable: 1
+hw.cpufamily: 260141638
+hw.cacheconfig: 4 2 2 4 0 0 0 0 0 0
+hw.cachesize: 17179869184 32768 262144 4194304 0 0 0 0 0 0
+hw.pagesize: 4096
+hw.pagesize32: 4096
+hw.busfrequency: 100000000
+hw.busfrequency_min: 100000000
+hw.busfrequency_max: 100000000
+hw.cpufrequency: 3500000000
+hw.cpufrequency_min: 3500000000
+hw.cpufrequency_max: 3500000000
+hw.cachelinesize: 64
+hw.l1icachesize: 32768
+hw.l1dcachesize: 32768
+hw.l2cachesize: 262144
+hw.l3cachesize: 4194304
+hw.tbfrequency: 1000000000
+hw.packages: 1
+hw.optional.floatingpoint: 1
+hw.optional.mmx: 1
+hw.optional.sse: 1
+hw.optional.sse2: 1
+hw.optional.sse3: 1
+hw.optional.supplementalsse3: 1
+hw.optional.sse4_1: 1
+hw.optional.sse4_2: 1
+hw.optional.x86_64: 1
+hw.optional.aes: 1
+hw.optional.avx1_0: 1
+hw.optional.rdrand: 1
+hw.optional.f16c: 1
+hw.optional.enfstrg: 1
+hw.optional.fma: 1
+hw.optional.avx2_0: 1
+hw.optional.bmi1: 1
+hw.optional.bmi2: 1
+hw.optional.rtm: 0
+hw.optional.hle: 0
+hw.optional.adx: 1
+hw.optional.mpx: 0
+hw.optional.sgx: 0
+hw.optional.avx512f: 0
+hw.optional.avx512cd: 0
+hw.optional.avx512dq: 0
+hw.optional.avx512bw: 0
+hw.optional.avx512vl: 0
+hw.optional.avx512ifma: 0
+hw.optional.avx512vbmi: 0
+hw.targettype: Mac
+hw.cputhreadtype: 1
+
+
+
+
+=================================
+# Output Section for PC with AMD CPU
+=================================
+# env | sed "s/$USER/USER/g"
+# set -x
+# lsb_release -a
+# uname -a
+# lscpu || cat /proc/cpuinfo
+# cat /proc/meminfo
+# inxi -F -c0
+# lsblk -a
+# lsscsi -s
+# (lshw -short -quiet -sanitize || lspci) | cat
+# dmidecode -t memory
+
+SHELL=/bin/zsh
+SUDO_GID=1000
+SUDO_COMMAND=/usr/bin/sh /tmp/collect.sh
+SUDO_USER=USER
+PWD=/home/USER
+LOGNAME=USER
+HOME=/USER
+LANG=en_US.UTF8
+LS_COLORS=rs=0:di=01;44:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:
+TERM=xterm-256color
+USER=USER
+SHLVL=0
+PATH=/home/USER/.cargo/bin:/home/USER/.bin:/home/USER/.cabal/bin:/home/USER/arm-newlib/bin:/home/USER/.cargo/bin:/opt/google-cloud-sdk/bin:/usr/bin:/usr/local/sbin:/usr/local/bin:/usr/lib/jvm/default/bin:/home/USER/.local/bin:/home/USER/.gem/ruby/2.0.0/bin:/opt/or1k-toolchain/bin:/home/USER/src/verilog/orpsocv2/sw/utils:/home/USER/build/go/bin:/home/USER/.gem/ruby/2.2.0/bin
+SUDO_UID=1000
+MAIL=/var/mail/USER
+_=/usr/bin/env
+
+% lsb_release -a
+LSB Version:    1.4
+Distributor ID: Arch
+Description:    Arch Linux
+Release:        rolling
+Codename:       n/a
+
++ uname -a
+Linux archlinux 5.10.4-arch2-1-custom #1 SMP PREEMPT Wed, 06 Jan 2021 20:25:26 +0000 x86_64 GNU/Linux
+
++ lscpu
+Architecture:                    x86_64
+CPU op-mode(s):                  32-bit, 64-bit
+Byte Order:                      Little Endian
+Address sizes:                   43 bits physical, 48 bits virtual
+CPU(s):                          12
+On-line CPU(s) list:             0-11
+Thread(s) per core:              2
+Core(s) per socket:              6
+Socket(s):                       1
+NUMA node(s):                    1
+Vendor ID:                       AuthenticAMD
+CPU family:                      23
+Model:                           8
+Model name:                      AMD Ryzen 5 2600 Six-Core Processor
+Stepping:                        2
+Frequency boost:                 enabled
+CPU MHz:                         2504.624
+CPU max MHz:                     3400.0000
+CPU min MHz:                     1550.0000
+BogoMIPS:                        6789.32
+Virtualization:                  AMD-V
+L1d cache:                       192 KiB
+L1i cache:                       384 KiB
+L2 cache:                        3 MiB
+L3 cache:                        16 MiB
+NUMA node0 CPU(s):               0-11
+Vulnerability Itlb multihit:     Not affected
+Vulnerability L1tf:              Not affected
+Vulnerability Mds:               Not affected
+Vulnerability Meltdown:          Not affected
+Vulnerability Spec store bypass: Mitigation; Speculative Store Bypass disabled via prctl and seccomp
+Vulnerability Spectre v1:        Mitigation; usercopy/swapgs barriers and __user pointer sanitization
+Vulnerability Spectre v2:        Mitigation; Full AMD retpoline, IBPB conditional, STIBP disabled, RSB filling
+Vulnerability Srbds:             Not affected
+Vulnerability Tsx async abort:   Not affected
+Flags:                           fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good
+                                  nopl nonstop_tsc cpuid extd_apicid aperfmperf pni pclmulqdq monitor ssse3 fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand lahf_lm cmp_legacy svm extapic
+                                  cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw skinit wdt tce topoext perfctr_core perfctr_nb bpext perfctr_llc mwaitx cpb hw_pstate sme ssbd sev ibpb vmmcall se
+                                 v_es fsgsbase bmi1 avx2 smep bmi2 rdseed adx smap clflushopt sha_ni xsaveopt xsavec xgetbv1 xsaves clzero irperf xsaveerptr arat npt lbrv svm_lock nrip_save tsc_scale
+                                 vmcb_clean flushbyasid decodeassists pausefilter pfthreshold avic v_vmsave_vmload vgif overflow_recov succor smca
+
++ cat /proc/meminfo
+MemTotal:       49270588 kB
+MemFree:        46200404 kB
+MemAvailable:   48194896 kB
+Buffers:          155288 kB
+Cached:          2217640 kB
+SwapCached:            0 kB
+Active:          1145116 kB
+Inactive:        1347620 kB
+Active(anon):       4108 kB
+Inactive(anon):   121040 kB
+Active(file):    1141008 kB
+Inactive(file):  1226580 kB
+Unevictable:           0 kB
+Mlocked:               0 kB
+SwapTotal:             0 kB
+SwapFree:              0 kB
+Dirty:               516 kB
+Writeback:             0 kB
+AnonPages:        119844 kB
+Mapped:           153544 kB
+Shmem:              5344 kB
+KReclaimable:     208472 kB
+Slab:             275672 kB
+SReclaimable:     208472 kB
+SUnreclaim:        67200 kB
+KernelStack:        5984 kB
+PageTables:         3476 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:    24635292 kB
+Committed_AS:     947732 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:       28024 kB
+VmallocChunk:          0 kB
+Percpu:            22144 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:         0 kB
+ShmemHugePages:        0 kB
+ShmemPmdMapped:        0 kB
+FileHugePages:         0 kB
+FilePmdMapped:         0 kB
+CmaTotal:              0 kB
+CmaFree:               0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+Hugetlb:               0 kB
+DirectMap4k:      370576 kB
+DirectMap2M:     6899712 kB
+DirectMap1G:    44040192 kB
+
++ inxi -F -c0
+System:    Host: archlinux Kernel: 5.10.4-arch2-1-custom x86_64 bits: 64 Console: tty pts/0 Distro: Arch Linux
+Machine:   Type: Desktop Mobo: ASRock model: B450 Pro4 serial: M80-BA010000607 UEFI-[Legacy]: American Megatrends v: P3.50
+           date: 07/18/2019
+CPU:       Info: 6-Core model: AMD Ryzen 5 2600 bits: 64 type: MT MCP cache: L2: 3 MiB
+           Speed: 1377 MHz min/max: 1550/3400 MHz Core speeds (MHz): 1: 1377 2: 1377 3: 1383 4: 1476 5: 1544 6: 1440 7: 1459
+           8: 1376 9: 1487 10: 1387 11: 1502 12: 1379
+Graphics:  Device-1: Advanced Micro Devices [AMD/ATI] Baffin [Radeon RX 550 640SP / RX 560/560X] driver: amdgpu v: kernel
+           Display: server: X.org 1.20.11 driver: loaded: amdgpu unloaded: modesetting tty: 200x59
+           Message: Unable to show advanced data. Required tool glxinfo missing.
+Audio:     Device-1: AMD Baffin HDMI/DP Audio [Radeon RX 550 640SP / RX 560/560X] driver: snd_hda_intel
+           Device-2: Advanced Micro Devices [AMD] Family 17h HD Audio driver: snd_hda_intel
+           Sound Server-1: ALSA v: k5.10.4-arch2-1-custom running: yes
+           Sound Server-2: PulseAudio v: 14.2 running: yes
+Network:   Device-1: Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet driver: r8169
+           IF: enp9s0 state: up speed: 1000 Mbps duplex: full mac: 70:85:c2:ad:12:e3
+           IF-ID-1: docker0 state: down mac: 02:42:1b:a3:6d:09
+           IF-ID-2: vpn_wordnet state: unknown speed: 10 Mbps duplex: full mac: 5e:ac:5a:2a:ba:db
+Drives:    Local Storage: total: 1.6 TiB used: 581.22 GiB (35.5%)
+           ID-1: /dev/nvme0n1 vendor: Samsung model: SSD 970 EVO 500GB size: 465.76 GiB
+           ID-2: /dev/nvme1n1 vendor: Western Digital model: WDS100T2B0C-00PXH0 size: 931.51 GiB
+           ID-3: /dev/sda type: USB model: SATA SSD size: 238.47 GiB
+Partition: ID-1: / size: 465.53 GiB used: 112.5 GiB (24.2%) fs: xfs dev: /dev/nvme0n1p1
+           ID-2: /home size: 915.89 GiB used: 459.59 GiB (50.2%) fs: ext4 dev: /dev/nvme1n1p1
+Swap:      Alert: No swap data was found.
+Sensors:   System Temperatures: cpu: 43.4 C mobo: 33.0 C gpu: amdgpu temp: 34.0 C
+           Fan Speeds (RPM): fan-1: 0 fan-2: 0 fan-3: 780 fan-4: 1804 fan-5: 0 gpu: amdgpu fan: 1053
+Info:      Processes: 267 Uptime: 1d 5h 58m Memory: 46.99 GiB used: 1.07 GiB (2.3%) Init: systemd Shell: Zsh inxi: 3.3.04
+
+
++ lsblk -a
+NAME        MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda           8:0    0 238.5G  0 disk
+├─sda1        8:1    0   512M  0 part
+└─sda2        8:2    0   238G  0 part /mnt
+nvme1n1     259:0    0 931.5G  0 disk
+└─nvme1n1p1 259:1    0 931.5G  0 part /home
+nvme0n1     259:2    0 465.8G  0 disk
+└─nvme0n1p1 259:3    0 465.8G  0 part /
+
++ lsscsi -s
+[11:0:0:0]   disk    BUFFALO  SSD-PGU3-A       0000  /dev/sda    256GB
+[N:0:4:1]    disk    Samsung SSD 970 EVO 500GB__1               /dev/nvme0n1   500GB
+[N:1:1:1]    disk    WDC WDS100T2B0C-00PXH0__1                  /dev/nvme1n1  1.00TB
+
+
++ lshw -short -quiet -sanitize
++ cat
+H/W path                Device          Class          Description
+==================================================================
+                                        system         To Be Filled By O.E.M. (To Be Filled By O.E.M.)
+/0                                      bus            B450 Pro4
+/0/0                                    memory         64KiB BIOS
+/0/e                                    memory         48GiB System Memory
+/0/e/0                                  memory         16GiB DIMM DDR4 Synchronous Unbuffered (Unregistered) 2667 MHz (0.4 ns)
+/0/e/1                                  memory         16GiB DIMM DDR4 Synchronous Unbuffered (Unregistered) 2667 MHz (0.4 ns)
+/0/e/2                                  memory         8GiB DIMM DDR4 Synchronous Unbuffered (Unregistered) 2667 MHz (0.4 ns)
+/0/e/3                                  memory         8GiB DIMM DDR4 Synchronous Unbuffered (Unregistered) 2667 MHz (0.4 ns)
+/0/10                                   memory         576KiB L1 cache
+/0/11                                   memory         3MiB L2 cache
+/0/12                                   memory         16MiB L3 cache
+/0/13                                   processor      AMD Ryzen 5 2600 Six-Core Processor
+/0/171219                               generic
+/0/100                                  bridge         Family 17h (Models 00h-0fh) Root Complex
+/0/100/1.1                              bridge         Family 17h (Models 00h-0fh) PCIe GPP Bridge
+/0/100/1.1/0            /dev/nvme0      storage        Samsung SSD 970 EVO 500GB
+/0/100/1.1/0/1          /dev/nvme0n1    disk           500GB NVMe disk
+/0/100/1.1/0/1/1        /dev/nvme0n1p1  volume         465GiB Linux filesystem partition
+/0/100/1.3                              bridge         Family 17h (Models 00h-0fh) PCIe GPP Bridge
+/0/100/1.3/0                            bus            400 Series Chipset USB 3.1 XHCI Controller
+/0/100/1.3/0/0          usb1            bus            xHCI Host Controller
+/0/100/1.3/0/0/7                        input          USB Keyboard
+/0/100/1.3/0/1          usb2            bus            xHCI Host Controller
+/0/100/1.3/0.1                          storage        400 Series Chipset SATA Controller
+/0/100/1.3/0.2                          bridge         400 Series Chipset PCIe Bridge
+/0/100/1.3/0.2/0                        bridge         400 Series Chipset PCIe Port
+/0/100/1.3/0.2/1                        bridge         400 Series Chipset PCIe Port
+/0/100/1.3/0.2/4                        bridge         400 Series Chipset PCIe Port
+/0/100/1.3/0.2/5                        bridge         400 Series Chipset PCIe Port
+/0/100/1.3/0.2/6                        bridge         400 Series Chipset PCIe Port
+/0/100/1.3/0.2/6/0                      storage        ASM1062 Serial ATA Controller
+/0/100/1.3/0.2/7                        bridge         400 Series Chipset PCIe Port
+/0/100/1.3/0.2/7/0      enp9s0          network        RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller
+/0/100/1.3/0.2/8                        bridge         400 Series Chipset PCIe Port
+/0/100/1.3/0.2/8/0      /dev/nvme1      storage        WDC WDS100T2B0C-00PXH0
+/0/100/1.3/0.2/8/0/1    /dev/nvme1n1    disk           1TB NVMe disk
+/0/100/1.3/0.2/8/0/1/1  /dev/nvme1n1p1  volume         931GiB EXT4 volume
+/0/100/3.1                              bridge         Family 17h (Models 00h-0fh) PCIe GPP Bridge
+/0/100/3.1/0                            display        Baffin [Radeon RX 550 640SP / RX 560/560X]
+/0/100/3.1/0.1                          multimedia     Baffin HDMI/DP Audio [Radeon RX 550 640SP / RX 560/560X]
+/0/100/7.1                              bridge         Family 17h (Models 00h-0fh) Internal PCIe GPP Bridge 0 to Bus B
+/0/100/7.1/0                            generic        Zeppelin/Raven/Raven2 PCIe Dummy Function
+/0/100/7.1/0.2                          generic        Family 17h (Models 00h-0fh) Platform Security Processor
+/0/100/7.1/0.3                          bus            Zeppelin USB 3.0 Host controller
+/0/100/7.1/0.3/0        usb3            bus            xHCI Host Controller
+/0/100/7.1/0.3/0/1                      bus            USB hub
+/0/100/7.1/0.3/0/1/3                    input          EIZO USB HID Monitor
+/0/100/7.1/0.3/1        usb4            bus            xHCI Host Controller
+/0/100/7.1/0.3/1/1                      bus            USB hub
+/0/100/7.1/0.3/1/4                      storage        SSD-PGU3-A
+/0/100/8.1                              bridge         Family 17h (Models 00h-0fh) Internal PCIe GPP Bridge 0 to Bus B
+/0/100/8.1/0                            generic        Zeppelin/Renoir PCIe Dummy Function
+/0/100/8.1/0.2                          storage        FCH SATA Controller [AHCI mode]
+/0/100/8.1/0.3                          multimedia     Family 17h (Models 00h-0fh) HD Audio Controller
+/0/100/14                               bus            FCH SMBus Controller
+/0/100/14.3                             bridge         FCH LPC Bridge
+/0/101                                  bridge         Family 17h (Models 00h-1fh) PCIe Dummy Host Bridge
+/0/102                                  bridge         Family 17h (Models 00h-1fh) PCIe Dummy Host Bridge
+/0/103                                  bridge         Family 17h (Models 00h-1fh) PCIe Dummy Host Bridge
+/0/104                                  bridge         Family 17h (Models 00h-1fh) PCIe Dummy Host Bridge
+/0/105                                  bridge         Family 17h (Models 00h-1fh) PCIe Dummy Host Bridge
+/0/106                                  bridge         Family 17h (Models 00h-1fh) PCIe Dummy Host Bridge
+/0/107                                  bridge         Family 17h (Models 00h-0fh) Data Fabric: Device 18h; Function 0
+/0/108                                  bridge         Family 17h (Models 00h-0fh) Data Fabric: Device 18h; Function 1
+/0/109                                  bridge         Family 17h (Models 00h-0fh) Data Fabric: Device 18h; Function 2
+/0/10a                                  bridge         Family 17h (Models 00h-0fh) Data Fabric: Device 18h; Function 3
+/0/10b                                  bridge         Family 17h (Models 00h-0fh) Data Fabric: Device 18h; Function 4
+/0/10c                                  bridge         Family 17h (Models 00h-0fh) Data Fabric: Device 18h; Function 5
+/0/10d                                  bridge         Family 17h (Models 00h-0fh) Data Fabric: Device 18h; Function 6
+/0/10e                                  bridge         Family 17h (Models 00h-0fh) Data Fabric: Device 18h; Function 7
+/0/1                                    system         System Board
+/0/2                                    system         Motherboard registers
+/0/3                                    system         AT Real-Time Clock
+/0/4                                    system         Motherboard registers
+/0/5                                    communication  16550A-compatible COM port
+/0/6                                    system         Motherboard registers
+/1                      scsi11          storage
+
++ dmidecode -t memory
+# dmidecode 3.3
+Getting SMBIOS data from sysfs.
+SMBIOS 3.2.1 present.
+
+Handle 0x000E, DMI type 16, 23 bytes
+Physical Memory Array
+        Location: System Board Or Motherboard
+        Use: System Memory
+        Error Correction Type: None
+        Maximum Capacity: 128 GB
+        Error Information Handle: 0x000D
+        Number Of Devices: 4
+
+Handle 0x0015, DMI type 17, 84 bytes
+Memory Device
+        Array Handle: 0x000E
+        Error Information Handle: 0x0014
+        Total Width: 64 bits
+        Data Width: 64 bits
+        Size: 16 GB
+        Form Factor: DIMM
+        Set: None
+        Locator: DIMM 0
+        Bank Locator: P0 CHANNEL A
+        Type: DDR4
+        Type Detail: Synchronous Unbuffered (Unregistered)
+        Speed: 2667 MT/s
+        Manufacturer: Unknown
+        Serial Number: 00000000
+        Asset Tag: Not Specified
+        Part Number: PSD416G26662
+        Rank: 2
+        Configured Memory Speed: 2667 MT/s
+        Minimum Voltage: 1.2 V
+        Maximum Voltage: 1.2 V
+        Configured Voltage: 1.2 V
+        Memory Technology: <OUT OF SPEC>
+        Memory Operating Mode Capability: None
+        Firmware Version: Unknown
+        Module Manufacturer ID: Unknown
+        Module Product ID: Unknown
+        Memory Subsystem Controller Manufacturer ID: Unknown
+        Memory Subsystem Controller Product ID: Unknown
+        Non-Volatile Size: None
+        Volatile Size: None
+        Cache Size: None
+        Logical Size: None
+
+Handle 0x0018, DMI type 17, 84 bytes
+Memory Device
+        Array Handle: 0x000E
+        Error Information Handle: 0x0017
+        Total Width: 64 bits
+        Data Width: 64 bits
+        Size: 16 GB
+        Form Factor: DIMM
+        Set: None
+        Locator: DIMM 1
+        Bank Locator: P0 CHANNEL A
+        Type: DDR4
+        Type Detail: Synchronous Unbuffered (Unregistered)
+        Speed: 2667 MT/s
+        Manufacturer: Unknown
+        Serial Number: 00000000
+        Asset Tag: Not Specified
+        Part Number: PSD416G26662
+        Rank: 2
+        Configured Memory Speed: 2667 MT/s
+        Minimum Voltage: 1.2 V
+        Maximum Voltage: 1.2 V
+        Configured Voltage: 1.2 V
+        Memory Technology: <OUT OF SPEC>
+        Memory Operating Mode Capability: None
+        Firmware Version: Unknown
+        Module Manufacturer ID: Unknown
+        Module Product ID: Unknown
+        Memory Subsystem Controller Manufacturer ID: Unknown
+        Memory Subsystem Controller Product ID: Unknown
+        Non-Volatile Size: None
+        Volatile Size: None
+        Cache Size: None
+        Logical Size: None
+
+Handle 0x001B, DMI type 17, 84 bytes
+Memory Device
+        Array Handle: 0x000E
+        Error Information Handle: 0x001A
+        Total Width: 64 bits
+        Data Width: 64 bits
+        Size: 8 GB
+        Form Factor: DIMM
+        Set: None
+        Locator: DIMM 0
+        Bank Locator: P0 CHANNEL B
+        Type: DDR4
+        Type Detail: Synchronous Unbuffered (Unregistered)
+        Speed: 2667 MT/s
+        Manufacturer: Unknown
+        Serial Number: 46530855
+        Asset Tag: Not Specified
+        Part Number: W4U2666P-8G
+        Rank: 1
+        Configured Memory Speed: 2667 MT/s
+        Minimum Voltage: 1.2 V
+        Maximum Voltage: 1.2 V
+        Configured Voltage: 1.2 V
+        Memory Technology: <OUT OF SPEC>
+        Memory Operating Mode Capability: None
+        Firmware Version: Unknown
+        Module Manufacturer ID: Unknown
+        Module Product ID: Unknown
+        Memory Subsystem Controller Manufacturer ID: Unknown
+        Memory Subsystem Controller Product ID: Unknown
+        Non-Volatile Size: None
+        Volatile Size: None
+        Cache Size: None
+        Logical Size: None
+
+Handle 0x001E, DMI type 17, 84 bytes
+Memory Device
+        Array Handle: 0x000E
+        Error Information Handle: 0x001D
+        Total Width: 64 bits
+        Data Width: 64 bits
+        Size: 8 GB
+        Form Factor: DIMM
+        Set: None
+        Locator: DIMM 1
+        Bank Locator: P0 CHANNEL B
+        Type: DDR4
+        Type Detail: Synchronous Unbuffered (Unregistered)
+        Speed: 2667 MT/s
+        Manufacturer: Unknown
+        Serial Number: 42530855
+        Asset Tag: Not Specified
+        Part Number: W4U2666P-8G
+        Rank: 1
+        Configured Memory Speed: 2667 MT/s
+        Minimum Voltage: 1.2 V
+        Maximum Voltage: 1.2 V
+        Configured Voltage: 1.2 V
+        Memory Technology: <OUT OF SPEC>
+        Memory Operating Mode Capability: None
+        Firmware Version: Unknown
+        Module Manufacturer ID: Unknown
+        Module Product ID: Unknown
+        Memory Subsystem Controller Manufacturer ID: Unknown
+        Memory Subsystem Controller Product ID: Unknown
+        Non-Volatile Size: None
+        Volatile Size: None
+        Cache Size: None
+        Logical Size: None

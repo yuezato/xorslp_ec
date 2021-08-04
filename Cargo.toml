@@ -1,0 +1,30 @@
+[package]
+name = "xorslp_ec"
+version = "0.1.0"
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+clap = "2"
+lazy_static = "1.4.0"
+itertools = "0.9"
+rand = "0.7.3"
+structopt = "0.3"
+libc = "0.2"
+
+[features]
+4096block = []
+3072block = []
+2048block = []
+1024block = []
+512block  = []
+256block  = []
+128block  = []
+64block   = []
+8192block = []
+real_pebble = []
+4096_align = []
+real_align = []
+dfs_sched = []
+bottomup_sched = []

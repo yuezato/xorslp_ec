@@ -1,0 +1,62 @@
+< RS(8, 4) >
+erasure_code_perf: data size = 8x1250000 4
+data size = 10000000, iter = 1000
+ENC throughput = 4568.191059 MB/sec, SD = 128.414259
+DEC throughput = 4562.385426 MB/sec, SD = 132.687940
+</ RS(8, 4) >
+
+< RS(9, 4) >
+erasure_code_perf: data size = 9x1111111 4
+data size = 9999999, iter = 1000
+ENC throughput = 4685.322337 MB/sec, SD = 61.155225
+DEC throughput = 4627.249882 MB/sec, SD = 54.811222
+</ RS(9, 4) >
+
+< RS(10, 4) >
+erasure_code_perf: data size = 10x1000000 4
+data size = 10000000, iter = 1000
+ENC throughput = 4702.762383 MB/sec, SD = 48.433653
+DEC throughput = 4712.160424 MB/sec, SD = 49.157396
+</ RS(10, 4) >
+
+< RS(8, 3) >
+erasure_code_perf: data size = 8x1250000 3
+data size = 10000000, iter = 1000
+ENC throughput = 4996.836557 MB/sec, SD = 50.578687
+DEC throughput = 4984.786522 MB/sec, SD = 51.775652
+</ RS(8, 3) >
+
+< RS(9, 3) >
+erasure_code_perf: data size = 9x1111111 3
+data size = 9999999, iter = 1000
+ENC throughput = 5036.218734 MB/sec, SD = 48.244667
+DEC throughput = 5047.971060 MB/sec, SD = 50.698986
+</ RS(9, 3) >
+
+< RS(10, 3) >
+erasure_code_perf: data size = 10x1000000 3
+data size = 10000000, iter = 1000
+ENC throughput = 5030.759547 MB/sec, SD = 45.333224
+DEC throughput = 5029.636538 MB/sec, SD = 62.774544
+</ RS(10, 3) >
+
+< RS(8, 2) >
+erasure_code_perf: data size = 8x1250000 2
+data size = 10000000, iter = 1000
+ENC throughput = 7066.516708 MB/sec, SD = 149.930540
+DEC throughput = 7043.181497 MB/sec, SD = 153.302932
+</ RS(8, 2) >
+
+< RS(9, 2) >
+erasure_code_perf: data size = 9x1111111 2
+data size = 9999999, iter = 1000
+ENC throughput = 7110.620257 MB/sec, SD = 126.577255
+DEC throughput = 7119.089651 MB/sec, SD = 162.525226
+</ RS(9, 2) >
+
+< RS(10, 2) >
+erasure_code_perf: data size = 10x1000000 2
+data size = 10000000, iter = 1000
+ENC throughput = 7145.966043 MB/sec, SD = 150.777829
+DEC throughput = 7142.393650 MB/sec, SD = 142.226853
+</ RS(10, 2) >

@@ -1,0 +1,27 @@
+< P >
+Block size = 2048
+Benchmarking of Encoding & Decoding (with [2, 4, 5, 6])
+Encode: avg = 3066.2053271326504 MB/s, sd = 39.99523641052148
+Decode: avg = 1832.644004861123 MB/s, sd = 17.786529973616858
+</ P >
+
+< Co(P) >
+Block size = 2048
+Benchmarking of Encoding & Decoding (with [2, 4, 5, 6])
+Encode: avg = 4573.624171506125 MB/s, sd = 349.31297087594055
+Decode: avg = 3631.4231588295784 MB/s, sd = 276.0510829721841
+</ Co(P) >
+
+< Fu(Co(P)) >
+Block size = 2048
+Benchmarking of Encoding & Decoding (with [2, 4, 5, 6])
+Encode: avg = 6627.863362978524 MB/s, sd = 506.0080757816519
+Decode: avg = 5202.229841670028 MB/s, sd = 428.4656201174355
+</ Fu(Co(P)) >
+
+< Dfs(Fu(Co(P))) >
+Block size = 2048
+Benchmarking of Encoding & Decoding (with [2, 4, 5, 6])
+Encode: avg = 7332.851896071695 MB/s, sd = 409.6938564077862
+Decode: avg = 5936.073120292124 MB/s, sd = 387.0803615665588
+</ Dfs(Fu(Co(P))) >

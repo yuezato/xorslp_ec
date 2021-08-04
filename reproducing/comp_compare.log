@@ -1,0 +1,2006 @@
+block size = 2048
+Dump All Statistics about Compression for Encoding and Decoding Programs
+Enc: 
+  [NoComp] #XOR = 755, [RePair] #XOR = 386, [XorRePair] #XOR = 385
+Dec [0, 1, 2, 3]:
+  [NoComp] #XOR = 1258, [RePair] #XOR = 525, [XorRePair] #XOR = 496
+Dec [0, 1, 2, 4]:
+  [NoComp] #XOR = 1260, [RePair] #XOR = 528, [XorRePair] #XOR = 510
+Dec [0, 1, 2, 5]:
+  [NoComp] #XOR = 1262, [RePair] #XOR = 523, [XorRePair] #XOR = 511
+Dec [0, 1, 2, 6]:
+  [NoComp] #XOR = 1244, [RePair] #XOR = 532, [XorRePair] #XOR = 508
+Dec [0, 1, 2, 7]:
+  [NoComp] #XOR = 1318, [RePair] #XOR = 541, [XorRePair] #XOR = 526
+Dec [0, 1, 2, 8]:
+  [NoComp] #XOR = 1246, [RePair] #XOR = 534, [XorRePair] #XOR = 510
+Dec [0, 1, 2, 9]:
+  [NoComp] #XOR = 1248, [RePair] #XOR = 532, [XorRePair] #XOR = 517
+Dec [0, 1, 2, 10]:
+  [NoComp] #XOR = 882, [RePair] #XOR = 404, [XorRePair] #XOR = 395
+Dec [0, 1, 2, 11]:
+  [NoComp] #XOR = 934, [RePair] #XOR = 399, [XorRePair] #XOR = 384
+Dec [0, 1, 2, 12]:
+  [NoComp] #XOR = 932, [RePair] #XOR = 403, [XorRePair] #XOR = 393
+Dec [0, 1, 2, 13]:
+  [NoComp] #XOR = 916, [RePair] #XOR = 394, [XorRePair] #XOR = 384
+Dec [0, 1, 3, 4]:
+  [NoComp] #XOR = 1354, [RePair] #XOR = 544, [XorRePair] #XOR = 506
+Dec [0, 1, 3, 5]:
+  [NoComp] #XOR = 1254, [RePair] #XOR = 531, [XorRePair] #XOR = 523
+Dec [0, 1, 3, 6]:
+  [NoComp] #XOR = 1200, [RePair] #XOR = 529, [XorRePair] #XOR = 515
+Dec [0, 1, 3, 7]:
+  [NoComp] #XOR = 1270, [RePair] #XOR = 521, [XorRePair] #XOR = 496
+Dec [0, 1, 3, 8]:
+  [NoComp] #XOR = 1348, [RePair] #XOR = 537, [XorRePair] #XOR = 515
+Dec [0, 1, 3, 9]:
+  [NoComp] #XOR = 1202, [RePair] #XOR = 525, [XorRePair] #XOR = 517
+Dec [0, 1, 3, 10]:
+  [NoComp] #XOR = 928, [RePair] #XOR = 398, [XorRePair] #XOR = 396
+Dec [0, 1, 3, 11]:
+  [NoComp] #XOR = 958, [RePair] #XOR = 396, [XorRePair] #XOR = 384
+Dec [0, 1, 3, 12]:
+  [NoComp] #XOR = 922, [RePair] #XOR = 403, [XorRePair] #XOR = 388
+Dec [0, 1, 3, 13]:
+  [NoComp] #XOR = 872, [RePair] #XOR = 395, [XorRePair] #XOR = 376
+Dec [0, 1, 4, 5]:
+  [NoComp] #XOR = 1316, [RePair] #XOR = 538, [XorRePair] #XOR = 510
+Dec [0, 1, 4, 6]:
+  [NoComp] #XOR = 1266, [RePair] #XOR = 529, [XorRePair] #XOR = 511
+Dec [0, 1, 4, 7]:
+  [NoComp] #XOR = 1300, [RePair] #XOR = 532, [XorRePair] #XOR = 518
+Dec [0, 1, 4, 8]:
+  [NoComp] #XOR = 1198, [RePair] #XOR = 519, [XorRePair] #XOR = 503
+Dec [0, 1, 4, 9]:
+  [NoComp] #XOR = 1200, [RePair] #XOR = 515, [XorRePair] #XOR = 499
+Dec [0, 1, 4, 10]:
+  [NoComp] #XOR = 876, [RePair] #XOR = 400, [XorRePair] #XOR = 392
+Dec [0, 1, 4, 11]:
+  [NoComp] #XOR = 998, [RePair] #XOR = 421, [XorRePair] #XOR = 392
+Dec [0, 1, 4, 12]:
+  [NoComp] #XOR = 936, [RePair] #XOR = 386, [XorRePair] #XOR = 371
+Dec [0, 1, 4, 13]:
+  [NoComp] #XOR = 914, [RePair] #XOR = 404, [XorRePair] #XOR = 385
+Dec [0, 1, 5, 6]:
+  [NoComp] #XOR = 1256, [RePair] #XOR = 526, [XorRePair] #XOR = 506
+Dec [0, 1, 5, 7]:
+  [NoComp] #XOR = 1164, [RePair] #XOR = 513, [XorRePair] #XOR = 500
+Dec [0, 1, 5, 8]:
+  [NoComp] #XOR = 1340, [RePair] #XOR = 538, [XorRePair] #XOR = 518
+Dec [0, 1, 5, 9]:
+  [NoComp] #XOR = 1276, [RePair] #XOR = 527, [XorRePair] #XOR = 521
+Dec [0, 1, 5, 10]:
+  [NoComp] #XOR = 927, [RePair] #XOR = 414, [XorRePair] #XOR = 400
+Dec [0, 1, 5, 11]:
+  [NoComp] #XOR = 988, [RePair] #XOR = 403, [XorRePair] #XOR = 390
+Dec [0, 1, 5, 12]:
+  [NoComp] #XOR = 938, [RePair] #XOR = 408, [XorRePair] #XOR = 383
+Dec [0, 1, 5, 13]:
+  [NoComp] #XOR = 920, [RePair] #XOR = 403, [XorRePair] #XOR = 389
+Dec [0, 1, 6, 7]:
+  [NoComp] #XOR = 1212, [RePair] #XOR = 516, [XorRePair] #XOR = 497
+Dec [0, 1, 6, 8]:
+  [NoComp] #XOR = 1250, [RePair] #XOR = 519, [XorRePair] #XOR = 511
+Dec [0, 1, 6, 9]:
+  [NoComp] #XOR = 1306, [RePair] #XOR = 530, [XorRePair] #XOR = 518
+Dec [0, 1, 6, 10]:
+  [NoComp] #XOR = 929, [RePair] #XOR = 405, [XorRePair] #XOR = 403
+Dec [0, 1, 6, 11]:
+  [NoComp] #XOR = 946, [RePair] #XOR = 398, [XorRePair] #XOR = 386
+Dec [0, 1, 6, 12]:
+  [NoComp] #XOR = 922, [RePair] #XOR = 385, [XorRePair] #XOR = 371
+Dec [0, 1, 6, 13]:
+  [NoComp] #XOR = 958, [RePair] #XOR = 415, [XorRePair] #XOR = 390
+Dec [0, 1, 7, 8]:
+  [NoComp] #XOR = 1250, [RePair] #XOR = 504, [XorRePair] #XOR = 486
+Dec [0, 1, 7, 9]:
+  [NoComp] #XOR = 1190, [RePair] #XOR = 519, [XorRePair] #XOR = 505
+Dec [0, 1, 7, 10]:
+  [NoComp] #XOR = 899, [RePair] #XOR = 406, [XorRePair] #XOR = 400
+Dec [0, 1, 7, 11]:
+  [NoComp] #XOR = 956, [RePair] #XOR = 391, [XorRePair] #XOR = 389
+Dec [0, 1, 7, 12]:
+  [NoComp] #XOR = 926, [RePair] #XOR = 384, [XorRePair] #XOR = 377
+Dec [0, 1, 7, 13]:
+  [NoComp] #XOR = 958, [RePair] #XOR = 404, [XorRePair] #XOR = 397
+Dec [0, 1, 8, 9]:
+  [NoComp] #XOR = 1324, [RePair] #XOR = 538, [XorRePair] #XOR = 524
+Dec [0, 1, 8, 10]:
+  [NoComp] #XOR = 964, [RePair] #XOR = 417, [XorRePair] #XOR = 401
+Dec [0, 1, 8, 11]:
+  [NoComp] #XOR = 856, [RePair] #XOR = 386, [XorRePair] #XOR = 370
+Dec [0, 1, 8, 12]:
+  [NoComp] #XOR = 998, [RePair] #XOR = 413, [XorRePair] #XOR = 402
+Dec [0, 1, 8, 13]:
+  [NoComp] #XOR = 904, [RePair] #XOR = 391, [XorRePair] #XOR = 381
+Dec [0, 1, 9, 10]:
+  [NoComp] #XOR = 899, [RePair] #XOR = 407, [XorRePair] #XOR = 402
+Dec [0, 1, 9, 11]:
+  [NoComp] #XOR = 910, [RePair] #XOR = 397, [XorRePair] #XOR = 389
+Dec [0, 1, 9, 12]:
+  [NoComp] #XOR = 1054, [RePair] #XOR = 426, [XorRePair] #XOR = 408
+Dec [0, 1, 9, 13]:
+  [NoComp] #XOR = 852, [RePair] #XOR = 373, [XorRePair] #XOR = 361
+Dec [0, 1, 10, 11]:
+  [NoComp] #XOR = 669, [RePair] #XOR = 276, [XorRePair] #XOR = 271
+Dec [0, 1, 10, 12]:
+  [NoComp] #XOR = 646, [RePair] #XOR = 267, [XorRePair] #XOR = 264
+Dec [0, 1, 10, 13]:
+  [NoComp] #XOR = 695, [RePair] #XOR = 268, [XorRePair] #XOR = 262
+Dec [0, 1, 11, 12]:
+  [NoComp] #XOR = 610, [RePair] #XOR = 209, [XorRePair] #XOR = 200
+Dec [0, 1, 11, 13]:
+  [NoComp] #XOR = 610, [RePair] #XOR = 200, [XorRePair] #XOR = 189
+Dec [0, 1, 12, 13]:
+  [NoComp] #XOR = 706, [RePair] #XOR = 207, [XorRePair] #XOR = 196
+Dec [0, 2, 3, 4]:
+  [NoComp] #XOR = 1310, [RePair] #XOR = 532, [XorRePair] #XOR = 509
+Dec [0, 2, 3, 5]:
+  [NoComp] #XOR = 1186, [RePair] #XOR = 517, [XorRePair] #XOR = 501
+Dec [0, 2, 3, 6]:
+  [NoComp] #XOR = 1320, [RePair] #XOR = 538, [XorRePair] #XOR = 517
+Dec [0, 2, 3, 7]:
+  [NoComp] #XOR = 1250, [RePair] #XOR = 506, [XorRePair] #XOR = 491
+Dec [0, 2, 3, 8]:
+  [NoComp] #XOR = 1296, [RePair] #XOR = 529, [XorRePair] #XOR = 515
+Dec [0, 2, 3, 9]:
+  [NoComp] #XOR = 1416, [RePair] #XOR = 543, [XorRePair] #XOR = 528
+Dec [0, 2, 3, 10]:
+  [NoComp] #XOR = 904, [RePair] #XOR = 410, [XorRePair] #XOR = 401
+Dec [0, 2, 3, 11]:
+  [NoComp] #XOR = 944, [RePair] #XOR = 392, [XorRePair] #XOR = 369
+Dec [0, 2, 3, 12]:
+  [NoComp] #XOR = 960, [RePair] #XOR = 404, [XorRePair] #XOR = 396
+Dec [0, 2, 3, 13]:
+  [NoComp] #XOR = 918, [RePair] #XOR = 399, [XorRePair] #XOR = 386
+Dec [0, 2, 4, 5]:
+  [NoComp] #XOR = 1288, [RePair] #XOR = 534, [XorRePair] #XOR = 502
+Dec [0, 2, 4, 6]:
+  [NoComp] #XOR = 1220, [RePair] #XOR = 528, [XorRePair] #XOR = 507
+Dec [0, 2, 4, 7]:
+  [NoComp] #XOR = 1238, [RePair] #XOR = 525, [XorRePair] #XOR = 510
+Dec [0, 2, 4, 8]:
+  [NoComp] #XOR = 1190, [RePair] #XOR = 524, [XorRePair] #XOR = 521
+Dec [0, 2, 4, 9]:
+  [NoComp] #XOR = 1278, [RePair] #XOR = 523, [XorRePair] #XOR = 513
+Dec [0, 2, 4, 10]:
+  [NoComp] #XOR = 952, [RePair] #XOR = 408, [XorRePair] #XOR = 397
+Dec [0, 2, 4, 11]:
+  [NoComp] #XOR = 940, [RePair] #XOR = 392, [XorRePair] #XOR = 388
+Dec [0, 2, 4, 12]:
+  [NoComp] #XOR = 948, [RePair] #XOR = 410, [XorRePair] #XOR = 396
+Dec [0, 2, 4, 13]:
+  [NoComp] #XOR = 912, [RePair] #XOR = 396, [XorRePair] #XOR = 383
+Dec [0, 2, 5, 6]:
+  [NoComp] #XOR = 1278, [RePair] #XOR = 528, [XorRePair] #XOR = 515
+Dec [0, 2, 5, 7]:
+  [NoComp] #XOR = 1230, [RePair] #XOR = 530, [XorRePair] #XOR = 521
+Dec [0, 2, 5, 8]:
+  [NoComp] #XOR = 1258, [RePair] #XOR = 525, [XorRePair] #XOR = 511
+Dec [0, 2, 5, 9]:
+  [NoComp] #XOR = 1268, [RePair] #XOR = 528, [XorRePair] #XOR = 520
+Dec [0, 2, 5, 10]:
+  [NoComp] #XOR = 921, [RePair] #XOR = 405, [XorRePair] #XOR = 406
+Dec [0, 2, 5, 11]:
+  [NoComp] #XOR = 908, [RePair] #XOR = 391, [XorRePair] #XOR = 382
+Dec [0, 2, 5, 12]:
+  [NoComp] #XOR = 916, [RePair] #XOR = 396, [XorRePair] #XOR = 383
+Dec [0, 2, 5, 13]:
+  [NoComp] #XOR = 880, [RePair] #XOR = 385, [XorRePair] #XOR = 378
+Dec [0, 2, 6, 7]:
+  [NoComp] #XOR = 1254, [RePair] #XOR = 519, [XorRePair] #XOR = 504
+Dec [0, 2, 6, 8]:
+  [NoComp] #XOR = 1294, [RePair] #XOR = 537, [XorRePair] #XOR = 510
+Dec [0, 2, 6, 9]:
+  [NoComp] #XOR = 1174, [RePair] #XOR = 514, [XorRePair] #XOR = 500
+Dec [0, 2, 6, 10]:
+  [NoComp] #XOR = 917, [RePair] #XOR = 408, [XorRePair] #XOR = 402
+Dec [0, 2, 6, 11]:
+  [NoComp] #XOR = 958, [RePair] #XOR = 402, [XorRePair] #XOR = 396
+Dec [0, 2, 6, 12]:
+  [NoComp] #XOR = 888, [RePair] #XOR = 386, [XorRePair] #XOR = 378
+Dec [0, 2, 6, 13]:
+  [NoComp] #XOR = 890, [RePair] #XOR = 389, [XorRePair] #XOR = 380
+Dec [0, 2, 7, 8]:
+  [NoComp] #XOR = 1264, [RePair] #XOR = 528, [XorRePair] #XOR = 516
+Dec [0, 2, 7, 9]:
+  [NoComp] #XOR = 1304, [RePair] #XOR = 530, [XorRePair] #XOR = 504
+Dec [0, 2, 7, 10]:
+  [NoComp] #XOR = 870, [RePair] #XOR = 395, [XorRePair] #XOR = 392
+Dec [0, 2, 7, 11]:
+  [NoComp] #XOR = 956, [RePair] #XOR = 399, [XorRePair] #XOR = 389
+Dec [0, 2, 7, 12]:
+  [NoComp] #XOR = 922, [RePair] #XOR = 395, [XorRePair] #XOR = 374
+Dec [0, 2, 7, 13]:
+  [NoComp] #XOR = 888, [RePair] #XOR = 402, [XorRePair] #XOR = 382
+Dec [0, 2, 8, 9]:
+  [NoComp] #XOR = 1314, [RePair] #XOR = 536, [XorRePair] #XOR = 511
+Dec [0, 2, 8, 10]:
+  [NoComp] #XOR = 997, [RePair] #XOR = 426, [XorRePair] #XOR = 406
+Dec [0, 2, 8, 11]:
+  [NoComp] #XOR = 920, [RePair] #XOR = 396, [XorRePair] #XOR = 396
+Dec [0, 2, 8, 12]:
+  [NoComp] #XOR = 1012, [RePair] #XOR = 411, [XorRePair] #XOR = 386
+Dec [0, 2, 8, 13]:
+  [NoComp] #XOR = 1008, [RePair] #XOR = 408, [XorRePair] #XOR = 399
+Dec [0, 2, 9, 10]:
+  [NoComp] #XOR = 995, [RePair] #XOR = 415, [XorRePair] #XOR = 411
+Dec [0, 2, 9, 11]:
+  [NoComp] #XOR = 958, [RePair] #XOR = 394, [XorRePair] #XOR = 381
+Dec [0, 2, 9, 12]:
+  [NoComp] #XOR = 958, [RePair] #XOR = 407, [XorRePair] #XOR = 390
+Dec [0, 2, 9, 13]:
+  [NoComp] #XOR = 926, [RePair] #XOR = 400, [XorRePair] #XOR = 383
+Dec [0, 2, 10, 11]:
+  [NoComp] #XOR = 683, [RePair] #XOR = 282, [XorRePair] #XOR = 276
+Dec [0, 2, 10, 12]:
+  [NoComp] #XOR = 628, [RePair] #XOR = 269, [XorRePair] #XOR = 266
+Dec [0, 2, 10, 13]:
+  [NoComp] #XOR = 665, [RePair] #XOR = 272, [XorRePair] #XOR = 265
+Dec [0, 2, 11, 12]:
+  [NoComp] #XOR = 632, [RePair] #XOR = 212, [XorRePair] #XOR = 207
+Dec [0, 2, 11, 13]:
+  [NoComp] #XOR = 610, [RePair] #XOR = 202, [XorRePair] #XOR = 201
+Dec [0, 2, 12, 13]:
+  [NoComp] #XOR = 658, [RePair] #XOR = 209, [XorRePair] #XOR = 199
+Dec [0, 3, 4, 5]:
+  [NoComp] #XOR = 1202, [RePair] #XOR = 513, [XorRePair] #XOR = 500
+Dec [0, 3, 4, 6]:
+  [NoComp] #XOR = 1308, [RePair] #XOR = 533, [XorRePair] #XOR = 522
+Dec [0, 3, 4, 7]:
+  [NoComp] #XOR = 1334, [RePair] #XOR = 527, [XorRePair] #XOR = 505
+Dec [0, 3, 4, 8]:
+  [NoComp] #XOR = 1210, [RePair] #XOR = 527, [XorRePair] #XOR = 508
+Dec [0, 3, 4, 9]:
+  [NoComp] #XOR = 1212, [RePair] #XOR = 531, [XorRePair] #XOR = 520
+Dec [0, 3, 4, 10]:
+  [NoComp] #XOR = 868, [RePair] #XOR = 391, [XorRePair] #XOR = 387
+Dec [0, 3, 4, 11]:
+  [NoComp] #XOR = 988, [RePair] #XOR = 392, [XorRePair] #XOR = 372
+Dec [0, 3, 4, 12]:
+  [NoComp] #XOR = 960, [RePair] #XOR = 407, [XorRePair] #XOR = 393
+Dec [0, 3, 4, 13]:
+  [NoComp] #XOR = 922, [RePair] #XOR = 399, [XorRePair] #XOR = 396
+Dec [0, 3, 5, 6]:
+  [NoComp] #XOR = 1288, [RePair] #XOR = 537, [XorRePair] #XOR = 509
+Dec [0, 3, 5, 7]:
+  [NoComp] #XOR = 1254, [RePair] #XOR = 517, [XorRePair] #XOR = 498
+Dec [0, 3, 5, 8]:
+  [NoComp] #XOR = 1256, [RePair] #XOR = 520, [XorRePair] #XOR = 507
+Dec [0, 3, 5, 9]:
+  [NoComp] #XOR = 1258, [RePair] #XOR = 530, [XorRePair] #XOR = 508
+Dec [0, 3, 5, 10]:
+  [NoComp] #XOR = 943, [RePair] #XOR = 412, [XorRePair] #XOR = 404
+Dec [0, 3, 5, 11]:
+  [NoComp] #XOR = 996, [RePair] #XOR = 394, [XorRePair] #XOR = 378
+Dec [0, 3, 5, 12]:
+  [NoComp] #XOR = 948, [RePair] #XOR = 395, [XorRePair] #XOR = 383
+Dec [0, 3, 5, 13]:
+  [NoComp] #XOR = 876, [RePair] #XOR = 384, [XorRePair] #XOR = 374
+Dec [0, 3, 6, 7]:
+  [NoComp] #XOR = 1278, [RePair] #XOR = 521, [XorRePair] #XOR = 495
+Dec [0, 3, 6, 8]:
+  [NoComp] #XOR = 1234, [RePair] #XOR = 527, [XorRePair] #XOR = 511
+Dec [0, 3, 6, 9]:
+  [NoComp] #XOR = 1282, [RePair] #XOR = 537, [XorRePair] #XOR = 512
+Dec [0, 3, 6, 10]:
+  [NoComp] #XOR = 1004, [RePair] #XOR = 402, [XorRePair] #XOR = 395
+Dec [0, 3, 6, 11]:
+  [NoComp] #XOR = 924, [RePair] #XOR = 383, [XorRePair] #XOR = 388
+Dec [0, 3, 6, 12]:
+  [NoComp] #XOR = 942, [RePair] #XOR = 406, [XorRePair] #XOR = 395
+Dec [0, 3, 6, 13]:
+  [NoComp] #XOR = 978, [RePair] #XOR = 407, [XorRePair] #XOR = 390
+Dec [0, 3, 7, 8]:
+  [NoComp] #XOR = 1268, [RePair] #XOR = 505, [XorRePair] #XOR = 479
+Dec [0, 3, 7, 9]:
+  [NoComp] #XOR = 1188, [RePair] #XOR = 512, [XorRePair] #XOR = 494
+Dec [0, 3, 7, 10]:
+  [NoComp] #XOR = 943, [RePair] #XOR = 414, [XorRePair] #XOR = 405
+Dec [0, 3, 7, 11]:
+  [NoComp] #XOR = 934, [RePair] #XOR = 391, [XorRePair] #XOR = 386
+Dec [0, 3, 7, 12]:
+  [NoComp] #XOR = 916, [RePair] #XOR = 394, [XorRePair] #XOR = 387
+Dec [0, 3, 7, 13]:
+  [NoComp] #XOR = 982, [RePair] #XOR = 403, [XorRePair] #XOR = 384
+Dec [0, 3, 8, 9]:
+  [NoComp] #XOR = 1288, [RePair] #XOR = 533, [XorRePair] #XOR = 510
+Dec [0, 3, 8, 10]:
+  [NoComp] #XOR = 959, [RePair] #XOR = 409, [XorRePair] #XOR = 401
+Dec [0, 3, 8, 11]:
+  [NoComp] #XOR = 966, [RePair] #XOR = 402, [XorRePair] #XOR = 395
+Dec [0, 3, 8, 12]:
+  [NoComp] #XOR = 876, [RePair] #XOR = 393, [XorRePair] #XOR = 392
+Dec [0, 3, 8, 13]:
+  [NoComp] #XOR = 942, [RePair] #XOR = 397, [XorRePair] #XOR = 381
+Dec [0, 3, 9, 10]:
+  [NoComp] #XOR = 987, [RePair] #XOR = 403, [XorRePair] #XOR = 400
+Dec [0, 3, 9, 11]:
+  [NoComp] #XOR = 982, [RePair] #XOR = 392, [XorRePair] #XOR = 378
+Dec [0, 3, 9, 12]:
+  [NoComp] #XOR = 910, [RePair] #XOR = 396, [XorRePair] #XOR = 387
+Dec [0, 3, 9, 13]:
+  [NoComp] #XOR = 976, [RePair] #XOR = 404, [XorRePair] #XOR = 380
+Dec [0, 3, 10, 11]:
+  [NoComp] #XOR = 648, [RePair] #XOR = 281, [XorRePair] #XOR = 281
+Dec [0, 3, 10, 12]:
+  [NoComp] #XOR = 667, [RePair] #XOR = 269, [XorRePair] #XOR = 269
+Dec [0, 3, 10, 13]:
+  [NoComp] #XOR = 663, [RePair] #XOR = 265, [XorRePair] #XOR = 257
+Dec [0, 3, 11, 12]:
+  [NoComp] #XOR = 638, [RePair] #XOR = 218, [XorRePair] #XOR = 213
+Dec [0, 3, 11, 13]:
+  [NoComp] #XOR = 680, [RePair] #XOR = 219, [XorRePair] #XOR = 214
+Dec [0, 3, 12, 13]:
+  [NoComp] #XOR = 682, [RePair] #XOR = 221, [XorRePair] #XOR = 193
+Dec [0, 4, 5, 6]:
+  [NoComp] #XOR = 1220, [RePair] #XOR = 516, [XorRePair] #XOR = 507
+Dec [0, 4, 5, 7]:
+  [NoComp] #XOR = 1292, [RePair] #XOR = 526, [XorRePair] #XOR = 515
+Dec [0, 4, 5, 8]:
+  [NoComp] #XOR = 1198, [RePair] #XOR = 512, [XorRePair] #XOR = 503
+Dec [0, 4, 5, 9]:
+  [NoComp] #XOR = 1298, [RePair] #XOR = 540, [XorRePair] #XOR = 503
+Dec [0, 4, 5, 10]:
+  [NoComp] #XOR = 908, [RePair] #XOR = 397, [XorRePair] #XOR = 385
+Dec [0, 4, 5, 11]:
+  [NoComp] #XOR = 896, [RePair] #XOR = 389, [XorRePair] #XOR = 370
+Dec [0, 4, 5, 12]:
+  [NoComp] #XOR = 946, [RePair] #XOR = 412, [XorRePair] #XOR = 393
+Dec [0, 4, 5, 13]:
+  [NoComp] #XOR = 904, [RePair] #XOR = 389, [XorRePair] #XOR = 366
+Dec [0, 4, 6, 7]:
+  [NoComp] #XOR = 1296, [RePair] #XOR = 523, [XorRePair] #XOR = 501
+Dec [0, 4, 6, 8]:
+  [NoComp] #XOR = 1288, [RePair] #XOR = 534, [XorRePair] #XOR = 516
+Dec [0, 4, 6, 9]:
+  [NoComp] #XOR = 1252, [RePair] #XOR = 522, [XorRePair] #XOR = 509
+Dec [0, 4, 6, 10]:
+  [NoComp] #XOR = 877, [RePair] #XOR = 397, [XorRePair] #XOR = 390
+Dec [0, 4, 6, 11]:
+  [NoComp] #XOR = 866, [RePair] #XOR = 381, [XorRePair] #XOR = 376
+Dec [0, 4, 6, 12]:
+  [NoComp] #XOR = 968, [RePair] #XOR = 405, [XorRePair] #XOR = 393
+Dec [0, 4, 6, 13]:
+  [NoComp] #XOR = 890, [RePair] #XOR = 395, [XorRePair] #XOR = 375
+Dec [0, 4, 7, 8]:
+  [NoComp] #XOR = 1324, [RePair] #XOR = 523, [XorRePair] #XOR = 518
+Dec [0, 4, 7, 9]:
+  [NoComp] #XOR = 1298, [RePair] #XOR = 521, [XorRePair] #XOR = 499
+Dec [0, 4, 7, 10]:
+  [NoComp] #XOR = 957, [RePair] #XOR = 404, [XorRePair] #XOR = 396
+Dec [0, 4, 7, 11]:
+  [NoComp] #XOR = 952, [RePair] #XOR = 407, [XorRePair] #XOR = 389
+Dec [0, 4, 7, 12]:
+  [NoComp] #XOR = 964, [RePair] #XOR = 411, [XorRePair] #XOR = 390
+Dec [0, 4, 7, 13]:
+  [NoComp] #XOR = 990, [RePair] #XOR = 412, [XorRePair] #XOR = 389
+Dec [0, 4, 8, 9]:
+  [NoComp] #XOR = 1272, [RePair] #XOR = 522, [XorRePair] #XOR = 511
+Dec [0, 4, 8, 10]:
+  [NoComp] #XOR = 899, [RePair] #XOR = 406, [XorRePair] #XOR = 397
+Dec [0, 4, 8, 11]:
+  [NoComp] #XOR = 926, [RePair] #XOR = 408, [XorRePair] #XOR = 403
+Dec [0, 4, 8, 12]:
+  [NoComp] #XOR = 960, [RePair] #XOR = 399, [XorRePair] #XOR = 387
+Dec [0, 4, 8, 13]:
+  [NoComp] #XOR = 960, [RePair] #XOR = 412, [XorRePair] #XOR = 404
+Dec [0, 4, 9, 10]:
+  [NoComp] #XOR = 957, [RePair] #XOR = 420, [XorRePair] #XOR = 406
+Dec [0, 4, 9, 11]:
+  [NoComp] #XOR = 908, [RePair] #XOR = 395, [XorRePair] #XOR = 382
+Dec [0, 4, 9, 12]:
+  [NoComp] #XOR = 898, [RePair] #XOR = 397, [XorRePair] #XOR = 372
+Dec [0, 4, 9, 13]:
+  [NoComp] #XOR = 920, [RePair] #XOR = 390, [XorRePair] #XOR = 381
+Dec [0, 4, 10, 11]:
+  [NoComp] #XOR = 618, [RePair] #XOR = 279, [XorRePair] #XOR = 279
+Dec [0, 4, 10, 12]:
+  [NoComp] #XOR = 637, [RePair] #XOR = 267, [XorRePair] #XOR = 259
+Dec [0, 4, 10, 13]:
+  [NoComp] #XOR = 617, [RePair] #XOR = 264, [XorRePair] #XOR = 265
+Dec [0, 4, 11, 12]:
+  [NoComp] #XOR = 632, [RePair] #XOR = 220, [XorRePair] #XOR = 208
+Dec [0, 4, 11, 13]:
+  [NoComp] #XOR = 666, [RePair] #XOR = 207, [XorRePair] #XOR = 203
+Dec [0, 4, 12, 13]:
+  [NoComp] #XOR = 650, [RePair] #XOR = 210, [XorRePair] #XOR = 201
+Dec [0, 5, 6, 7]:
+  [NoComp] #XOR = 1220, [RePair] #XOR = 508, [XorRePair] #XOR = 502
+Dec [0, 5, 6, 8]:
+  [NoComp] #XOR = 1220, [RePair] #XOR = 519, [XorRePair] #XOR = 502
+Dec [0, 5, 6, 9]:
+  [NoComp] #XOR = 1224, [RePair] #XOR = 520, [XorRePair] #XOR = 503
+Dec [0, 5, 6, 10]:
+  [NoComp] #XOR = 942, [RePair] #XOR = 407, [XorRePair] #XOR = 393
+Dec [0, 5, 6, 11]:
+  [NoComp] #XOR = 992, [RePair] #XOR = 391, [XorRePair] #XOR = 375
+Dec [0, 5, 6, 12]:
+  [NoComp] #XOR = 890, [RePair] #XOR = 407, [XorRePair] #XOR = 388
+Dec [0, 5, 6, 13]:
+  [NoComp] #XOR = 960, [RePair] #XOR = 398, [XorRePair] #XOR = 384
+Dec [0, 5, 7, 8]:
+  [NoComp] #XOR = 1338, [RePair] #XOR = 532, [XorRePair] #XOR = 516
+Dec [0, 5, 7, 9]:
+  [NoComp] #XOR = 1248, [RePair] #XOR = 514, [XorRePair] #XOR = 504
+Dec [0, 5, 7, 10]:
+  [NoComp] #XOR = 986, [RePair] #XOR = 428, [XorRePair] #XOR = 417
+Dec [0, 5, 7, 11]:
+  [NoComp] #XOR = 884, [RePair] #XOR = 386, [XorRePair] #XOR = 378
+Dec [0, 5, 7, 12]:
+  [NoComp] #XOR = 932, [RePair] #XOR = 390, [XorRePair] #XOR = 371
+Dec [0, 5, 7, 13]:
+  [NoComp] #XOR = 970, [RePair] #XOR = 407, [XorRePair] #XOR = 397
+Dec [0, 5, 8, 9]:
+  [NoComp] #XOR = 1288, [RePair] #XOR = 529, [XorRePair] #XOR = 515
+Dec [0, 5, 8, 10]:
+  [NoComp] #XOR = 918, [RePair] #XOR = 408, [XorRePair] #XOR = 402
+Dec [0, 5, 8, 11]:
+  [NoComp] #XOR = 934, [RePair] #XOR = 395, [XorRePair] #XOR = 387
+Dec [0, 5, 8, 12]:
+  [NoComp] #XOR = 962, [RePair] #XOR = 415, [XorRePair] #XOR = 398
+Dec [0, 5, 8, 13]:
+  [NoComp] #XOR = 892, [RePair] #XOR = 393, [XorRePair] #XOR = 388
+Dec [0, 5, 9, 10]:
+  [NoComp] #XOR = 911, [RePair] #XOR = 405, [XorRePair] #XOR = 393
+Dec [0, 5, 9, 11]:
+  [NoComp] #XOR = 996, [RePair] #XOR = 398, [XorRePair] #XOR = 392
+Dec [0, 5, 9, 12]:
+  [NoComp] #XOR = 890, [RePair] #XOR = 396, [XorRePair] #XOR = 394
+Dec [0, 5, 9, 13]:
+  [NoComp] #XOR = 882, [RePair] #XOR = 383, [XorRePair] #XOR = 376
+Dec [0, 5, 10, 11]:
+  [NoComp] #XOR = 676, [RePair] #XOR = 280, [XorRePair] #XOR = 283
+Dec [0, 5, 10, 12]:
+  [NoComp] #XOR = 657, [RePair] #XOR = 279, [XorRePair] #XOR = 271
+Dec [0, 5, 10, 13]:
+  [NoComp] #XOR = 680, [RePair] #XOR = 276, [XorRePair] #XOR = 264
+Dec [0, 5, 11, 12]:
+  [NoComp] #XOR = 616, [RePair] #XOR = 212, [XorRePair] #XOR = 201
+Dec [0, 5, 11, 13]:
+  [NoComp] #XOR = 670, [RePair] #XOR = 219, [XorRePair] #XOR = 202
+Dec [0, 5, 12, 13]:
+  [NoComp] #XOR = 694, [RePair] #XOR = 219, [XorRePair] #XOR = 205
+Dec [0, 6, 7, 8]:
+  [NoComp] #XOR = 1212, [RePair] #XOR = 503, [XorRePair] #XOR = 490
+Dec [0, 6, 7, 9]:
+  [NoComp] #XOR = 1258, [RePair] #XOR = 532, [XorRePair] #XOR = 495
+Dec [0, 6, 7, 10]:
+  [NoComp] #XOR = 842, [RePair] #XOR = 387, [XorRePair] #XOR = 384
+Dec [0, 6, 7, 11]:
+  [NoComp] #XOR = 896, [RePair] #XOR = 395, [XorRePair] #XOR = 389
+Dec [0, 6, 7, 12]:
+  [NoComp] #XOR = 940, [RePair] #XOR = 398, [XorRePair] #XOR = 391
+Dec [0, 6, 7, 13]:
+  [NoComp] #XOR = 878, [RePair] #XOR = 385, [XorRePair] #XOR = 374
+Dec [0, 6, 8, 9]:
+  [NoComp] #XOR = 1134, [RePair] #XOR = 505, [XorRePair] #XOR = 492
+Dec [0, 6, 8, 10]:
+  [NoComp] #XOR = 931, [RePair] #XOR = 410, [XorRePair] #XOR = 397
+Dec [0, 6, 8, 11]:
+  [NoComp] #XOR = 932, [RePair] #XOR = 385, [XorRePair] #XOR = 384
+Dec [0, 6, 8, 12]:
+  [NoComp] #XOR = 956, [RePair] #XOR = 402, [XorRePair] #XOR = 380
+Dec [0, 6, 8, 13]:
+  [NoComp] #XOR = 958, [RePair] #XOR = 401, [XorRePair] #XOR = 383
+Dec [0, 6, 9, 10]:
+  [NoComp] #XOR = 999, [RePair] #XOR = 408, [XorRePair] #XOR = 388
+Dec [0, 6, 9, 11]:
+  [NoComp] #XOR = 980, [RePair] #XOR = 415, [XorRePair] #XOR = 401
+Dec [0, 6, 9, 12]:
+  [NoComp] #XOR = 962, [RePair] #XOR = 397, [XorRePair] #XOR = 386
+Dec [0, 6, 9, 13]:
+  [NoComp] #XOR = 954, [RePair] #XOR = 401, [XorRePair] #XOR = 386
+Dec [0, 6, 10, 11]:
+  [NoComp] #XOR = 634, [RePair] #XOR = 278, [XorRePair] #XOR = 272
+Dec [0, 6, 10, 12]:
+  [NoComp] #XOR = 636, [RePair] #XOR = 281, [XorRePair] #XOR = 272
+Dec [0, 6, 10, 13]:
+  [NoComp] #XOR = 648, [RePair] #XOR = 278, [XorRePair] #XOR = 274
+Dec [0, 6, 11, 12]:
+  [NoComp] #XOR = 518, [RePair] #XOR = 204, [XorRePair] #XOR = 191
+Dec [0, 6, 11, 13]:
+  [NoComp] #XOR = 646, [RePair] #XOR = 215, [XorRePair] #XOR = 205
+Dec [0, 6, 12, 13]:
+  [NoComp] #XOR = 678, [RePair] #XOR = 218, [XorRePair] #XOR = 200
+Dec [0, 7, 8, 9]:
+  [NoComp] #XOR = 1228, [RePair] #XOR = 518, [XorRePair] #XOR = 499
+Dec [0, 7, 8, 10]:
+  [NoComp] #XOR = 933, [RePair] #XOR = 405, [XorRePair] #XOR = 397
+Dec [0, 7, 8, 11]:
+  [NoComp] #XOR = 954, [RePair] #XOR = 396, [XorRePair] #XOR = 396
+Dec [0, 7, 8, 12]:
+  [NoComp] #XOR = 916, [RePair] #XOR = 392, [XorRePair] #XOR = 389
+Dec [0, 7, 8, 13]:
+  [NoComp] #XOR = 898, [RePair] #XOR = 382, [XorRePair] #XOR = 372
+Dec [0, 7, 9, 10]:
+  [NoComp] #XOR = 926, [RePair] #XOR = 408, [XorRePair] #XOR = 405
+Dec [0, 7, 9, 11]:
+  [NoComp] #XOR = 988, [RePair] #XOR = 397, [XorRePair] #XOR = 374
+Dec [0, 7, 9, 12]:
+  [NoComp] #XOR = 910, [RePair] #XOR = 395, [XorRePair] #XOR = 374
+Dec [0, 7, 9, 13]:
+  [NoComp] #XOR = 954, [RePair] #XOR = 399, [XorRePair] #XOR = 386
+Dec [0, 7, 10, 11]:
+  [NoComp] #XOR = 619, [RePair] #XOR = 276, [XorRePair] #XOR = 276
+Dec [0, 7, 10, 12]:
+  [NoComp] #XOR = 603, [RePair] #XOR = 284, [XorRePair] #XOR = 282
+Dec [0, 7, 10, 13]:
+  [NoComp] #XOR = 630, [RePair] #XOR = 281, [XorRePair] #XOR = 279
+Dec [0, 7, 11, 12]:
+  [NoComp] #XOR = 660, [RePair] #XOR = 204, [XorRePair] #XOR = 198
+Dec [0, 7, 11, 13]:
+  [NoComp] #XOR = 634, [RePair] #XOR = 212, [XorRePair] #XOR = 204
+Dec [0, 7, 12, 13]:
+  [NoComp] #XOR = 660, [RePair] #XOR = 213, [XorRePair] #XOR = 205
+Dec [0, 8, 9, 10]:
+  [NoComp] #XOR = 912, [RePair] #XOR = 400, [XorRePair] #XOR = 389
+Dec [0, 8, 9, 11]:
+  [NoComp] #XOR = 986, [RePair] #XOR = 395, [XorRePair] #XOR = 391
+Dec [0, 8, 9, 12]:
+  [NoComp] #XOR = 954, [RePair] #XOR = 410, [XorRePair] #XOR = 398
+Dec [0, 8, 9, 13]:
+  [NoComp] #XOR = 862, [RePair] #XOR = 377, [XorRePair] #XOR = 367
+Dec [0, 8, 10, 11]:
+  [NoComp] #XOR = 654, [RePair] #XOR = 281, [XorRePair] #XOR = 281
+Dec [0, 8, 10, 12]:
+  [NoComp] #XOR = 651, [RePair] #XOR = 280, [XorRePair] #XOR = 271
+Dec [0, 8, 10, 13]:
+  [NoComp] #XOR = 614, [RePair] #XOR = 273, [XorRePair] #XOR = 270
+Dec [0, 8, 11, 12]:
+  [NoComp] #XOR = 528, [RePair] #XOR = 217, [XorRePair] #XOR = 199
+Dec [0, 8, 11, 13]:
+  [NoComp] #XOR = 676, [RePair] #XOR = 227, [XorRePair] #XOR = 211
+Dec [0, 8, 12, 13]:
+  [NoComp] #XOR = 694, [RePair] #XOR = 217, [XorRePair] #XOR = 210
+Dec [0, 9, 10, 11]:
+  [NoComp] #XOR = 660, [RePair] #XOR = 282, [XorRePair] #XOR = 282
+Dec [0, 9, 10, 12]:
+  [NoComp] #XOR = 631, [RePair] #XOR = 279, [XorRePair] #XOR = 281
+Dec [0, 9, 10, 13]:
+  [NoComp] #XOR = 640, [RePair] #XOR = 284, [XorRePair] #XOR = 283
+Dec [0, 9, 11, 12]:
+  [NoComp] #XOR = 638, [RePair] #XOR = 224, [XorRePair] #XOR = 206
+Dec [0, 9, 11, 13]:
+  [NoComp] #XOR = 652, [RePair] #XOR = 231, [XorRePair] #XOR = 224
+Dec [0, 9, 12, 13]:
+  [NoComp] #XOR = 638, [RePair] #XOR = 231, [XorRePair] #XOR = 220
+Dec [0, 10, 11, 12]:
+  [NoComp] #XOR = 236, [RePair] #XOR = 107, [XorRePair] #XOR = 107
+Dec [0, 10, 11, 13]:
+  [NoComp] #XOR = 244, [RePair] #XOR = 99, [XorRePair] #XOR = 99
+Dec [0, 10, 12, 13]:
+  [NoComp] #XOR = 203, [RePair] #XOR = 90, [XorRePair] #XOR = 90
+Dec [0, 11, 12, 13]:
+  [NoComp] #XOR = 72, [RePair] #XOR = 72, [XorRePair] #XOR = 72
+Dec [1, 2, 3, 4]:
+  [NoComp] #XOR = 1220, [RePair] #XOR = 509, [XorRePair] #XOR = 492
+Dec [1, 2, 3, 5]:
+  [NoComp] #XOR = 1300, [RePair] #XOR = 529, [XorRePair] #XOR = 509
+Dec [1, 2, 3, 6]:
+  [NoComp] #XOR = 1256, [RePair] #XOR = 532, [XorRePair] #XOR = 510
+Dec [1, 2, 3, 7]:
+  [NoComp] #XOR = 1282, [RePair] #XOR = 532, [XorRePair] #XOR = 518
+Dec [1, 2, 3, 8]:
+  [NoComp] #XOR = 1310, [RePair] #XOR = 530, [XorRePair] #XOR = 512
+Dec [1, 2, 3, 9]:
+  [NoComp] #XOR = 1230, [RePair] #XOR = 518, [XorRePair] #XOR = 504
+Dec [1, 2, 3, 10]:
+  [NoComp] #XOR = 906, [RePair] #XOR = 413, [XorRePair] #XOR = 396
+Dec [1, 2, 3, 11]:
+  [NoComp] #XOR = 868, [RePair] #XOR = 378, [XorRePair] #XOR = 366
+Dec [1, 2, 3, 12]:
+  [NoComp] #XOR = 906, [RePair] #XOR = 396, [XorRePair] #XOR = 384
+Dec [1, 2, 3, 13]:
+  [NoComp] #XOR = 878, [RePair] #XOR = 386, [XorRePair] #XOR = 371
+Dec [1, 2, 4, 5]:
+  [NoComp] #XOR = 1318, [RePair] #XOR = 531, [XorRePair] #XOR = 514
+Dec [1, 2, 4, 6]:
+  [NoComp] #XOR = 1234, [RePair] #XOR = 524, [XorRePair] #XOR = 516
+Dec [1, 2, 4, 7]:
+  [NoComp] #XOR = 1186, [RePair] #XOR = 530, [XorRePair] #XOR = 505
+Dec [1, 2, 4, 8]:
+  [NoComp] #XOR = 1278, [RePair] #XOR = 531, [XorRePair] #XOR = 506
+Dec [1, 2, 4, 9]:
+  [NoComp] #XOR = 1366, [RePair] #XOR = 527, [XorRePair] #XOR = 498
+Dec [1, 2, 4, 10]:
+  [NoComp] #XOR = 911, [RePair] #XOR = 393, [XorRePair] #XOR = 388
+Dec [1, 2, 4, 11]:
+  [NoComp] #XOR = 924, [RePair] #XOR = 387, [XorRePair] #XOR = 373
+Dec [1, 2, 4, 12]:
+  [NoComp] #XOR = 972, [RePair] #XOR = 397, [XorRePair] #XOR = 390
+Dec [1, 2, 4, 13]:
+  [NoComp] #XOR = 882, [RePair] #XOR = 396, [XorRePair] #XOR = 377
+Dec [1, 2, 5, 6]:
+  [NoComp] #XOR = 1316, [RePair] #XOR = 535, [XorRePair] #XOR = 521
+Dec [1, 2, 5, 7]:
+  [NoComp] #XOR = 1280, [RePair] #XOR = 537, [XorRePair] #XOR = 523
+Dec [1, 2, 5, 8]:
+  [NoComp] #XOR = 1318, [RePair] #XOR = 529, [XorRePair] #XOR = 521
+Dec [1, 2, 5, 9]:
+  [NoComp] #XOR = 1218, [RePair] #XOR = 525, [XorRePair] #XOR = 511
+Dec [1, 2, 5, 10]:
+  [NoComp] #XOR = 868, [RePair] #XOR = 391, [XorRePair] #XOR = 389
+Dec [1, 2, 5, 11]:
+  [NoComp] #XOR = 992, [RePair] #XOR = 402, [XorRePair] #XOR = 386
+Dec [1, 2, 5, 12]:
+  [NoComp] #XOR = 980, [RePair] #XOR = 401, [XorRePair] #XOR = 385
+Dec [1, 2, 5, 13]:
+  [NoComp] #XOR = 938, [RePair] #XOR = 406, [XorRePair] #XOR = 389
+Dec [1, 2, 6, 7]:
+  [NoComp] #XOR = 1268, [RePair] #XOR = 518, [XorRePair] #XOR = 503
+Dec [1, 2, 6, 8]:
+  [NoComp] #XOR = 1182, [RePair] #XOR = 515, [XorRePair] #XOR = 501
+Dec [1, 2, 6, 9]:
+  [NoComp] #XOR = 1324, [RePair] #XOR = 534, [XorRePair] #XOR = 531
+Dec [1, 2, 6, 10]:
+  [NoComp] #XOR = 946, [RePair] #XOR = 412, [XorRePair] #XOR = 395
+Dec [1, 2, 6, 11]:
+  [NoComp] #XOR = 984, [RePair] #XOR = 399, [XorRePair] #XOR = 377
+Dec [1, 2, 6, 12]:
+  [NoComp] #XOR = 944, [RePair] #XOR = 404, [XorRePair] #XOR = 388
+Dec [1, 2, 6, 13]:
+  [NoComp] #XOR = 948, [RePair] #XOR = 408, [XorRePair] #XOR = 388
+Dec [1, 2, 7, 8]:
+  [NoComp] #XOR = 1220, [RePair] #XOR = 516, [XorRePair] #XOR = 506
+Dec [1, 2, 7, 9]:
+  [NoComp] #XOR = 1294, [RePair] #XOR = 523, [XorRePair] #XOR = 508
+Dec [1, 2, 7, 10]:
+  [NoComp] #XOR = 950, [RePair] #XOR = 408, [XorRePair] #XOR = 403
+Dec [1, 2, 7, 11]:
+  [NoComp] #XOR = 954, [RePair] #XOR = 396, [XorRePair] #XOR = 386
+Dec [1, 2, 7, 12]:
+  [NoComp] #XOR = 972, [RePair] #XOR = 403, [XorRePair] #XOR = 392
+Dec [1, 2, 7, 13]:
+  [NoComp] #XOR = 934, [RePair] #XOR = 402, [XorRePair] #XOR = 397
+Dec [1, 2, 8, 9]:
+  [NoComp] #XOR = 1274, [RePair] #XOR = 510, [XorRePair] #XOR = 506
+Dec [1, 2, 8, 10]:
+  [NoComp] #XOR = 875, [RePair] #XOR = 400, [XorRePair] #XOR = 398
+Dec [1, 2, 8, 11]:
+  [NoComp] #XOR = 910, [RePair] #XOR = 376, [XorRePair] #XOR = 362
+Dec [1, 2, 8, 12]:
+  [NoComp] #XOR = 968, [RePair] #XOR = 404, [XorRePair] #XOR = 377
+Dec [1, 2, 8, 13]:
+  [NoComp] #XOR = 936, [RePair] #XOR = 398, [XorRePair] #XOR = 387
+Dec [1, 2, 9, 10]:
+  [NoComp] #XOR = 956, [RePair] #XOR = 411, [XorRePair] #XOR = 401
+Dec [1, 2, 9, 11]:
+  [NoComp] #XOR = 850, [RePair] #XOR = 368, [XorRePair] #XOR = 363
+Dec [1, 2, 9, 12]:
+  [NoComp] #XOR = 980, [RePair] #XOR = 416, [XorRePair] #XOR = 398
+Dec [1, 2, 9, 13]:
+  [NoComp] #XOR = 890, [RePair] #XOR = 385, [XorRePair] #XOR = 377
+Dec [1, 2, 10, 11]:
+  [NoComp] #XOR = 632, [RePair] #XOR = 274, [XorRePair] #XOR = 269
+Dec [1, 2, 10, 12]:
+  [NoComp] #XOR = 619, [RePair] #XOR = 268, [XorRePair] #XOR = 265
+Dec [1, 2, 10, 13]:
+  [NoComp] #XOR = 672, [RePair] #XOR = 268, [XorRePair] #XOR = 262
+Dec [1, 2, 11, 12]:
+  [NoComp] #XOR = 586, [RePair] #XOR = 214, [XorRePair] #XOR = 197
+Dec [1, 2, 11, 13]:
+  [NoComp] #XOR = 594, [RePair] #XOR = 207, [XorRePair] #XOR = 188
+Dec [1, 2, 12, 13]:
+  [NoComp] #XOR = 678, [RePair] #XOR = 202, [XorRePair] #XOR = 191
+Dec [1, 3, 4, 5]:
+  [NoComp] #XOR = 1346, [RePair] #XOR = 532, [XorRePair] #XOR = 513
+Dec [1, 3, 4, 6]:
+  [NoComp] #XOR = 1184, [RePair] #XOR = 522, [XorRePair] #XOR = 506
+Dec [1, 3, 4, 7]:
+  [NoComp] #XOR = 1320, [RePair] #XOR = 549, [XorRePair] #XOR = 529
+Dec [1, 3, 4, 8]:
+  [NoComp] #XOR = 1232, [RePair] #XOR = 521, [XorRePair] #XOR = 503
+Dec [1, 3, 4, 9]:
+  [NoComp] #XOR = 1306, [RePair] #XOR = 532, [XorRePair] #XOR = 513
+Dec [1, 3, 4, 10]:
+  [NoComp] #XOR = 887, [RePair] #XOR = 399, [XorRePair] #XOR = 391
+Dec [1, 3, 4, 11]:
+  [NoComp] #XOR = 934, [RePair] #XOR = 391, [XorRePair] #XOR = 379
+Dec [1, 3, 4, 12]:
+  [NoComp] #XOR = 980, [RePair] #XOR = 413, [XorRePair] #XOR = 395
+Dec [1, 3, 4, 13]:
+  [NoComp] #XOR = 876, [RePair] #XOR = 397, [XorRePair] #XOR = 380
+Dec [1, 3, 5, 6]:
+  [NoComp] #XOR = 1210, [RePair] #XOR = 510, [XorRePair] #XOR = 492
+Dec [1, 3, 5, 7]:
+  [NoComp] #XOR = 1238, [RePair] #XOR = 527, [XorRePair] #XOR = 513
+Dec [1, 3, 5, 8]:
+  [NoComp] #XOR = 1244, [RePair] #XOR = 524, [XorRePair] #XOR = 510
+Dec [1, 3, 5, 9]:
+  [NoComp] #XOR = 1244, [RePair] #XOR = 529, [XorRePair] #XOR = 522
+Dec [1, 3, 5, 10]:
+  [NoComp] #XOR = 932, [RePair] #XOR = 407, [XorRePair] #XOR = 394
+Dec [1, 3, 5, 11]:
+  [NoComp] #XOR = 934, [RePair] #XOR = 391, [XorRePair] #XOR = 379
+Dec [1, 3, 5, 12]:
+  [NoComp] #XOR = 950, [RePair] #XOR = 406, [XorRePair] #XOR = 390
+Dec [1, 3, 5, 13]:
+  [NoComp] #XOR = 894, [RePair] #XOR = 386, [XorRePair] #XOR = 375
+Dec [1, 3, 6, 7]:
+  [NoComp] #XOR = 1268, [RePair] #XOR = 521, [XorRePair] #XOR = 502
+Dec [1, 3, 6, 8]:
+  [NoComp] #XOR = 1202, [RePair] #XOR = 512, [XorRePair] #XOR = 494
+Dec [1, 3, 6, 9]:
+  [NoComp] #XOR = 1254, [RePair] #XOR = 524, [XorRePair] #XOR = 508
+Dec [1, 3, 6, 10]:
+  [NoComp] #XOR = 892, [RePair] #XOR = 395, [XorRePair] #XOR = 382
+Dec [1, 3, 6, 11]:
+  [NoComp] #XOR = 934, [RePair] #XOR = 405, [XorRePair] #XOR = 392
+Dec [1, 3, 6, 12]:
+  [NoComp] #XOR = 924, [RePair] #XOR = 404, [XorRePair] #XOR = 394
+Dec [1, 3, 6, 13]:
+  [NoComp] #XOR = 870, [RePair] #XOR = 380, [XorRePair] #XOR = 373
+Dec [1, 3, 7, 8]:
+  [NoComp] #XOR = 1276, [RePair] #XOR = 515, [XorRePair] #XOR = 497
+Dec [1, 3, 7, 9]:
+  [NoComp] #XOR = 1306, [RePair] #XOR = 542, [XorRePair] #XOR = 516
+Dec [1, 3, 7, 10]:
+  [NoComp] #XOR = 900, [RePair] #XOR = 393, [XorRePair] #XOR = 387
+Dec [1, 3, 7, 11]:
+  [NoComp] #XOR = 902, [RePair] #XOR = 397, [XorRePair] #XOR = 367
+Dec [1, 3, 7, 12]:
+  [NoComp] #XOR = 930, [RePair] #XOR = 395, [XorRePair] #XOR = 374
+Dec [1, 3, 7, 13]:
+  [NoComp] #XOR = 914, [RePair] #XOR = 390, [XorRePair] #XOR = 387
+Dec [1, 3, 8, 9]:
+  [NoComp] #XOR = 1270, [RePair] #XOR = 525, [XorRePair] #XOR = 512
+Dec [1, 3, 8, 10]:
+  [NoComp] #XOR = 893, [RePair] #XOR = 412, [XorRePair] #XOR = 398
+Dec [1, 3, 8, 11]:
+  [NoComp] #XOR = 936, [RePair] #XOR = 394, [XorRePair] #XOR = 376
+Dec [1, 3, 8, 12]:
+  [NoComp] #XOR = 930, [RePair] #XOR = 391, [XorRePair] #XOR = 382
+Dec [1, 3, 8, 13]:
+  [NoComp] #XOR = 866, [RePair] #XOR = 379, [XorRePair] #XOR = 370
+Dec [1, 3, 9, 10]:
+  [NoComp] #XOR = 961, [RePair] #XOR = 408, [XorRePair] #XOR = 404
+Dec [1, 3, 9, 11]:
+  [NoComp] #XOR = 960, [RePair] #XOR = 406, [XorRePair] #XOR = 389
+Dec [1, 3, 9, 12]:
+  [NoComp] #XOR = 988, [RePair] #XOR = 408, [XorRePair] #XOR = 403
+Dec [1, 3, 9, 13]:
+  [NoComp] #XOR = 1012, [RePair] #XOR = 397, [XorRePair] #XOR = 402
+Dec [1, 3, 10, 11]:
+  [NoComp] #XOR = 663, [RePair] #XOR = 286, [XorRePair] #XOR = 283
+Dec [1, 3, 10, 12]:
+  [NoComp] #XOR = 636, [RePair] #XOR = 266, [XorRePair] #XOR = 261
+Dec [1, 3, 10, 13]:
+  [NoComp] #XOR = 670, [RePair] #XOR = 270, [XorRePair] #XOR = 260
+Dec [1, 3, 11, 12]:
+  [NoComp] #XOR = 598, [RePair] #XOR = 208, [XorRePair] #XOR = 193
+Dec [1, 3, 11, 13]:
+  [NoComp] #XOR = 614, [RePair] #XOR = 206, [XorRePair] #XOR = 205
+Dec [1, 3, 12, 13]:
+  [NoComp] #XOR = 682, [RePair] #XOR = 217, [XorRePair] #XOR = 202
+Dec [1, 4, 5, 6]:
+  [NoComp] #XOR = 1208, [RePair] #XOR = 518, [XorRePair] #XOR = 504
+Dec [1, 4, 5, 7]:
+  [NoComp] #XOR = 1288, [RePair] #XOR = 525, [XorRePair] #XOR = 522
+Dec [1, 4, 5, 8]:
+  [NoComp] #XOR = 1292, [RePair] #XOR = 521, [XorRePair] #XOR = 518
+Dec [1, 4, 5, 9]:
+  [NoComp] #XOR = 1208, [RePair] #XOR = 519, [XorRePair] #XOR = 510
+Dec [1, 4, 5, 10]:
+  [NoComp] #XOR = 921, [RePair] #XOR = 395, [XorRePair] #XOR = 383
+Dec [1, 4, 5, 11]:
+  [NoComp] #XOR = 984, [RePair] #XOR = 391, [XorRePair] #XOR = 379
+Dec [1, 4, 5, 12]:
+  [NoComp] #XOR = 980, [RePair] #XOR = 412, [XorRePair] #XOR = 389
+Dec [1, 4, 5, 13]:
+  [NoComp] #XOR = 946, [RePair] #XOR = 413, [XorRePair] #XOR = 403
+Dec [1, 4, 6, 7]:
+  [NoComp] #XOR = 1254, [RePair] #XOR = 527, [XorRePair] #XOR = 512
+Dec [1, 4, 6, 8]:
+  [NoComp] #XOR = 1260, [RePair] #XOR = 529, [XorRePair] #XOR = 501
+Dec [1, 4, 6, 9]:
+  [NoComp] #XOR = 1278, [RePair] #XOR = 529, [XorRePair] #XOR = 512
+Dec [1, 4, 6, 10]:
+  [NoComp] #XOR = 925, [RePair] #XOR = 409, [XorRePair] #XOR = 395
+Dec [1, 4, 6, 11]:
+  [NoComp] #XOR = 1008, [RePair] #XOR = 399, [XorRePair] #XOR = 374
+Dec [1, 4, 6, 12]:
+  [NoComp] #XOR = 964, [RePair] #XOR = 403, [XorRePair] #XOR = 399
+Dec [1, 4, 6, 13]:
+  [NoComp] #XOR = 878, [RePair] #XOR = 386, [XorRePair] #XOR = 379
+Dec [1, 4, 7, 8]:
+  [NoComp] #XOR = 1254, [RePair] #XOR = 510, [XorRePair] #XOR = 494
+Dec [1, 4, 7, 9]:
+  [NoComp] #XOR = 1260, [RePair] #XOR = 536, [XorRePair] #XOR = 523
+Dec [1, 4, 7, 10]:
+  [NoComp] #XOR = 975, [RePair] #XOR = 411, [XorRePair] #XOR = 397
+Dec [1, 4, 7, 11]:
+  [NoComp] #XOR = 914, [RePair] #XOR = 396, [XorRePair] #XOR = 380
+Dec [1, 4, 7, 12]:
+  [NoComp] #XOR = 944, [RePair] #XOR = 411, [XorRePair] #XOR = 401
+Dec [1, 4, 7, 13]:
+  [NoComp] #XOR = 966, [RePair] #XOR = 408, [XorRePair] #XOR = 380
+Dec [1, 4, 8, 9]:
+  [NoComp] #XOR = 1314, [RePair] #XOR = 518, [XorRePair] #XOR = 506
+Dec [1, 4, 8, 10]:
+  [NoComp] #XOR = 957, [RePair] #XOR = 418, [XorRePair] #XOR = 412
+Dec [1, 4, 8, 11]:
+  [NoComp] #XOR = 938, [RePair] #XOR = 400, [XorRePair] #XOR = 391
+Dec [1, 4, 8, 12]:
+  [NoComp] #XOR = 924, [RePair] #XOR = 391, [XorRePair] #XOR = 387
+Dec [1, 4, 8, 13]:
+  [NoComp] #XOR = 986, [RePair] #XOR = 393, [XorRePair] #XOR = 386
+Dec [1, 4, 9, 10]:
+  [NoComp] #XOR = 916, [RePair] #XOR = 399, [XorRePair] #XOR = 393
+Dec [1, 4, 9, 11]:
+  [NoComp] #XOR = 930, [RePair] #XOR = 406, [XorRePair] #XOR = 396
+Dec [1, 4, 9, 12]:
+  [NoComp] #XOR = 866, [RePair] #XOR = 389, [XorRePair] #XOR = 384
+Dec [1, 4, 9, 13]:
+  [NoComp] #XOR = 916, [RePair] #XOR = 392, [XorRePair] #XOR = 377
+Dec [1, 4, 10, 11]:
+  [NoComp] #XOR = 617, [RePair] #XOR = 280, [XorRePair] #XOR = 275
+Dec [1, 4, 10, 12]:
+  [NoComp] #XOR = 666, [RePair] #XOR = 267, [XorRePair] #XOR = 263
+Dec [1, 4, 10, 13]:
+  [NoComp] #XOR = 649, [RePair] #XOR = 258, [XorRePair] #XOR = 257
+Dec [1, 4, 11, 12]:
+  [NoComp] #XOR = 620, [RePair] #XOR = 219, [XorRePair] #XOR = 211
+Dec [1, 4, 11, 13]:
+  [NoComp] #XOR = 696, [RePair] #XOR = 217, [XorRePair] #XOR = 212
+Dec [1, 4, 12, 13]:
+  [NoComp] #XOR = 678, [RePair] #XOR = 211, [XorRePair] #XOR = 200
+Dec [1, 5, 6, 7]:
+  [NoComp] #XOR = 1236, [RePair] #XOR = 518, [XorRePair] #XOR = 503
+Dec [1, 5, 6, 8]:
+  [NoComp] #XOR = 1288, [RePair] #XOR = 526, [XorRePair] #XOR = 499
+Dec [1, 5, 6, 9]:
+  [NoComp] #XOR = 1210, [RePair] #XOR = 520, [XorRePair] #XOR = 508
+Dec [1, 5, 6, 10]:
+  [NoComp] #XOR = 946, [RePair] #XOR = 402, [XorRePair] #XOR = 394
+Dec [1, 5, 6, 11]:
+  [NoComp] #XOR = 886, [RePair] #XOR = 391, [XorRePair] #XOR = 379
+Dec [1, 5, 6, 12]:
+  [NoComp] #XOR = 946, [RePair] #XOR = 409, [XorRePair] #XOR = 394
+Dec [1, 5, 6, 13]:
+  [NoComp] #XOR = 934, [RePair] #XOR = 398, [XorRePair] #XOR = 383
+Dec [1, 5, 7, 8]:
+  [NoComp] #XOR = 1352, [RePair] #XOR = 542, [XorRePair] #XOR = 519
+Dec [1, 5, 7, 9]:
+  [NoComp] #XOR = 1276, [RePair] #XOR = 526, [XorRePair] #XOR = 515
+Dec [1, 5, 7, 10]:
+  [NoComp] #XOR = 895, [RePair] #XOR = 403, [XorRePair] #XOR = 388
+Dec [1, 5, 7, 11]:
+  [NoComp] #XOR = 902, [RePair] #XOR = 387, [XorRePair] #XOR = 378
+Dec [1, 5, 7, 12]:
+  [NoComp] #XOR = 950, [RePair] #XOR = 395, [XorRePair] #XOR = 397
+Dec [1, 5, 7, 13]:
+  [NoComp] #XOR = 906, [RePair] #XOR = 398, [XorRePair] #XOR = 378
+Dec [1, 5, 8, 9]:
+  [NoComp] #XOR = 1336, [RePair] #XOR = 529, [XorRePair] #XOR = 499
+Dec [1, 5, 8, 10]:
+  [NoComp] #XOR = 954, [RePair] #XOR = 414, [XorRePair] #XOR = 396
+Dec [1, 5, 8, 11]:
+  [NoComp] #XOR = 952, [RePair] #XOR = 406, [XorRePair] #XOR = 392
+Dec [1, 5, 8, 12]:
+  [NoComp] #XOR = 954, [RePair] #XOR = 399, [XorRePair] #XOR = 390
+Dec [1, 5, 8, 13]:
+  [NoComp] #XOR = 996, [RePair] #XOR = 408, [XorRePair] #XOR = 402
+Dec [1, 5, 9, 10]:
+  [NoComp] #XOR = 894, [RePair] #XOR = 399, [XorRePair] #XOR = 393
+Dec [1, 5, 9, 11]:
+  [NoComp] #XOR = 902, [RePair] #XOR = 398, [XorRePair] #XOR = 383
+Dec [1, 5, 9, 12]:
+  [NoComp] #XOR = 988, [RePair] #XOR = 413, [XorRePair] #XOR = 387
+Dec [1, 5, 9, 13]:
+  [NoComp] #XOR = 950, [RePair] #XOR = 397, [XorRePair] #XOR = 377
+Dec [1, 5, 10, 11]:
+  [NoComp] #XOR = 627, [RePair] #XOR = 286, [XorRePair] #XOR = 280
+Dec [1, 5, 10, 12]:
+  [NoComp] #XOR = 617, [RePair] #XOR = 263, [XorRePair] #XOR = 254
+Dec [1, 5, 10, 13]:
+  [NoComp] #XOR = 636, [RePair] #XOR = 267, [XorRePair] #XOR = 260
+Dec [1, 5, 11, 12]:
+  [NoComp] #XOR = 614, [RePair] #XOR = 213, [XorRePair] #XOR = 203
+Dec [1, 5, 11, 13]:
+  [NoComp] #XOR = 634, [RePair] #XOR = 203, [XorRePair] #XOR = 201
+Dec [1, 5, 12, 13]:
+  [NoComp] #XOR = 646, [RePair] #XOR = 202, [XorRePair] #XOR = 198
+Dec [1, 6, 7, 8]:
+  [NoComp] #XOR = 1246, [RePair] #XOR = 505, [XorRePair] #XOR = 486
+Dec [1, 6, 7, 9]:
+  [NoComp] #XOR = 1224, [RePair] #XOR = 513, [XorRePair] #XOR = 517
+Dec [1, 6, 7, 10]:
+  [NoComp] #XOR = 941, [RePair] #XOR = 412, [XorRePair] #XOR = 399
+Dec [1, 6, 7, 11]:
+  [NoComp] #XOR = 1000, [RePair] #XOR = 403, [XorRePair] #XOR = 370
+Dec [1, 6, 7, 12]:
+  [NoComp] #XOR = 868, [RePair] #XOR = 384, [XorRePair] #XOR = 373
+Dec [1, 6, 7, 13]:
+  [NoComp] #XOR = 984, [RePair] #XOR = 401, [XorRePair] #XOR = 396
+Dec [1, 6, 8, 9]:
+  [NoComp] #XOR = 1348, [RePair] #XOR = 533, [XorRePair] #XOR = 516
+Dec [1, 6, 8, 10]:
+  [NoComp] #XOR = 939, [RePair] #XOR = 410, [XorRePair] #XOR = 393
+Dec [1, 6, 8, 11]:
+  [NoComp] #XOR = 918, [RePair] #XOR = 389, [XorRePair] #XOR = 360
+Dec [1, 6, 8, 12]:
+  [NoComp] #XOR = 978, [RePair] #XOR = 389, [XorRePair] #XOR = 368
+Dec [1, 6, 8, 13]:
+  [NoComp] #XOR = 918, [RePair] #XOR = 402, [XorRePair] #XOR = 388
+Dec [1, 6, 9, 10]:
+  [NoComp] #XOR = 913, [RePair] #XOR = 401, [XorRePair] #XOR = 396
+Dec [1, 6, 9, 11]:
+  [NoComp] #XOR = 958, [RePair] #XOR = 399, [XorRePair] #XOR = 378
+Dec [1, 6, 9, 12]:
+  [NoComp] #XOR = 980, [RePair] #XOR = 411, [XorRePair] #XOR = 401
+Dec [1, 6, 9, 13]:
+  [NoComp] #XOR = 904, [RePair] #XOR = 392, [XorRePair] #XOR = 378
+Dec [1, 6, 10, 11]:
+  [NoComp] #XOR = 660, [RePair] #XOR = 281, [XorRePair] #XOR = 280
+Dec [1, 6, 10, 12]:
+  [NoComp] #XOR = 661, [RePair] #XOR = 278, [XorRePair] #XOR = 273
+Dec [1, 6, 10, 13]:
+  [NoComp] #XOR = 654, [RePair] #XOR = 268, [XorRePair] #XOR = 262
+Dec [1, 6, 11, 12]:
+  [NoComp] #XOR = 606, [RePair] #XOR = 219, [XorRePair] #XOR = 207
+Dec [1, 6, 11, 13]:
+  [NoComp] #XOR = 690, [RePair] #XOR = 216, [XorRePair] #XOR = 207
+Dec [1, 6, 12, 13]:
+  [NoComp] #XOR = 692, [RePair] #XOR = 223, [XorRePair] #XOR = 202
+Dec [1, 7, 8, 9]:
+  [NoComp] #XOR = 1208, [RePair] #XOR = 497, [XorRePair] #XOR = 492
+Dec [1, 7, 8, 10]:
+  [NoComp] #XOR = 814, [RePair] #XOR = 385, [XorRePair] #XOR = 382
+Dec [1, 7, 8, 11]:
+  [NoComp] #XOR = 900, [RePair] #XOR = 385, [XorRePair] #XOR = 380
+Dec [1, 7, 8, 12]:
+  [NoComp] #XOR = 906, [RePair] #XOR = 399, [XorRePair] #XOR = 378
+Dec [1, 7, 8, 13]:
+  [NoComp] #XOR = 844, [RePair] #XOR = 386, [XorRePair] #XOR = 367
+Dec [1, 7, 9, 10]:
+  [NoComp] #XOR = 939, [RePair] #XOR = 421, [XorRePair] #XOR = 411
+Dec [1, 7, 9, 11]:
+  [NoComp] #XOR = 938, [RePair] #XOR = 404, [XorRePair] #XOR = 390
+Dec [1, 7, 9, 12]:
+  [NoComp] #XOR = 974, [RePair] #XOR = 390, [XorRePair] #XOR = 387
+Dec [1, 7, 9, 13]:
+  [NoComp] #XOR = 950, [RePair] #XOR = 394, [XorRePair] #XOR = 388
+Dec [1, 7, 10, 11]:
+  [NoComp] #XOR = 641, [RePair] #XOR = 283, [XorRePair] #XOR = 277
+Dec [1, 7, 10, 12]:
+  [NoComp] #XOR = 630, [RePair] #XOR = 280, [XorRePair] #XOR = 276
+Dec [1, 7, 10, 13]:
+  [NoComp] #XOR = 682, [RePair] #XOR = 284, [XorRePair] #XOR = 275
+Dec [1, 7, 11, 12]:
+  [NoComp] #XOR = 496, [RePair] #XOR = 199, [XorRePair] #XOR = 192
+Dec [1, 7, 11, 13]:
+  [NoComp] #XOR = 624, [RePair] #XOR = 223, [XorRePair] #XOR = 213
+Dec [1, 7, 12, 13]:
+  [NoComp] #XOR = 682, [RePair] #XOR = 214, [XorRePair] #XOR = 198
+Dec [1, 8, 9, 10]:
+  [NoComp] #XOR = 914, [RePair] #XOR = 401, [XorRePair] #XOR = 389
+Dec [1, 8, 9, 11]:
+  [NoComp] #XOR = 940, [RePair] #XOR = 393, [XorRePair] #XOR = 379
+Dec [1, 8, 9, 12]:
+  [NoComp] #XOR = 908, [RePair] #XOR = 400, [XorRePair] #XOR = 383
+Dec [1, 8, 9, 13]:
+  [NoComp] #XOR = 884, [RePair] #XOR = 376, [XorRePair] #XOR = 369
+Dec [1, 8, 10, 11]:
+  [NoComp] #XOR = 632, [RePair] #XOR = 285, [XorRePair] #XOR = 281
+Dec [1, 8, 10, 12]:
+  [NoComp] #XOR = 619, [RePair] #XOR = 277, [XorRePair] #XOR = 276
+Dec [1, 8, 10, 13]:
+  [NoComp] #XOR = 645, [RePair] #XOR = 275, [XorRePair] #XOR = 273
+Dec [1, 8, 11, 12]:
+  [NoComp] #XOR = 680, [RePair] #XOR = 215, [XorRePair] #XOR = 194
+Dec [1, 8, 11, 13]:
+  [NoComp] #XOR = 652, [RePair] #XOR = 220, [XorRePair] #XOR = 213
+Dec [1, 8, 12, 13]:
+  [NoComp] #XOR = 684, [RePair] #XOR = 214, [XorRePair] #XOR = 202
+Dec [1, 9, 10, 11]:
+  [NoComp] #XOR = 654, [RePair] #XOR = 284, [XorRePair] #XOR = 282
+Dec [1, 9, 10, 12]:
+  [NoComp] #XOR = 643, [RePair] #XOR = 285, [XorRePair] #XOR = 280
+Dec [1, 9, 10, 13]:
+  [NoComp] #XOR = 636, [RePair] #XOR = 289, [XorRePair] #XOR = 278
+Dec [1, 9, 11, 12]:
+  [NoComp] #XOR = 520, [RePair] #XOR = 218, [XorRePair] #XOR = 204
+Dec [1, 9, 11, 13]:
+  [NoComp] #XOR = 682, [RePair] #XOR = 231, [XorRePair] #XOR = 210
+Dec [1, 9, 12, 13]:
+  [NoComp] #XOR = 690, [RePair] #XOR = 222, [XorRePair] #XOR = 213
+Dec [1, 10, 11, 12]:
+  [NoComp] #XOR = 241, [RePair] #XOR = 109, [XorRePair] #XOR = 109
+Dec [1, 10, 11, 13]:
+  [NoComp] #XOR = 231, [RePair] #XOR = 101, [XorRePair] #XOR = 101
+Dec [1, 10, 12, 13]:
+  [NoComp] #XOR = 187, [RePair] #XOR = 90, [XorRePair] #XOR = 90
+Dec [1, 11, 12, 13]:
+  [NoComp] #XOR = 72, [RePair] #XOR = 72, [XorRePair] #XOR = 72
+Dec [2, 3, 4, 5]:
+  [NoComp] #XOR = 1216, [RePair] #XOR = 509, [XorRePair] #XOR = 494
+Dec [2, 3, 4, 6]:
+  [NoComp] #XOR = 1340, [RePair] #XOR = 537, [XorRePair] #XOR = 525
+Dec [2, 3, 4, 7]:
+  [NoComp] #XOR = 1264, [RePair] #XOR = 534, [XorRePair] #XOR = 517
+Dec [2, 3, 4, 8]:
+  [NoComp] #XOR = 1284, [RePair] #XOR = 537, [XorRePair] #XOR = 520
+Dec [2, 3, 4, 9]:
+  [NoComp] #XOR = 1292, [RePair] #XOR = 529, [XorRePair] #XOR = 512
+Dec [2, 3, 4, 10]:
+  [NoComp] #XOR = 913, [RePair] #XOR = 412, [XorRePair] #XOR = 408
+Dec [2, 3, 4, 11]:
+  [NoComp] #XOR = 864, [RePair] #XOR = 375, [XorRePair] #XOR = 359
+Dec [2, 3, 4, 12]:
+  [NoComp] #XOR = 898, [RePair] #XOR = 387, [XorRePair] #XOR = 375
+Dec [2, 3, 4, 13]:
+  [NoComp] #XOR = 860, [RePair] #XOR = 392, [XorRePair] #XOR = 381
+Dec [2, 3, 5, 6]:
+  [NoComp] #XOR = 1322, [RePair] #XOR = 527, [XorRePair] #XOR = 517
+Dec [2, 3, 5, 7]:
+  [NoComp] #XOR = 1244, [RePair] #XOR = 517, [XorRePair] #XOR = 506
+Dec [2, 3, 5, 8]:
+  [NoComp] #XOR = 1174, [RePair] #XOR = 517, [XorRePair] #XOR = 511
+Dec [2, 3, 5, 9]:
+  [NoComp] #XOR = 1278, [RePair] #XOR = 536, [XorRePair] #XOR = 519
+Dec [2, 3, 5, 10]:
+  [NoComp] #XOR = 911, [RePair] #XOR = 408, [XorRePair] #XOR = 384
+Dec [2, 3, 5, 11]:
+  [NoComp] #XOR = 916, [RePair] #XOR = 394, [XorRePair] #XOR = 362
+Dec [2, 3, 5, 12]:
+  [NoComp] #XOR = 986, [RePair] #XOR = 416, [XorRePair] #XOR = 403
+Dec [2, 3, 5, 13]:
+  [NoComp] #XOR = 888, [RePair] #XOR = 392, [XorRePair] #XOR = 379
+Dec [2, 3, 6, 7]:
+  [NoComp] #XOR = 1260, [RePair] #XOR = 528, [XorRePair] #XOR = 509
+Dec [2, 3, 6, 8]:
+  [NoComp] #XOR = 1268, [RePair] #XOR = 524, [XorRePair] #XOR = 509
+Dec [2, 3, 6, 9]:
+  [NoComp] #XOR = 1366, [RePair] #XOR = 536, [XorRePair] #XOR = 511
+Dec [2, 3, 6, 10]:
+  [NoComp] #XOR = 860, [RePair] #XOR = 385, [XorRePair] #XOR = 388
+Dec [2, 3, 6, 11]:
+  [NoComp] #XOR = 978, [RePair] #XOR = 393, [XorRePair] #XOR = 376
+Dec [2, 3, 6, 12]:
+  [NoComp] #XOR = 984, [RePair] #XOR = 414, [XorRePair] #XOR = 390
+Dec [2, 3, 6, 13]:
+  [NoComp] #XOR = 920, [RePair] #XOR = 396, [XorRePair] #XOR = 379
+Dec [2, 3, 7, 8]:
+  [NoComp] #XOR = 1274, [RePair] #XOR = 517, [XorRePair] #XOR = 499
+Dec [2, 3, 7, 9]:
+  [NoComp] #XOR = 1238, [RePair] #XOR = 516, [XorRePair] #XOR = 492
+Dec [2, 3, 7, 10]:
+  [NoComp] #XOR = 941, [RePair] #XOR = 418, [XorRePair] #XOR = 400
+Dec [2, 3, 7, 11]:
+  [NoComp] #XOR = 990, [RePair] #XOR = 391, [XorRePair] #XOR = 377
+Dec [2, 3, 7, 12]:
+  [NoComp] #XOR = 946, [RePair] #XOR = 409, [XorRePair] #XOR = 387
+Dec [2, 3, 7, 13]:
+  [NoComp] #XOR = 964, [RePair] #XOR = 411, [XorRePair] #XOR = 398
+Dec [2, 3, 8, 9]:
+  [NoComp] #XOR = 1206, [RePair] #XOR = 522, [XorRePair] #XOR = 512
+Dec [2, 3, 8, 10]:
+  [NoComp] #XOR = 986, [RePair] #XOR = 413, [XorRePair] #XOR = 397
+Dec [2, 3, 8, 11]:
+  [NoComp] #XOR = 954, [RePair] #XOR = 394, [XorRePair] #XOR = 377
+Dec [2, 3, 8, 12]:
+  [NoComp] #XOR = 974, [RePair] #XOR = 400, [XorRePair] #XOR = 387
+Dec [2, 3, 8, 13]:
+  [NoComp] #XOR = 930, [RePair] #XOR = 400, [XorRePair] #XOR = 396
+Dec [2, 3, 9, 10]:
+  [NoComp] #XOR = 884, [RePair] #XOR = 415, [XorRePair] #XOR = 400
+Dec [2, 3, 9, 11]:
+  [NoComp] #XOR = 938, [RePair] #XOR = 382, [XorRePair] #XOR = 379
+Dec [2, 3, 9, 12]:
+  [NoComp] #XOR = 984, [RePair] #XOR = 407, [XorRePair] #XOR = 376
+Dec [2, 3, 9, 13]:
+  [NoComp] #XOR = 920, [RePair] #XOR = 402, [XorRePair] #XOR = 401
+Dec [2, 3, 10, 11]:
+  [NoComp] #XOR = 595, [RePair] #XOR = 274, [XorRePair] #XOR = 272
+Dec [2, 3, 10, 12]:
+  [NoComp] #XOR = 613, [RePair] #XOR = 269, [XorRePair] #XOR = 259
+Dec [2, 3, 10, 13]:
+  [NoComp] #XOR = 646, [RePair] #XOR = 263, [XorRePair] #XOR = 262
+Dec [2, 3, 11, 12]:
+  [NoComp] #XOR = 578, [RePair] #XOR = 212, [XorRePair] #XOR = 197
+Dec [2, 3, 11, 13]:
+  [NoComp] #XOR = 578, [RePair] #XOR = 208, [XorRePair] #XOR = 204
+Dec [2, 3, 12, 13]:
+  [NoComp] #XOR = 646, [RePair] #XOR = 202, [XorRePair] #XOR = 199
+Dec [2, 4, 5, 6]:
+  [NoComp] #XOR = 1368, [RePair] #XOR = 523, [XorRePair] #XOR = 511
+Dec [2, 4, 5, 7]:
+  [NoComp] #XOR = 1192, [RePair] #XOR = 518, [XorRePair] #XOR = 497
+Dec [2, 4, 5, 8]:
+  [NoComp] #XOR = 1310, [RePair] #XOR = 537, [XorRePair] #XOR = 524
+Dec [2, 4, 5, 9]:
+  [NoComp] #XOR = 1224, [RePair] #XOR = 516, [XorRePair] #XOR = 500
+Dec [2, 4, 5, 10]:
+  [NoComp] #XOR = 897, [RePair] #XOR = 403, [XorRePair] #XOR = 392
+Dec [2, 4, 5, 11]:
+  [NoComp] #XOR = 930, [RePair] #XOR = 395, [XorRePair] #XOR = 384
+Dec [2, 4, 5, 12]:
+  [NoComp] #XOR = 956, [RePair] #XOR = 417, [XorRePair] #XOR = 408
+Dec [2, 4, 5, 13]:
+  [NoComp] #XOR = 880, [RePair] #XOR = 392, [XorRePair] #XOR = 371
+Dec [2, 4, 6, 7]:
+  [NoComp] #XOR = 1208, [RePair] #XOR = 514, [XorRePair] #XOR = 496
+Dec [2, 4, 6, 8]:
+  [NoComp] #XOR = 1232, [RePair] #XOR = 523, [XorRePair] #XOR = 515
+Dec [2, 4, 6, 9]:
+  [NoComp] #XOR = 1248, [RePair] #XOR = 526, [XorRePair] #XOR = 513
+Dec [2, 4, 6, 10]:
+  [NoComp] #XOR = 921, [RePair] #XOR = 401, [XorRePair] #XOR = 394
+Dec [2, 4, 6, 11]:
+  [NoComp] #XOR = 914, [RePair] #XOR = 384, [XorRePair] #XOR = 373
+Dec [2, 4, 6, 12]:
+  [NoComp] #XOR = 936, [RePair] #XOR = 400, [XorRePair] #XOR = 384
+Dec [2, 4, 6, 13]:
+  [NoComp] #XOR = 866, [RePair] #XOR = 378, [XorRePair] #XOR = 372
+Dec [2, 4, 7, 8]:
+  [NoComp] #XOR = 1244, [RePair] #XOR = 497, [XorRePair] #XOR = 501
+Dec [2, 4, 7, 9]:
+  [NoComp] #XOR = 1188, [RePair] #XOR = 516, [XorRePair] #XOR = 492
+Dec [2, 4, 7, 10]:
+  [NoComp] #XOR = 869, [RePair] #XOR = 395, [XorRePair] #XOR = 387
+Dec [2, 4, 7, 11]:
+  [NoComp] #XOR = 932, [RePair] #XOR = 402, [XorRePair] #XOR = 386
+Dec [2, 4, 7, 12]:
+  [NoComp] #XOR = 946, [RePair] #XOR = 404, [XorRePair] #XOR = 393
+Dec [2, 4, 7, 13]:
+  [NoComp] #XOR = 860, [RePair] #XOR = 377, [XorRePair] #XOR = 371
+Dec [2, 4, 8, 9]:
+  [NoComp] #XOR = 1272, [RePair] #XOR = 518, [XorRePair] #XOR = 490
+Dec [2, 4, 8, 10]:
+  [NoComp] #XOR = 888, [RePair] #XOR = 402, [XorRePair] #XOR = 403
+Dec [2, 4, 8, 11]:
+  [NoComp] #XOR = 912, [RePair] #XOR = 393, [XorRePair] #XOR = 378
+Dec [2, 4, 8, 12]:
+  [NoComp] #XOR = 964, [RePair] #XOR = 395, [XorRePair] #XOR = 383
+Dec [2, 4, 8, 13]:
+  [NoComp] #XOR = 938, [RePair] #XOR = 399, [XorRePair] #XOR = 369
+Dec [2, 4, 9, 10]:
+  [NoComp] #XOR = 935, [RePair] #XOR = 409, [XorRePair] #XOR = 398
+Dec [2, 4, 9, 11]:
+  [NoComp] #XOR = 898, [RePair] #XOR = 400, [XorRePair] #XOR = 386
+Dec [2, 4, 9, 12]:
+  [NoComp] #XOR = 954, [RePair] #XOR = 401, [XorRePair] #XOR = 373
+Dec [2, 4, 9, 13]:
+  [NoComp] #XOR = 886, [RePair] #XOR = 390, [XorRePair] #XOR = 378
+Dec [2, 4, 10, 11]:
+  [NoComp] #XOR = 640, [RePair] #XOR = 284, [XorRePair] #XOR = 283
+Dec [2, 4, 10, 12]:
+  [NoComp] #XOR = 627, [RePair] #XOR = 270, [XorRePair] #XOR = 264
+Dec [2, 4, 10, 13]:
+  [NoComp] #XOR = 645, [RePair] #XOR = 269, [XorRePair] #XOR = 267
+Dec [2, 4, 11, 12]:
+  [NoComp] #XOR = 592, [RePair] #XOR = 209, [XorRePair] #XOR = 206
+Dec [2, 4, 11, 13]:
+  [NoComp] #XOR = 602, [RePair] #XOR = 205, [XorRePair] #XOR = 199
+Dec [2, 4, 12, 13]:
+  [NoComp] #XOR = 654, [RePair] #XOR = 213, [XorRePair] #XOR = 198
+Dec [2, 5, 6, 7]:
+  [NoComp] #XOR = 1198, [RePair] #XOR = 508, [XorRePair] #XOR = 490
+Dec [2, 5, 6, 8]:
+  [NoComp] #XOR = 1274, [RePair] #XOR = 526, [XorRePair] #XOR = 514
+Dec [2, 5, 6, 9]:
+  [NoComp] #XOR = 1278, [RePair] #XOR = 525, [XorRePair] #XOR = 501
+Dec [2, 5, 6, 10]:
+  [NoComp] #XOR = 897, [RePair] #XOR = 399, [XorRePair] #XOR = 398
+Dec [2, 5, 6, 11]:
+  [NoComp] #XOR = 996, [RePair] #XOR = 394, [XorRePair] #XOR = 392
+Dec [2, 5, 6, 12]:
+  [NoComp] #XOR = 1000, [RePair] #XOR = 409, [XorRePair] #XOR = 389
+Dec [2, 5, 6, 13]:
+  [NoComp] #XOR = 934, [RePair] #XOR = 408, [XorRePair] #XOR = 390
+Dec [2, 5, 7, 8]:
+  [NoComp] #XOR = 1234, [RePair] #XOR = 543, [XorRePair] #XOR = 514
+Dec [2, 5, 7, 9]:
+  [NoComp] #XOR = 1230, [RePair] #XOR = 515, [XorRePair] #XOR = 501
+Dec [2, 5, 7, 10]:
+  [NoComp] #XOR = 891, [RePair] #XOR = 406, [XorRePair] #XOR = 396
+Dec [2, 5, 7, 11]:
+  [NoComp] #XOR = 1020, [RePair] #XOR = 407, [XorRePair] #XOR = 381
+Dec [2, 5, 7, 12]:
+  [NoComp] #XOR = 952, [RePair] #XOR = 410, [XorRePair] #XOR = 392
+Dec [2, 5, 7, 13]:
+  [NoComp] #XOR = 868, [RePair] #XOR = 393, [XorRePair] #XOR = 378
+Dec [2, 5, 8, 9]:
+  [NoComp] #XOR = 1238, [RePair] #XOR = 513, [XorRePair] #XOR = 485
+Dec [2, 5, 8, 10]:
+  [NoComp] #XOR = 975, [RePair] #XOR = 411, [XorRePair] #XOR = 394
+Dec [2, 5, 8, 11]:
+  [NoComp] #XOR = 916, [RePair] #XOR = 393, [XorRePair] #XOR = 377
+Dec [2, 5, 8, 12]:
+  [NoComp] #XOR = 922, [RePair] #XOR = 402, [XorRePair] #XOR = 395
+Dec [2, 5, 8, 13]:
+  [NoComp] #XOR = 966, [RePair] #XOR = 393, [XorRePair] #XOR = 386
+Dec [2, 5, 9, 10]:
+  [NoComp] #XOR = 990, [RePair] #XOR = 416, [XorRePair] #XOR = 409
+Dec [2, 5, 9, 11]:
+  [NoComp] #XOR = 930, [RePair] #XOR = 399, [XorRePair] #XOR = 378
+Dec [2, 5, 9, 12]:
+  [NoComp] #XOR = 946, [RePair] #XOR = 402, [XorRePair] #XOR = 383
+Dec [2, 5, 9, 13]:
+  [NoComp] #XOR = 978, [RePair] #XOR = 404, [XorRePair] #XOR = 395
+Dec [2, 5, 10, 11]:
+  [NoComp] #XOR = 635, [RePair] #XOR = 289, [XorRePair] #XOR = 284
+Dec [2, 5, 10, 12]:
+  [NoComp] #XOR = 692, [RePair] #XOR = 273, [XorRePair] #XOR = 273
+Dec [2, 5, 10, 13]:
+  [NoComp] #XOR = 662, [RePair] #XOR = 266, [XorRePair] #XOR = 264
+Dec [2, 5, 11, 12]:
+  [NoComp] #XOR = 642, [RePair] #XOR = 220, [XorRePair] #XOR = 208
+Dec [2, 5, 11, 13]:
+  [NoComp] #XOR = 710, [RePair] #XOR = 222, [XorRePair] #XOR = 209
+Dec [2, 5, 12, 13]:
+  [NoComp] #XOR = 684, [RePair] #XOR = 204, [XorRePair] #XOR = 196
+Dec [2, 6, 7, 8]:
+  [NoComp] #XOR = 1252, [RePair] #XOR = 515, [XorRePair] #XOR = 505
+Dec [2, 6, 7, 9]:
+  [NoComp] #XOR = 1286, [RePair] #XOR = 527, [XorRePair] #XOR = 496
+Dec [2, 6, 7, 10]:
+  [NoComp] #XOR = 971, [RePair] #XOR = 413, [XorRePair] #XOR = 398
+Dec [2, 6, 7, 11]:
+  [NoComp] #XOR = 884, [RePair] #XOR = 387, [XorRePair] #XOR = 374
+Dec [2, 6, 7, 12]:
+  [NoComp] #XOR = 980, [RePair] #XOR = 404, [XorRePair] #XOR = 392
+Dec [2, 6, 7, 13]:
+  [NoComp] #XOR = 952, [RePair] #XOR = 404, [XorRePair] #XOR = 398
+Dec [2, 6, 8, 9]:
+  [NoComp] #XOR = 1342, [RePair] #XOR = 532, [XorRePair] #XOR = 511
+Dec [2, 6, 8, 10]:
+  [NoComp] #XOR = 901, [RePair] #XOR = 401, [XorRePair] #XOR = 390
+Dec [2, 6, 8, 11]:
+  [NoComp] #XOR = 922, [RePair] #XOR = 398, [XorRePair] #XOR = 372
+Dec [2, 6, 8, 12]:
+  [NoComp] #XOR = 938, [RePair] #XOR = 412, [XorRePair] #XOR = 395
+Dec [2, 6, 8, 13]:
+  [NoComp] #XOR = 902, [RePair] #XOR = 389, [XorRePair] #XOR = 373
+Dec [2, 6, 9, 10]:
+  [NoComp] #XOR = 966, [RePair] #XOR = 411, [XorRePair] #XOR = 402
+Dec [2, 6, 9, 11]:
+  [NoComp] #XOR = 922, [RePair] #XOR = 397, [XorRePair] #XOR = 380
+Dec [2, 6, 9, 12]:
+  [NoComp] #XOR = 910, [RePair] #XOR = 396, [XorRePair] #XOR = 385
+Dec [2, 6, 9, 13]:
+  [NoComp] #XOR = 992, [RePair] #XOR = 402, [XorRePair] #XOR = 375
+Dec [2, 6, 10, 11]:
+  [NoComp] #XOR = 620, [RePair] #XOR = 285, [XorRePair] #XOR = 281
+Dec [2, 6, 10, 12]:
+  [NoComp] #XOR = 612, [RePair] #XOR = 264, [XorRePair] #XOR = 258
+Dec [2, 6, 10, 13]:
+  [NoComp] #XOR = 642, [RePair] #XOR = 268, [XorRePair] #XOR = 258
+Dec [2, 6, 11, 12]:
+  [NoComp] #XOR = 630, [RePair] #XOR = 210, [XorRePair] #XOR = 206
+Dec [2, 6, 11, 13]:
+  [NoComp] #XOR = 626, [RePair] #XOR = 202, [XorRePair] #XOR = 201
+Dec [2, 6, 12, 13]:
+  [NoComp] #XOR = 674, [RePair] #XOR = 201, [XorRePair] #XOR = 198
+Dec [2, 7, 8, 9]:
+  [NoComp] #XOR = 1224, [RePair] #XOR = 500, [XorRePair] #XOR = 479
+Dec [2, 7, 8, 10]:
+  [NoComp] #XOR = 954, [RePair] #XOR = 407, [XorRePair] #XOR = 396
+Dec [2, 7, 8, 11]:
+  [NoComp] #XOR = 1000, [RePair] #XOR = 396, [XorRePair] #XOR = 382
+Dec [2, 7, 8, 12]:
+  [NoComp] #XOR = 866, [RePair] #XOR = 379, [XorRePair] #XOR = 350
+Dec [2, 7, 8, 13]:
+  [NoComp] #XOR = 972, [RePair] #XOR = 416, [XorRePair] #XOR = 400
+Dec [2, 7, 9, 10]:
+  [NoComp] #XOR = 925, [RePair] #XOR = 410, [XorRePair] #XOR = 406
+Dec [2, 7, 9, 11]:
+  [NoComp] #XOR = 912, [RePair] #XOR = 392, [XorRePair] #XOR = 387
+Dec [2, 7, 9, 12]:
+  [NoComp] #XOR = 988, [RePair] #XOR = 386, [XorRePair] #XOR = 379
+Dec [2, 7, 9, 13]:
+  [NoComp] #XOR = 936, [RePair] #XOR = 409, [XorRePair] #XOR = 387
+Dec [2, 7, 10, 11]:
+  [NoComp] #XOR = 639, [RePair] #XOR = 297, [XorRePair] #XOR = 292
+Dec [2, 7, 10, 12]:
+  [NoComp] #XOR = 648, [RePair] #XOR = 283, [XorRePair] #XOR = 278
+Dec [2, 7, 10, 13]:
+  [NoComp] #XOR = 671, [RePair] #XOR = 269, [XorRePair] #XOR = 263
+Dec [2, 7, 11, 12]:
+  [NoComp] #XOR = 646, [RePair] #XOR = 224, [XorRePair] #XOR = 209
+Dec [2, 7, 11, 13]:
+  [NoComp] #XOR = 704, [RePair] #XOR = 216, [XorRePair] #XOR = 206
+Dec [2, 7, 12, 13]:
+  [NoComp] #XOR = 704, [RePair] #XOR = 213, [XorRePair] #XOR = 198
+Dec [2, 8, 9, 10]:
+  [NoComp] #XOR = 816, [RePair] #XOR = 386, [XorRePair] #XOR = 386
+Dec [2, 8, 9, 11]:
+  [NoComp] #XOR = 940, [RePair] #XOR = 387, [XorRePair] #XOR = 380
+Dec [2, 8, 9, 12]:
+  [NoComp] #XOR = 944, [RePair] #XOR = 411, [XorRePair] #XOR = 388
+Dec [2, 8, 9, 13]:
+  [NoComp] #XOR = 822, [RePair] #XOR = 376, [XorRePair] #XOR = 360
+Dec [2, 8, 10, 11]:
+  [NoComp] #XOR = 631, [RePair] #XOR = 283, [XorRePair] #XOR = 281
+Dec [2, 8, 10, 12]:
+  [NoComp] #XOR = 634, [RePair] #XOR = 282, [XorRePair] #XOR = 281
+Dec [2, 8, 10, 13]:
+  [NoComp] #XOR = 671, [RePair] #XOR = 281, [XorRePair] #XOR = 272
+Dec [2, 8, 11, 12]:
+  [NoComp] #XOR = 502, [RePair] #XOR = 209, [XorRePair] #XOR = 201
+Dec [2, 8, 11, 13]:
+  [NoComp] #XOR = 614, [RePair] #XOR = 218, [XorRePair] #XOR = 211
+Dec [2, 8, 12, 13]:
+  [NoComp] #XOR = 684, [RePair] #XOR = 212, [XorRePair] #XOR = 206
+Dec [2, 9, 10, 11]:
+  [NoComp] #XOR = 621, [RePair] #XOR = 284, [XorRePair] #XOR = 281
+Dec [2, 9, 10, 12]:
+  [NoComp] #XOR = 632, [RePair] #XOR = 289, [XorRePair] #XOR = 282
+Dec [2, 9, 10, 13]:
+  [NoComp] #XOR = 628, [RePair] #XOR = 279, [XorRePair] #XOR = 276
+Dec [2, 9, 11, 12]:
+  [NoComp] #XOR = 684, [RePair] #XOR = 218, [XorRePair] #XOR = 204
+Dec [2, 9, 11, 13]:
+  [NoComp] #XOR = 648, [RePair] #XOR = 229, [XorRePair] #XOR = 215
+Dec [2, 9, 12, 13]:
+  [NoComp] #XOR = 656, [RePair] #XOR = 214, [XorRePair] #XOR = 207
+Dec [2, 10, 11, 12]:
+  [NoComp] #XOR = 258, [RePair] #XOR = 111, [XorRePair] #XOR = 111
+Dec [2, 10, 11, 13]:
+  [NoComp] #XOR = 227, [RePair] #XOR = 102, [XorRePair] #XOR = 102
+Dec [2, 10, 12, 13]:
+  [NoComp] #XOR = 173, [RePair] #XOR = 91, [XorRePair] #XOR = 91
+Dec [2, 11, 12, 13]:
+  [NoComp] #XOR = 72, [RePair] #XOR = 72, [XorRePair] #XOR = 72
+Dec [3, 4, 5, 6]:
+  [NoComp] #XOR = 1262, [RePair] #XOR = 517, [XorRePair] #XOR = 502
+Dec [3, 4, 5, 7]:
+  [NoComp] #XOR = 1346, [RePair] #XOR = 525, [XorRePair] #XOR = 504
+Dec [3, 4, 5, 8]:
+  [NoComp] #XOR = 1254, [RePair] #XOR = 527, [XorRePair] #XOR = 508
+Dec [3, 4, 5, 9]:
+  [NoComp] #XOR = 1266, [RePair] #XOR = 516, [XorRePair] #XOR = 504
+Dec [3, 4, 5, 10]:
+  [NoComp] #XOR = 912, [RePair] #XOR = 404, [XorRePair] #XOR = 402
+Dec [3, 4, 5, 11]:
+  [NoComp] #XOR = 854, [RePair] #XOR = 363, [XorRePair] #XOR = 346
+Dec [3, 4, 5, 12]:
+  [NoComp] #XOR = 896, [RePair] #XOR = 388, [XorRePair] #XOR = 387
+Dec [3, 4, 5, 13]:
+  [NoComp] #XOR = 876, [RePair] #XOR = 384, [XorRePair] #XOR = 382
+Dec [3, 4, 6, 7]:
+  [NoComp] #XOR = 1272, [RePair] #XOR = 527, [XorRePair] #XOR = 519
+Dec [3, 4, 6, 8]:
+  [NoComp] #XOR = 1252, [RePair] #XOR = 530, [XorRePair] #XOR = 524
+Dec [3, 4, 6, 9]:
+  [NoComp] #XOR = 1152, [RePair] #XOR = 510, [XorRePair] #XOR = 503
+Dec [3, 4, 6, 10]:
+  [NoComp] #XOR = 912, [RePair] #XOR = 403, [XorRePair] #XOR = 403
+Dec [3, 4, 6, 11]:
+  [NoComp] #XOR = 902, [RePair] #XOR = 374, [XorRePair] #XOR = 364
+Dec [3, 4, 6, 12]:
+  [NoComp] #XOR = 964, [RePair] #XOR = 404, [XorRePair] #XOR = 393
+Dec [3, 4, 6, 13]:
+  [NoComp] #XOR = 926, [RePair] #XOR = 397, [XorRePair] #XOR = 379
+Dec [3, 4, 7, 8]:
+  [NoComp] #XOR = 1270, [RePair] #XOR = 510, [XorRePair] #XOR = 504
+Dec [3, 4, 7, 9]:
+  [NoComp] #XOR = 1290, [RePair] #XOR = 517, [XorRePair] #XOR = 500
+Dec [3, 4, 7, 10]:
+  [NoComp] #XOR = 923, [RePair] #XOR = 397, [XorRePair] #XOR = 389
+Dec [3, 4, 7, 11]:
+  [NoComp] #XOR = 964, [RePair] #XOR = 385, [XorRePair] #XOR = 381
+Dec [3, 4, 7, 12]:
+  [NoComp] #XOR = 976, [RePair] #XOR = 410, [XorRePair] #XOR = 397
+Dec [3, 4, 7, 13]:
+  [NoComp] #XOR = 922, [RePair] #XOR = 392, [XorRePair] #XOR = 378
+Dec [3, 4, 8, 9]:
+  [NoComp] #XOR = 1308, [RePair] #XOR = 524, [XorRePair] #XOR = 504
+Dec [3, 4, 8, 10]:
+  [NoComp] #XOR = 944, [RePair] #XOR = 412, [XorRePair] #XOR = 411
+Dec [3, 4, 8, 11]:
+  [NoComp] #XOR = 996, [RePair] #XOR = 379, [XorRePair] #XOR = 367
+Dec [3, 4, 8, 12]:
+  [NoComp] #XOR = 934, [RePair] #XOR = 400, [XorRePair] #XOR = 385
+Dec [3, 4, 8, 13]:
+  [NoComp] #XOR = 962, [RePair] #XOR = 401, [XorRePair] #XOR = 396
+Dec [3, 4, 9, 10]:
+  [NoComp] #XOR = 998, [RePair] #XOR = 417, [XorRePair] #XOR = 399
+Dec [3, 4, 9, 11]:
+  [NoComp] #XOR = 930, [RePair] #XOR = 394, [XorRePair] #XOR = 380
+Dec [3, 4, 9, 12]:
+  [NoComp] #XOR = 980, [RePair] #XOR = 393, [XorRePair] #XOR = 379
+Dec [3, 4, 9, 13]:
+  [NoComp] #XOR = 924, [RePair] #XOR = 402, [XorRePair] #XOR = 392
+Dec [3, 4, 10, 11]:
+  [NoComp] #XOR = 581, [RePair] #XOR = 276, [XorRePair] #XOR = 276
+Dec [3, 4, 10, 12]:
+  [NoComp] #XOR = 590, [RePair] #XOR = 266, [XorRePair] #XOR = 259
+Dec [3, 4, 10, 13]:
+  [NoComp] #XOR = 608, [RePair] #XOR = 256, [XorRePair] #XOR = 255
+Dec [3, 4, 11, 12]:
+  [NoComp] #XOR = 572, [RePair] #XOR = 216, [XorRePair] #XOR = 200
+Dec [3, 4, 11, 13]:
+  [NoComp] #XOR = 548, [RePair] #XOR = 204, [XorRePair] #XOR = 197
+Dec [3, 4, 12, 13]:
+  [NoComp] #XOR = 606, [RePair] #XOR = 201, [XorRePair] #XOR = 194
+Dec [3, 5, 6, 7]:
+  [NoComp] #XOR = 1360, [RePair] #XOR = 537, [XorRePair] #XOR = 511
+Dec [3, 5, 6, 8]:
+  [NoComp] #XOR = 1216, [RePair] #XOR = 524, [XorRePair] #XOR = 503
+Dec [3, 5, 6, 9]:
+  [NoComp] #XOR = 1276, [RePair] #XOR = 523, [XorRePair] #XOR = 504
+Dec [3, 5, 6, 10]:
+  [NoComp] #XOR = 876, [RePair] #XOR = 399, [XorRePair] #XOR = 388
+Dec [3, 5, 6, 11]:
+  [NoComp] #XOR = 912, [RePair] #XOR = 395, [XorRePair] #XOR = 381
+Dec [3, 5, 6, 12]:
+  [NoComp] #XOR = 936, [RePair] #XOR = 413, [XorRePair] #XOR = 399
+Dec [3, 5, 6, 13]:
+  [NoComp] #XOR = 908, [RePair] #XOR = 390, [XorRePair] #XOR = 376
+Dec [3, 5, 7, 8]:
+  [NoComp] #XOR = 1228, [RePair] #XOR = 518, [XorRePair] #XOR = 495
+Dec [3, 5, 7, 9]:
+  [NoComp] #XOR = 1228, [RePair] #XOR = 499, [XorRePair] #XOR = 499
+Dec [3, 5, 7, 10]:
+  [NoComp] #XOR = 917, [RePair] #XOR = 412, [XorRePair] #XOR = 398
+Dec [3, 5, 7, 11]:
+  [NoComp] #XOR = 880, [RePair] #XOR = 377, [XorRePair] #XOR = 356
+Dec [3, 5, 7, 12]:
+  [NoComp] #XOR = 908, [RePair] #XOR = 391, [XorRePair] #XOR = 379
+Dec [3, 5, 7, 13]:
+  [NoComp] #XOR = 890, [RePair] #XOR = 383, [XorRePair] #XOR = 372
+Dec [3, 5, 8, 9]:
+  [NoComp] #XOR = 1284, [RePair] #XOR = 526, [XorRePair] #XOR = 510
+Dec [3, 5, 8, 10]:
+  [NoComp] #XOR = 862, [RePair] #XOR = 392, [XorRePair] #XOR = 373
+Dec [3, 5, 8, 11]:
+  [NoComp] #XOR = 938, [RePair] #XOR = 396, [XorRePair] #XOR = 383
+Dec [3, 5, 8, 12]:
+  [NoComp] #XOR = 940, [RePair] #XOR = 403, [XorRePair] #XOR = 387
+Dec [3, 5, 8, 13]:
+  [NoComp] #XOR = 866, [RePair] #XOR = 387, [XorRePair] #XOR = 379
+Dec [3, 5, 9, 10]:
+  [NoComp] #XOR = 898, [RePair] #XOR = 402, [XorRePair] #XOR = 390
+Dec [3, 5, 9, 11]:
+  [NoComp] #XOR = 888, [RePair] #XOR = 385, [XorRePair] #XOR = 375
+Dec [3, 5, 9, 12]:
+  [NoComp] #XOR = 984, [RePair] #XOR = 404, [XorRePair] #XOR = 383
+Dec [3, 5, 9, 13]:
+  [NoComp] #XOR = 936, [RePair] #XOR = 391, [XorRePair] #XOR = 384
+Dec [3, 5, 10, 11]:
+  [NoComp] #XOR = 649, [RePair] #XOR = 286, [XorRePair] #XOR = 284
+Dec [3, 5, 10, 12]:
+  [NoComp] #XOR = 650, [RePair] #XOR = 269, [XorRePair] #XOR = 264
+Dec [3, 5, 10, 13]:
+  [NoComp] #XOR = 673, [RePair] #XOR = 277, [XorRePair] #XOR = 265
+Dec [3, 5, 11, 12]:
+  [NoComp] #XOR = 600, [RePair] #XOR = 217, [XorRePair] #XOR = 210
+Dec [3, 5, 11, 13]:
+  [NoComp] #XOR = 620, [RePair] #XOR = 206, [XorRePair] #XOR = 203
+Dec [3, 5, 12, 13]:
+  [NoComp] #XOR = 666, [RePair] #XOR = 203, [XorRePair] #XOR = 192
+Dec [3, 6, 7, 8]:
+  [NoComp] #XOR = 1176, [RePair] #XOR = 500, [XorRePair] #XOR = 481
+Dec [3, 6, 7, 9]:
+  [NoComp] #XOR = 1266, [RePair] #XOR = 519, [XorRePair] #XOR = 505
+Dec [3, 6, 7, 10]:
+  [NoComp] #XOR = 901, [RePair] #XOR = 384, [XorRePair] #XOR = 378
+Dec [3, 6, 7, 11]:
+  [NoComp] #XOR = 1006, [RePair] #XOR = 396, [XorRePair] #XOR = 387
+Dec [3, 6, 7, 12]:
+  [NoComp] #XOR = 1006, [RePair] #XOR = 416, [XorRePair] #XOR = 402
+Dec [3, 6, 7, 13]:
+  [NoComp] #XOR = 934, [RePair] #XOR = 394, [XorRePair] #XOR = 393
+Dec [3, 6, 8, 9]:
+  [NoComp] #XOR = 1220, [RePair] #XOR = 522, [XorRePair] #XOR = 500
+Dec [3, 6, 8, 10]:
+  [NoComp] #XOR = 872, [RePair] #XOR = 392, [XorRePair] #XOR = 384
+Dec [3, 6, 8, 11]:
+  [NoComp] #XOR = 1008, [RePair] #XOR = 401, [XorRePair] #XOR = 388
+Dec [3, 6, 8, 12]:
+  [NoComp] #XOR = 946, [RePair] #XOR = 403, [XorRePair] #XOR = 392
+Dec [3, 6, 8, 13]:
+  [NoComp] #XOR = 868, [RePair] #XOR = 395, [XorRePair] #XOR = 384
+Dec [3, 6, 9, 10]:
+  [NoComp] #XOR = 951, [RePair] #XOR = 414, [XorRePair] #XOR = 400
+Dec [3, 6, 9, 11]:
+  [NoComp] #XOR = 960, [RePair] #XOR = 393, [XorRePair] #XOR = 370
+Dec [3, 6, 9, 12]:
+  [NoComp] #XOR = 950, [RePair] #XOR = 408, [XorRePair] #XOR = 400
+Dec [3, 6, 9, 13]:
+  [NoComp] #XOR = 960, [RePair] #XOR = 402, [XorRePair] #XOR = 396
+Dec [3, 6, 10, 11]:
+  [NoComp] #XOR = 652, [RePair] #XOR = 289, [XorRePair] #XOR = 287
+Dec [3, 6, 10, 12]:
+  [NoComp] #XOR = 691, [RePair] #XOR = 280, [XorRePair] #XOR = 282
+Dec [3, 6, 10, 13]:
+  [NoComp] #XOR = 666, [RePair] #XOR = 263, [XorRePair] #XOR = 257
+Dec [3, 6, 11, 12]:
+  [NoComp] #XOR = 648, [RePair] #XOR = 218, [XorRePair] #XOR = 206
+Dec [3, 6, 11, 13]:
+  [NoComp] #XOR = 714, [RePair] #XOR = 220, [XorRePair] #XOR = 213
+Dec [3, 6, 12, 13]:
+  [NoComp] #XOR = 666, [RePair] #XOR = 205, [XorRePair] #XOR = 196
+Dec [3, 7, 8, 9]:
+  [NoComp] #XOR = 1200, [RePair] #XOR = 507, [XorRePair] #XOR = 485
+Dec [3, 7, 8, 10]:
+  [NoComp] #XOR = 968, [RePair] #XOR = 407, [XorRePair] #XOR = 399
+Dec [3, 7, 8, 11]:
+  [NoComp] #XOR = 886, [RePair] #XOR = 386, [XorRePair] #XOR = 376
+Dec [3, 7, 8, 12]:
+  [NoComp] #XOR = 978, [RePair] #XOR = 407, [XorRePair] #XOR = 391
+Dec [3, 7, 8, 13]:
+  [NoComp] #XOR = 956, [RePair] #XOR = 401, [XorRePair] #XOR = 386
+Dec [3, 7, 9, 10]:
+  [NoComp] #XOR = 898, [RePair] #XOR = 407, [XorRePair] #XOR = 382
+Dec [3, 7, 9, 11]:
+  [NoComp] #XOR = 934, [RePair] #XOR = 385, [XorRePair] #XOR = 372
+Dec [3, 7, 9, 12]:
+  [NoComp] #XOR = 912, [RePair] #XOR = 396, [XorRePair] #XOR = 377
+Dec [3, 7, 9, 13]:
+  [NoComp] #XOR = 916, [RePair] #XOR = 401, [XorRePair] #XOR = 386
+Dec [3, 7, 10, 11]:
+  [NoComp] #XOR = 599, [RePair] #XOR = 288, [XorRePair] #XOR = 286
+Dec [3, 7, 10, 12]:
+  [NoComp] #XOR = 643, [RePair] #XOR = 273, [XorRePair] #XOR = 271
+Dec [3, 7, 10, 13]:
+  [NoComp] #XOR = 646, [RePair] #XOR = 273, [XorRePair] #XOR = 267
+Dec [3, 7, 11, 12]:
+  [NoComp] #XOR = 660, [RePair] #XOR = 216, [XorRePair] #XOR = 206
+Dec [3, 7, 11, 13]:
+  [NoComp] #XOR = 656, [RePair] #XOR = 211, [XorRePair] #XOR = 207
+Dec [3, 7, 12, 13]:
+  [NoComp] #XOR = 674, [RePair] #XOR = 205, [XorRePair] #XOR = 198
+Dec [3, 8, 9, 10]:
+  [NoComp] #XOR = 955, [RePair] #XOR = 409, [XorRePair] #XOR = 401
+Dec [3, 8, 9, 11]:
+  [NoComp] #XOR = 986, [RePair] #XOR = 395, [XorRePair] #XOR = 385
+Dec [3, 8, 9, 12]:
+  [NoComp] #XOR = 870, [RePair] #XOR = 377, [XorRePair] #XOR = 372
+Dec [3, 8, 9, 13]:
+  [NoComp] #XOR = 976, [RePair] #XOR = 406, [XorRePair] #XOR = 401
+Dec [3, 8, 10, 11]:
+  [NoComp] #XOR = 625, [RePair] #XOR = 286, [XorRePair] #XOR = 280
+Dec [3, 8, 10, 12]:
+  [NoComp] #XOR = 647, [RePair] #XOR = 289, [XorRePair] #XOR = 286
+Dec [3, 8, 10, 13]:
+  [NoComp] #XOR = 664, [RePair] #XOR = 274, [XorRePair] #XOR = 274
+Dec [3, 8, 11, 12]:
+  [NoComp] #XOR = 664, [RePair] #XOR = 219, [XorRePair] #XOR = 209
+Dec [3, 8, 11, 13]:
+  [NoComp] #XOR = 714, [RePair] #XOR = 220, [XorRePair] #XOR = 214
+Dec [3, 8, 12, 13]:
+  [NoComp] #XOR = 694, [RePair] #XOR = 212, [XorRePair] #XOR = 201
+Dec [3, 9, 10, 11]:
+  [NoComp] #XOR = 644, [RePair] #XOR = 292, [XorRePair] #XOR = 290
+Dec [3, 9, 10, 12]:
+  [NoComp] #XOR = 642, [RePair] #XOR = 288, [XorRePair] #XOR = 283
+Dec [3, 9, 10, 13]:
+  [NoComp] #XOR = 667, [RePair] #XOR = 289, [XorRePair] #XOR = 279
+Dec [3, 9, 11, 12]:
+  [NoComp] #XOR = 536, [RePair] #XOR = 213, [XorRePair] #XOR = 199
+Dec [3, 9, 11, 13]:
+  [NoComp] #XOR = 642, [RePair] #XOR = 219, [XorRePair] #XOR = 218
+Dec [3, 9, 12, 13]:
+  [NoComp] #XOR = 684, [RePair] #XOR = 218, [XorRePair] #XOR = 205
+Dec [3, 10, 11, 12]:
+  [NoComp] #XOR = 272, [RePair] #XOR = 113, [XorRePair] #XOR = 112
+Dec [3, 10, 11, 13]:
+  [NoComp] #XOR = 231, [RePair] #XOR = 103, [XorRePair] #XOR = 103
+Dec [3, 10, 12, 13]:
+  [NoComp] #XOR = 166, [RePair] #XOR = 90, [XorRePair] #XOR = 90
+Dec [3, 11, 12, 13]:
+  [NoComp] #XOR = 72, [RePair] #XOR = 72, [XorRePair] #XOR = 72
+Dec [4, 5, 6, 7]:
+  [NoComp] #XOR = 1238, [RePair] #XOR = 514, [XorRePair] #XOR = 500
+Dec [4, 5, 6, 8]:
+  [NoComp] #XOR = 1372, [RePair] #XOR = 540, [XorRePair] #XOR = 518
+Dec [4, 5, 6, 9]:
+  [NoComp] #XOR = 1234, [RePair] #XOR = 528, [XorRePair] #XOR = 516
+Dec [4, 5, 6, 10]:
+  [NoComp] #XOR = 923, [RePair] #XOR = 401, [XorRePair] #XOR = 397
+Dec [4, 5, 6, 11]:
+  [NoComp] #XOR = 870, [RePair] #XOR = 363, [XorRePair] #XOR = 356
+Dec [4, 5, 6, 12]:
+  [NoComp] #XOR = 884, [RePair] #XOR = 384, [XorRePair] #XOR = 378
+Dec [4, 5, 6, 13]:
+  [NoComp] #XOR = 900, [RePair] #XOR = 390, [XorRePair] #XOR = 366
+Dec [4, 5, 7, 8]:
+  [NoComp] #XOR = 1228, [RePair] #XOR = 515, [XorRePair] #XOR = 501
+Dec [4, 5, 7, 9]:
+  [NoComp] #XOR = 1244, [RePair] #XOR = 528, [XorRePair] #XOR = 508
+Dec [4, 5, 7, 10]:
+  [NoComp] #XOR = 907, [RePair] #XOR = 405, [XorRePair] #XOR = 395
+Dec [4, 5, 7, 11]:
+  [NoComp] #XOR = 888, [RePair] #XOR = 377, [XorRePair] #XOR = 365
+Dec [4, 5, 7, 12]:
+  [NoComp] #XOR = 952, [RePair] #XOR = 409, [XorRePair] #XOR = 390
+Dec [4, 5, 7, 13]:
+  [NoComp] #XOR = 902, [RePair] #XOR = 391, [XorRePair] #XOR = 384
+Dec [4, 5, 8, 9]:
+  [NoComp] #XOR = 1276, [RePair] #XOR = 523, [XorRePair] #XOR = 502
+Dec [4, 5, 8, 10]:
+  [NoComp] #XOR = 967, [RePair] #XOR = 405, [XorRePair] #XOR = 403
+Dec [4, 5, 8, 11]:
+  [NoComp] #XOR = 958, [RePair] #XOR = 396, [XorRePair] #XOR = 383
+Dec [4, 5, 8, 12]:
+  [NoComp] #XOR = 964, [RePair] #XOR = 403, [XorRePair] #XOR = 397
+Dec [4, 5, 8, 13]:
+  [NoComp] #XOR = 946, [RePair] #XOR = 394, [XorRePair] #XOR = 374
+Dec [4, 5, 9, 10]:
+  [NoComp] #XOR = 978, [RePair] #XOR = 418, [XorRePair] #XOR = 410
+Dec [4, 5, 9, 11]:
+  [NoComp] #XOR = 976, [RePair] #XOR = 390, [XorRePair] #XOR = 376
+Dec [4, 5, 9, 12]:
+  [NoComp] #XOR = 918, [RePair] #XOR = 393, [XorRePair] #XOR = 388
+Dec [4, 5, 9, 13]:
+  [NoComp] #XOR = 998, [RePair] #XOR = 399, [XorRePair] #XOR = 387
+Dec [4, 5, 10, 11]:
+  [NoComp] #XOR = 572, [RePair] #XOR = 277, [XorRePair] #XOR = 279
+Dec [4, 5, 10, 12]:
+  [NoComp] #XOR = 571, [RePair] #XOR = 268, [XorRePair] #XOR = 255
+Dec [4, 5, 10, 13]:
+  [NoComp] #XOR = 571, [RePair] #XOR = 261, [XorRePair] #XOR = 252
+Dec [4, 5, 11, 12]:
+  [NoComp] #XOR = 576, [RePair] #XOR = 216, [XorRePair] #XOR = 198
+Dec [4, 5, 11, 13]:
+  [NoComp] #XOR = 506, [RePair] #XOR = 202, [XorRePair] #XOR = 199
+Dec [4, 5, 12, 13]:
+  [NoComp] #XOR = 580, [RePair] #XOR = 197, [XorRePair] #XOR = 189
+Dec [4, 6, 7, 8]:
+  [NoComp] #XOR = 1344, [RePair] #XOR = 535, [XorRePair] #XOR = 508
+Dec [4, 6, 7, 9]:
+  [NoComp] #XOR = 1214, [RePair] #XOR = 527, [XorRePair] #XOR = 503
+Dec [4, 6, 7, 10]:
+  [NoComp] #XOR = 855, [RePair] #XOR = 382, [XorRePair] #XOR = 382
+Dec [4, 6, 7, 11]:
+  [NoComp] #XOR = 930, [RePair] #XOR = 399, [XorRePair] #XOR = 377
+Dec [4, 6, 7, 12]:
+  [NoComp] #XOR = 944, [RePair] #XOR = 395, [XorRePair] #XOR = 386
+Dec [4, 6, 7, 13]:
+  [NoComp] #XOR = 888, [RePair] #XOR = 394, [XorRePair] #XOR = 374
+Dec [4, 6, 8, 9]:
+  [NoComp] #XOR = 1242, [RePair] #XOR = 509, [XorRePair] #XOR = 494
+Dec [4, 6, 8, 10]:
+  [NoComp] #XOR = 954, [RePair] #XOR = 412, [XorRePair] #XOR = 404
+Dec [4, 6, 8, 11]:
+  [NoComp] #XOR = 878, [RePair] #XOR = 382, [XorRePair] #XOR = 355
+Dec [4, 6, 8, 12]:
+  [NoComp] #XOR = 870, [RePair] #XOR = 376, [XorRePair] #XOR = 362
+Dec [4, 6, 8, 13]:
+  [NoComp] #XOR = 914, [RePair] #XOR = 389, [XorRePair] #XOR = 372
+Dec [4, 6, 9, 10]:
+  [NoComp] #XOR = 881, [RePair] #XOR = 395, [XorRePair] #XOR = 384
+Dec [4, 6, 9, 11]:
+  [NoComp] #XOR = 948, [RePair] #XOR = 397, [XorRePair] #XOR = 382
+Dec [4, 6, 9, 12]:
+  [NoComp] #XOR = 954, [RePair] #XOR = 390, [XorRePair] #XOR = 377
+Dec [4, 6, 9, 13]:
+  [NoComp] #XOR = 870, [RePair] #XOR = 385, [XorRePair] #XOR = 372
+Dec [4, 6, 10, 11]:
+  [NoComp] #XOR = 648, [RePair] #XOR = 283, [XorRePair] #XOR = 279
+Dec [4, 6, 10, 12]:
+  [NoComp] #XOR = 654, [RePair] #XOR = 265, [XorRePair] #XOR = 255
+Dec [4, 6, 10, 13]:
+  [NoComp] #XOR = 665, [RePair] #XOR = 276, [XorRePair] #XOR = 264
+Dec [4, 6, 11, 12]:
+  [NoComp] #XOR = 596, [RePair] #XOR = 216, [XorRePair] #XOR = 210
+Dec [4, 6, 11, 13]:
+  [NoComp] #XOR = 628, [RePair] #XOR = 210, [XorRePair] #XOR = 200
+Dec [4, 6, 12, 13]:
+  [NoComp] #XOR = 660, [RePair] #XOR = 205, [XorRePair] #XOR = 196
+Dec [4, 7, 8, 9]:
+  [NoComp] #XOR = 1196, [RePair] #XOR = 506, [XorRePair] #XOR = 495
+Dec [4, 7, 8, 10]:
+  [NoComp] #XOR = 943, [RePair] #XOR = 392, [XorRePair] #XOR = 388
+Dec [4, 7, 8, 11]:
+  [NoComp] #XOR = 992, [RePair] #XOR = 407, [XorRePair] #XOR = 384
+Dec [4, 7, 8, 12]:
+  [NoComp] #XOR = 1004, [RePair] #XOR = 413, [XorRePair] #XOR = 401
+Dec [4, 7, 8, 13]:
+  [NoComp] #XOR = 952, [RePair] #XOR = 396, [XorRePair] #XOR = 388
+Dec [4, 7, 9, 10]:
+  [NoComp] #XOR = 850, [RePair] #XOR = 401, [XorRePair] #XOR = 391
+Dec [4, 7, 9, 11]:
+  [NoComp] #XOR = 996, [RePair] #XOR = 407, [XorRePair] #XOR = 389
+Dec [4, 7, 9, 12]:
+  [NoComp] #XOR = 896, [RePair] #XOR = 395, [XorRePair] #XOR = 376
+Dec [4, 7, 9, 13]:
+  [NoComp] #XOR = 842, [RePair] #XOR = 391, [XorRePair] #XOR = 381
+Dec [4, 7, 10, 11]:
+  [NoComp] #XOR = 650, [RePair] #XOR = 291, [XorRePair] #XOR = 289
+Dec [4, 7, 10, 12]:
+  [NoComp] #XOR = 673, [RePair] #XOR = 277, [XorRePair] #XOR = 276
+Dec [4, 7, 10, 13]:
+  [NoComp] #XOR = 657, [RePair] #XOR = 263, [XorRePair] #XOR = 258
+Dec [4, 7, 11, 12]:
+  [NoComp] #XOR = 636, [RePair] #XOR = 219, [XorRePair] #XOR = 205
+Dec [4, 7, 11, 13]:
+  [NoComp] #XOR = 690, [RePair] #XOR = 212, [XorRePair] #XOR = 207
+Dec [4, 7, 12, 13]:
+  [NoComp] #XOR = 680, [RePair] #XOR = 208, [XorRePair] #XOR = 190
+Dec [4, 8, 9, 10]:
+  [NoComp] #XOR = 976, [RePair] #XOR = 410, [XorRePair] #XOR = 402
+Dec [4, 8, 9, 11]:
+  [NoComp] #XOR = 898, [RePair] #XOR = 392, [XorRePair] #XOR = 380
+Dec [4, 8, 9, 12]:
+  [NoComp] #XOR = 972, [RePair] #XOR = 398, [XorRePair] #XOR = 388
+Dec [4, 8, 9, 13]:
+  [NoComp] #XOR = 976, [RePair] #XOR = 406, [XorRePair] #XOR = 393
+Dec [4, 8, 10, 11]:
+  [NoComp] #XOR = 620, [RePair] #XOR = 293, [XorRePair] #XOR = 294
+Dec [4, 8, 10, 12]:
+  [NoComp] #XOR = 638, [RePair] #XOR = 284, [XorRePair] #XOR = 270
+Dec [4, 8, 10, 13]:
+  [NoComp] #XOR = 649, [RePair] #XOR = 278, [XorRePair] #XOR = 276
+Dec [4, 8, 11, 12]:
+  [NoComp] #XOR = 664, [RePair] #XOR = 216, [XorRePair] #XOR = 204
+Dec [4, 8, 11, 13]:
+  [NoComp] #XOR = 636, [RePair] #XOR = 212, [XorRePair] #XOR = 207
+Dec [4, 8, 12, 13]:
+  [NoComp] #XOR = 644, [RePair] #XOR = 209, [XorRePair] #XOR = 197
+Dec [4, 9, 10, 11]:
+  [NoComp] #XOR = 610, [RePair] #XOR = 284, [XorRePair] #XOR = 282
+Dec [4, 9, 10, 12]:
+  [NoComp] #XOR = 655, [RePair] #XOR = 289, [XorRePair] #XOR = 288
+Dec [4, 9, 10, 13]:
+  [NoComp] #XOR = 673, [RePair] #XOR = 290, [XorRePair] #XOR = 286
+Dec [4, 9, 11, 12]:
+  [NoComp] #XOR = 682, [RePair] #XOR = 235, [XorRePair] #XOR = 216
+Dec [4, 9, 11, 13]:
+  [NoComp] #XOR = 712, [RePair] #XOR = 223, [XorRePair] #XOR = 215
+Dec [4, 9, 12, 13]:
+  [NoComp] #XOR = 714, [RePair] #XOR = 225, [XorRePair] #XOR = 209
+Dec [4, 10, 11, 12]:
+  [NoComp] #XOR = 281, [RePair] #XOR = 117, [XorRePair] #XOR = 114
+Dec [4, 10, 11, 13]:
+  [NoComp] #XOR = 239, [RePair] #XOR = 104, [XorRePair] #XOR = 104
+Dec [4, 10, 12, 13]:
+  [NoComp] #XOR = 163, [RePair] #XOR = 91, [XorRePair] #XOR = 91
+Dec [4, 11, 12, 13]:
+  [NoComp] #XOR = 72, [RePair] #XOR = 72, [XorRePair] #XOR = 72
+Dec [5, 6, 7, 8]:
+  [NoComp] #XOR = 1218, [RePair] #XOR = 506, [XorRePair] #XOR = 492
+Dec [5, 6, 7, 9]:
+  [NoComp] #XOR = 1354, [RePair] #XOR = 537, [XorRePair] #XOR = 504
+Dec [5, 6, 7, 10]:
+  [NoComp] #XOR = 933, [RePair] #XOR = 404, [XorRePair] #XOR = 388
+Dec [5, 6, 7, 11]:
+  [NoComp] #XOR = 900, [RePair] #XOR = 370, [XorRePair] #XOR = 353
+Dec [5, 6, 7, 12]:
+  [NoComp] #XOR = 870, [RePair] #XOR = 377, [XorRePair] #XOR = 364
+Dec [5, 6, 7, 13]:
+  [NoComp] #XOR = 892, [RePair] #XOR = 388, [XorRePair] #XOR = 377
+Dec [5, 6, 8, 9]:
+  [NoComp] #XOR = 1216, [RePair] #XOR = 511, [XorRePair] #XOR = 508
+Dec [5, 6, 8, 10]:
+  [NoComp] #XOR = 914, [RePair] #XOR = 407, [XorRePair] #XOR = 397
+Dec [5, 6, 8, 11]:
+  [NoComp] #XOR = 880, [RePair] #XOR = 372, [XorRePair] #XOR = 361
+Dec [5, 6, 8, 12]:
+  [NoComp] #XOR = 970, [RePair] #XOR = 401, [XorRePair] #XOR = 394
+Dec [5, 6, 8, 13]:
+  [NoComp] #XOR = 864, [RePair] #XOR = 383, [XorRePair] #XOR = 363
+Dec [5, 6, 9, 10]:
+  [NoComp] #XOR = 980, [RePair] #XOR = 414, [XorRePair] #XOR = 397
+Dec [5, 6, 9, 11]:
+  [NoComp] #XOR = 924, [RePair] #XOR = 403, [XorRePair] #XOR = 398
+Dec [5, 6, 9, 12]:
+  [NoComp] #XOR = 974, [RePair] #XOR = 412, [XorRePair] #XOR = 393
+Dec [5, 6, 9, 13]:
+  [NoComp] #XOR = 908, [RePair] #XOR = 384, [XorRePair] #XOR = 374
+Dec [5, 6, 10, 11]:
+  [NoComp] #XOR = 573, [RePair] #XOR = 277, [XorRePair] #XOR = 278
+Dec [5, 6, 10, 12]:
+  [NoComp] #XOR = 561, [RePair] #XOR = 256, [XorRePair] #XOR = 247
+Dec [5, 6, 10, 13]:
+  [NoComp] #XOR = 540, [RePair] #XOR = 253, [XorRePair] #XOR = 252
+Dec [5, 6, 11, 12]:
+  [NoComp] #XOR = 546, [RePair] #XOR = 208, [XorRePair] #XOR = 194
+Dec [5, 6, 11, 13]:
+  [NoComp] #XOR = 490, [RePair] #XOR = 200, [XorRePair] #XOR = 196
+Dec [5, 6, 12, 13]:
+  [NoComp] #XOR = 568, [RePair] #XOR = 202, [XorRePair] #XOR = 190
+Dec [5, 7, 8, 9]:
+  [NoComp] #XOR = 1324, [RePair] #XOR = 509, [XorRePair] #XOR = 504
+Dec [5, 7, 8, 10]:
+  [NoComp] #XOR = 837, [RePair] #XOR = 387, [XorRePair] #XOR = 378
+Dec [5, 7, 8, 11]:
+  [NoComp] #XOR = 934, [RePair] #XOR = 388, [XorRePair] #XOR = 373
+Dec [5, 7, 8, 12]:
+  [NoComp] #XOR = 946, [RePair] #XOR = 397, [XorRePair] #XOR = 376
+Dec [5, 7, 8, 13]:
+  [NoComp] #XOR = 862, [RePair] #XOR = 384, [XorRePair] #XOR = 384
+Dec [5, 7, 9, 10]:
+  [NoComp] #XOR = 942, [RePair] #XOR = 406, [XorRePair] #XOR = 404
+Dec [5, 7, 9, 11]:
+  [NoComp] #XOR = 888, [RePair] #XOR = 381, [XorRePair] #XOR = 372
+Dec [5, 7, 9, 12]:
+  [NoComp] #XOR = 866, [RePair] #XOR = 373, [XorRePair] #XOR = 364
+Dec [5, 7, 9, 13]:
+  [NoComp] #XOR = 914, [RePair] #XOR = 393, [XorRePair] #XOR = 388
+Dec [5, 7, 10, 11]:
+  [NoComp] #XOR = 640, [RePair] #XOR = 286, [XorRePair] #XOR = 282
+Dec [5, 7, 10, 12]:
+  [NoComp] #XOR = 669, [RePair] #XOR = 274, [XorRePair] #XOR = 264
+Dec [5, 7, 10, 13]:
+  [NoComp] #XOR = 658, [RePair] #XOR = 269, [XorRePair] #XOR = 270
+Dec [5, 7, 11, 12]:
+  [NoComp] #XOR = 618, [RePair] #XOR = 226, [XorRePair] #XOR = 210
+Dec [5, 7, 11, 13]:
+  [NoComp] #XOR = 656, [RePair] #XOR = 221, [XorRePair] #XOR = 214
+Dec [5, 7, 12, 13]:
+  [NoComp] #XOR = 666, [RePair] #XOR = 213, [XorRePair] #XOR = 201
+Dec [5, 8, 9, 10]:
+  [NoComp] #XOR = 928, [RePair] #XOR = 398, [XorRePair] #XOR = 388
+Dec [5, 8, 9, 11]:
+  [NoComp] #XOR = 990, [RePair] #XOR = 403, [XorRePair] #XOR = 386
+Dec [5, 8, 9, 12]:
+  [NoComp] #XOR = 1014, [RePair] #XOR = 418, [XorRePair] #XOR = 392
+Dec [5, 8, 9, 13]:
+  [NoComp] #XOR = 942, [RePair] #XOR = 394, [XorRePair] #XOR = 391
+Dec [5, 8, 10, 11]:
+  [NoComp] #XOR = 639, [RePair] #XOR = 288, [XorRePair] #XOR = 282
+Dec [5, 8, 10, 12]:
+  [NoComp] #XOR = 648, [RePair] #XOR = 268, [XorRePair] #XOR = 267
+Dec [5, 8, 10, 13]:
+  [NoComp] #XOR = 643, [RePair] #XOR = 273, [XorRePair] #XOR = 270
+Dec [5, 8, 11, 12]:
+  [NoComp] #XOR = 624, [RePair] #XOR = 215, [XorRePair] #XOR = 202
+Dec [5, 8, 11, 13]:
+  [NoComp] #XOR = 658, [RePair] #XOR = 213, [XorRePair] #XOR = 207
+Dec [5, 8, 12, 13]:
+  [NoComp] #XOR = 672, [RePair] #XOR = 202, [XorRePair] #XOR = 200
+Dec [5, 9, 10, 11]:
+  [NoComp] #XOR = 612, [RePair] #XOR = 285, [XorRePair] #XOR = 282
+Dec [5, 9, 10, 12]:
+  [NoComp] #XOR = 622, [RePair] #XOR = 281, [XorRePair] #XOR = 280
+Dec [5, 9, 10, 13]:
+  [NoComp] #XOR = 630, [RePair] #XOR = 284, [XorRePair] #XOR = 280
+Dec [5, 9, 11, 12]:
+  [NoComp] #XOR = 644, [RePair] #XOR = 210, [XorRePair] #XOR = 205
+Dec [5, 9, 11, 13]:
+  [NoComp] #XOR = 626, [RePair] #XOR = 216, [XorRePair] #XOR = 213
+Dec [5, 9, 12, 13]:
+  [NoComp] #XOR = 630, [RePair] #XOR = 213, [XorRePair] #XOR = 208
+Dec [5, 10, 11, 12]:
+  [NoComp] #XOR = 282, [RePair] #XOR = 115, [XorRePair] #XOR = 115
+Dec [5, 10, 11, 13]:
+  [NoComp] #XOR = 248, [RePair] #XOR = 104, [XorRePair] #XOR = 104
+Dec [5, 10, 12, 13]:
+  [NoComp] #XOR = 166, [RePair] #XOR = 91, [XorRePair] #XOR = 91
+Dec [5, 11, 12, 13]:
+  [NoComp] #XOR = 72, [RePair] #XOR = 72, [XorRePair] #XOR = 72
+Dec [6, 7, 8, 9]:
+  [NoComp] #XOR = 1212, [RePair] #XOR = 510, [XorRePair] #XOR = 495
+Dec [6, 7, 8, 10]:
+  [NoComp] #XOR = 937, [RePair] #XOR = 405, [XorRePair] #XOR = 394
+Dec [6, 7, 8, 11]:
+  [NoComp] #XOR = 876, [RePair] #XOR = 366, [XorRePair] #XOR = 358
+Dec [6, 7, 8, 12]:
+  [NoComp] #XOR = 862, [RePair] #XOR = 366, [XorRePair] #XOR = 345
+Dec [6, 7, 8, 13]:
+  [NoComp] #XOR = 912, [RePair] #XOR = 399, [XorRePair] #XOR = 385
+Dec [6, 7, 9, 10]:
+  [NoComp] #XOR = 930, [RePair] #XOR = 411, [XorRePair] #XOR = 395
+Dec [6, 7, 9, 11]:
+  [NoComp] #XOR = 898, [RePair] #XOR = 389, [XorRePair] #XOR = 385
+Dec [6, 7, 9, 12]:
+  [NoComp] #XOR = 962, [RePair] #XOR = 398, [XorRePair] #XOR = 389
+Dec [6, 7, 9, 13]:
+  [NoComp] #XOR = 888, [RePair] #XOR = 396, [XorRePair] #XOR = 380
+Dec [6, 7, 10, 11]:
+  [NoComp] #XOR = 568, [RePair] #XOR = 268, [XorRePair] #XOR = 268
+Dec [6, 7, 10, 12]:
+  [NoComp] #XOR = 586, [RePair] #XOR = 256, [XorRePair] #XOR = 249
+Dec [6, 7, 10, 13]:
+  [NoComp] #XOR = 541, [RePair] #XOR = 257, [XorRePair] #XOR = 256
+Dec [6, 7, 11, 12]:
+  [NoComp] #XOR = 488, [RePair] #XOR = 200, [XorRePair] #XOR = 189
+Dec [6, 7, 11, 13]:
+  [NoComp] #XOR = 508, [RePair] #XOR = 198, [XorRePair] #XOR = 195
+Dec [6, 7, 12, 13]:
+  [NoComp] #XOR = 574, [RePair] #XOR = 200, [XorRePair] #XOR = 188
+Dec [6, 8, 9, 10]:
+  [NoComp] #XOR = 849, [RePair] #XOR = 394, [XorRePair] #XOR = 395
+Dec [6, 8, 9, 11]:
+  [NoComp] #XOR = 912, [RePair] #XOR = 387, [XorRePair] #XOR = 389
+Dec [6, 8, 9, 12]:
+  [NoComp] #XOR = 932, [RePair] #XOR = 393, [XorRePair] #XOR = 385
+Dec [6, 8, 9, 13]:
+  [NoComp] #XOR = 840, [RePair] #XOR = 372, [XorRePair] #XOR = 358
+Dec [6, 8, 10, 11]:
+  [NoComp] #XOR = 655, [RePair] #XOR = 288, [XorRePair] #XOR = 284
+Dec [6, 8, 10, 12]:
+  [NoComp] #XOR = 665, [RePair] #XOR = 275, [XorRePair] #XOR = 275
+Dec [6, 8, 10, 13]:
+  [NoComp] #XOR = 657, [RePair] #XOR = 270, [XorRePair] #XOR = 270
+Dec [6, 8, 11, 12]:
+  [NoComp] #XOR = 626, [RePair] #XOR = 224, [XorRePair] #XOR = 206
+Dec [6, 8, 11, 13]:
+  [NoComp] #XOR = 674, [RePair] #XOR = 223, [XorRePair] #XOR = 211
+Dec [6, 8, 12, 13]:
+  [NoComp] #XOR = 682, [RePair] #XOR = 218, [XorRePair] #XOR = 203
+Dec [6, 9, 10, 11]:
+  [NoComp] #XOR = 631, [RePair] #XOR = 299, [XorRePair] #XOR = 288
+Dec [6, 9, 10, 12]:
+  [NoComp] #XOR = 675, [RePair] #XOR = 285, [XorRePair] #XOR = 272
+Dec [6, 9, 10, 13]:
+  [NoComp] #XOR = 647, [RePair] #XOR = 277, [XorRePair] #XOR = 275
+Dec [6, 9, 11, 12]:
+  [NoComp] #XOR = 610, [RePair] #XOR = 220, [XorRePair] #XOR = 200
+Dec [6, 9, 11, 13]:
+  [NoComp] #XOR = 644, [RePair] #XOR = 216, [XorRePair] #XOR = 216
+Dec [6, 9, 12, 13]:
+  [NoComp] #XOR = 652, [RePair] #XOR = 206, [XorRePair] #XOR = 202
+Dec [6, 10, 11, 12]:
+  [NoComp] #XOR = 280, [RePair] #XOR = 116, [XorRePair] #XOR = 116
+Dec [6, 10, 11, 13]:
+  [NoComp] #XOR = 258, [RePair] #XOR = 105, [XorRePair] #XOR = 105
+Dec [6, 10, 12, 13]:
+  [NoComp] #XOR = 176, [RePair] #XOR = 92, [XorRePair] #XOR = 92
+Dec [6, 11, 12, 13]:
+  [NoComp] #XOR = 72, [RePair] #XOR = 72, [XorRePair] #XOR = 72
+Dec [7, 8, 9, 10]:
+  [NoComp] #XOR = 956, [RePair] #XOR = 408, [XorRePair] #XOR = 398
+Dec [7, 8, 9, 11]:
+  [NoComp] #XOR = 876, [RePair] #XOR = 372, [XorRePair] #XOR = 355
+Dec [7, 8, 9, 12]:
+  [NoComp] #XOR = 886, [RePair] #XOR = 378, [XorRePair] #XOR = 365
+Dec [7, 8, 9, 13]:
+  [NoComp] #XOR = 946, [RePair] #XOR = 400, [XorRePair] #XOR = 391
+Dec [7, 8, 10, 11]:
+  [NoComp] #XOR = 586, [RePair] #XOR = 275, [XorRePair] #XOR = 274
+Dec [7, 8, 10, 12]:
+  [NoComp] #XOR = 602, [RePair] #XOR = 271, [XorRePair] #XOR = 268
+Dec [7, 8, 10, 13]:
+  [NoComp] #XOR = 560, [RePair] #XOR = 259, [XorRePair] #XOR = 260
+Dec [7, 8, 11, 12]:
+  [NoComp] #XOR = 472, [RePair] #XOR = 186, [XorRePair] #XOR = 186
+Dec [7, 8, 11, 13]:
+  [NoComp] #XOR = 536, [RePair] #XOR = 195, [XorRePair] #XOR = 196
+Dec [7, 8, 12, 13]:
+  [NoComp] #XOR = 608, [RePair] #XOR = 200, [XorRePair] #XOR = 197
+Dec [7, 9, 10, 11]:
+  [NoComp] #XOR = 645, [RePair] #XOR = 287, [XorRePair] #XOR = 281
+Dec [7, 9, 10, 12]:
+  [NoComp] #XOR = 656, [RePair] #XOR = 281, [XorRePair] #XOR = 282
+Dec [7, 9, 10, 13]:
+  [NoComp] #XOR = 646, [RePair] #XOR = 269, [XorRePair] #XOR = 265
+Dec [7, 9, 11, 12]:
+  [NoComp] #XOR = 630, [RePair] #XOR = 222, [XorRePair] #XOR = 209
+Dec [7, 9, 11, 13]:
+  [NoComp] #XOR = 668, [RePair] #XOR = 230, [XorRePair] #XOR = 215
+Dec [7, 9, 12, 13]:
+  [NoComp] #XOR = 668, [RePair] #XOR = 214, [XorRePair] #XOR = 206
+Dec [7, 10, 11, 12]:
+  [NoComp] #XOR = 287, [RePair] #XOR = 115, [XorRePair] #XOR = 115
+Dec [7, 10, 11, 13]:
+  [NoComp] #XOR = 265, [RePair] #XOR = 107, [XorRePair] #XOR = 107
+Dec [7, 10, 12, 13]:
+  [NoComp] #XOR = 192, [RePair] #XOR = 92, [XorRePair] #XOR = 92
+Dec [7, 11, 12, 13]:
+  [NoComp] #XOR = 72, [RePair] #XOR = 72, [XorRePair] #XOR = 72
+Dec [8, 9, 10, 11]:
+  [NoComp] #XOR = 603, [RePair] #XOR = 277, [XorRePair] #XOR = 274
+Dec [8, 9, 10, 12]:
+  [NoComp] #XOR = 626, [RePair] #XOR = 291, [XorRePair] #XOR = 276
+Dec [8, 9, 10, 13]:
+  [NoComp] #XOR = 609, [RePair] #XOR = 270, [XorRePair] #XOR = 268
+Dec [8, 9, 11, 12]:
+  [NoComp] #XOR = 500, [RePair] #XOR = 182, [XorRePair] #XOR = 181
+Dec [8, 9, 11, 13]:
+  [NoComp] #XOR = 588, [RePair] #XOR = 202, [XorRePair] #XOR = 195
+Dec [8, 9, 12, 13]:
+  [NoComp] #XOR = 662, [RePair] #XOR = 204, [XorRePair] #XOR = 199
+Dec [8, 10, 11, 12]:
+  [NoComp] #XOR = 314, [RePair] #XOR = 117, [XorRePair] #XOR = 116
+Dec [8, 10, 11, 13]:
+  [NoComp] #XOR = 279, [RePair] #XOR = 105, [XorRePair] #XOR = 104
+Dec [8, 10, 12, 13]:
+  [NoComp] #XOR = 212, [RePair] #XOR = 92, [XorRePair] #XOR = 92
+Dec [8, 11, 12, 13]:
+  [NoComp] #XOR = 72, [RePair] #XOR = 72, [XorRePair] #XOR = 72
+Dec [9, 10, 11, 12]:
+  [NoComp] #XOR = 347, [RePair] #XOR = 115, [XorRePair] #XOR = 115
+Dec [9, 10, 11, 13]:
+  [NoComp] #XOR = 292, [RePair] #XOR = 102, [XorRePair] #XOR = 102
+Dec [9, 10, 12, 13]:
+  [NoComp] #XOR = 237, [RePair] #XOR = 92, [XorRePair] #XOR = 92
+Dec [9, 11, 12, 13]:
+  [NoComp] #XOR = 72, [RePair] #XOR = 72, [XorRePair] #XOR = 72
+Dec [10, 11, 12, 13]:
+This is a trivial case: We need no computation, and there is no statistics
