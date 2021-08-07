@@ -1,3 +1,15 @@
+# Notice
+
+* This is a repository for the research paper https://arxiv.org/abs/2108.02692
+* The paper is author's version of a paper accepted at SC'21 https://sc21.supercomputing.org/
+    * After it will be published, we will put a link to publisher's site here
+* There is an anonymized repository https://github.com/sc2021anonym/slp-ec of this repository for the AD/AE phase of SC'21
+    * that repository is prepared for submitting the paper because SC'21 adopted the double-blind review system.
+    * Please refer this author's repository for the latest information (the anonymized repository was frozen).
+
+All codes are very proof-of-concept.
+I'm currently working to prepare a solid erasure coding library based on the paper and also prepare a (API) docmentation.
+
 # For benchmarking ISA-L
 Please see the note: [HOWTO_BENCHMARK_ISAL.md](HOWTO_BENCHMARK_ISAL.md)
 
@@ -9,8 +21,8 @@ If you have not installed Rust, please see the official instruction: https://www
 
 ## Build
 ```
-$ git clone https://github.com/sc2021anonym/slp-ec
-$ cd slp-ec;
+$ git clone https://github.com/yuezato/xorslp_ec
+$ cd xorslp_ec;
 $ cargo build --release
 $ ./target/release/xorslp_ec --help
 xorslp_ec 0.1.0
